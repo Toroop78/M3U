@@ -56,3 +56,6 @@ https://live-202.zxz.su/LIVE/LIVE:317851/HLS/1609591816/0burBOt8N4ljTLreAZlMjA/l
 #EXTINF:-1, Победа
 #EXTGRP:Кино
 https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b2628000_slru.m3u8?hls_proxy_host=b1b1afbf267e0ec0e66706203ee525ae
+#EXTINF:-1, НТВ-Хит
+#EXTGRP:Кино
+https://mob3-ntv.cdnvideo.ru/ntv/smil:ntvair14.smil/chunklist_b1628000.m3u8?md5=0N2iNH8kYLizDpso6cMAig&e=1610195794&hls_proxy_host=pub5.rtmp.s01.l.ntv
