@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1, Победа
+#EXTGRP:Кино
+https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b2628000_slru.m3u8?hls_proxy_host=b1b1afbf267e0ec0e66706203ee525ae
 #EXTINF:-1 ,ULTO
 #EXTGRP:Кино
 http://ultotv.ru:8888/live/uhd/playlist.m3u8
