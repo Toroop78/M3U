@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 ,1 HD
+#EXTINF:-1 ,1
 #EXTGRP:Эфирные каналы
 https://mobdrm.1tv.ru/hls-live10/streams/1tv-dvr/1tv-4h3.m3u8?cdn=https://edge4.1internet.tv&netprav=/hls-vod11/streams/1tv/netprav.m3u8&e=1609573488&s=e5JG6Mvvsp7unP3q8Rdw24JJkctt%2Bl3qemkbHMgrDyQH2GtMWMs49JdLKe4gLr5Q2xrFqgEdVUUMvSZ0QnM9hmU%2BUC8NRCodAN6LInjIQS3ZLRH52wBQN3040iwh%2BwuRZy4bDrE0GXzc5kswd7JN4w4YMG3WIUN85sfTXX%2FlaT7ZK9Bb%2BrJRJFBBNjy6b%2BWUJxGvjcCe%2FFz7NA5mX9tLEVBmf4JhaAcfuPBAgQAJh5Phuwh6phE7D9RWFcFuqmoTfhVlKgC%2FJhtqyPNCUn0C1w%3D%3D
-#EXTINF:-1 ,Россия 1 HD
+#EXTINF:-1 ,Россия 1
 #EXTGRP:Эфирные каналы
 https://livehlsvgtrk2.cdnvideo.ru/hls/russia_hd/playlist_1.m3u8?md5=XR84UgFKsczMu69XLzsDmg&e=1609582080&hls_proxy_host=70b013ca21e8364cd537747cf862272b
 #EXTINF:-1 ,Матч! 
@@ -26,7 +26,7 @@ https://bl.webcaster.pro/media/playlist/free_805d6542d60b9ec7a46599db551c6872_hd
 #EXTINF:-1 ,ТВЦ
 #EXTGRP:Эфирные каналы
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/chunklist_b1703000.m3u8?hls_proxy_host=pub3.rtmp.s01.l.tvc
-#EXTINF:-1 ,Рен ТВ HD
+#EXTINF:-1 ,Рен ТВ
 #EXTGRP:Эфирные каналы
 https://mobdrm.mediavitrina.ru/hls-live2/streams/ren-tv/ren-tv-chunks-4.m3u8?cdn=https://nmglive.cdnvideo.ru&token=Ww6Y5YUs3QPuk0jVsCODnOcBZsqHmlDX62XjkMIKj6U.TGdNVfe4LCNwWwLcZQDkTq9osNKiYSlonmaBHhqEeTI.1609575124
 #EXTINF:-1 ,Спас
@@ -38,10 +38,10 @@ https://mobdrm.mediavitrina.ru/hls-live1/streams/ctc/ctc-chunks-4.m3u8?cdn=https
 #EXTINF:-1 ,Домашний
 #EXTGRP:Эфирные каналы
 https://mobdrm.mediavitrina.ru/hls-live1/streams/ctc-dom/ctc-dom-chunks-4.m3u8?cdn=https://ctc-live-megafon.mediavitrina.ru&token=JDS88o0rX0rX8ClH4C753YuwE7ZzofFILxQuhMfCnQo.FP-llQQfO69gWBk1s2eIvGbpPce4b86gPKd00ICQY08.1609576330
-#EXTINF:-1 ,ТВ-3
+#EXTINF:-1 ,ТВ3
 #EXTGRP:Эфирные каналы
 https://live-202.zxz.su/LIVE/LIVE:317846/HLS/1609594052/gkt-uRkJVZOPPrwJ_990tQ/live/317846_3/chunklist.m3u8
-#EXTINF:-1 ,Пятница!  HD
+#EXTINF:-1 ,Пятница!
 #EXTGRP:Эфирные каналы
 https://live-202.zxz.su/LIVE/LIVE:317844/HLS/1609593948/GOUE8ALFzBrjNvxE3PKyVg/live/317844_3/chunklist.m3u8
 #EXTINF:-1 ,Звезда
