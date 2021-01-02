@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1 ,ULTO
+#EXTGRP:Кино
+http://ultotv.ru:8888/live/uhd/playlist.m3u8
+#EXTINF:-1 ,VIP Comedy FHD
+#EXTGRP:Кино
+http://195.189.105.158:9050/132/index.m3u8
+#EXTINF:-1 ,VIP Megahit HD
+#EXTGRP:Кино
+http://195.189.105.158:9050/133/index.m3u8
