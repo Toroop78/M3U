@@ -51,6 +51,12 @@ http://185.245.187.150:80/Paramount/index.m3u8
 #EXTINF:-1,Paramount Comedy
 #EXTGRP:Кино
 http://185.245.187.150:80/ParamountComedy/index.m3u8
+#EXTINF:-1,SonySci-Fi
+#EXTGRP:Кино
+http://185.245.187.150:80/SonySci-Fi/index.m3u8
+#EXTINF:-1,Sony Turbo
+#EXTGRP:Кино
+http://185.245.187.150:80/SonyTurbo/index.m3u8
 #EXTINF:-1, Победа
 #EXTGRP:Кино
 https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b2628000_slru.m3u8?hls_proxy_host=b1b1afbf267e0ec0e66706203ee525ae
@@ -67,6 +73,15 @@ http://185.245.187.150:80/NationalGeographic/index.m3u8
 #EXTINF:-1,Ocean TV
 #EXTGRP:Познавательные
 http://185.245.187.150:80/OceanTV/index.m3u8
+#EXTINF:-1,Viasat Explorer
+#EXTGRP:Познавательные
+http://185.245.187.150:80/ViasatExplorer/index.m3u8
+#EXTINF:-1,Viasat History HD
+#EXTGRP:Познавательные
+http://185.245.187.150:80/ViasatHistory/index.m3u8
+#EXTINF:-1,Viasat Nature
+#EXTGRP:Познавательные
+http://185.245.187.150:80/ViasatNature/index.m3u8
 #EXTINF:-1,Охота и Рыбалка
 #EXTGRP:Познавательные
 http://serv30.vintera.tv:8081/restream/ohotarib/chunks.m3u8?nimblesessionid=311720817&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjEgMTE6MTA6NDAgQU0maGFzaF92YWx1ZT1raEwva2Roa3VSdG5kVnNja0RtckJnPT0mdmFsaWRtaW51dGVzPTQ4MA==
