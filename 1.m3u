@@ -60,16 +60,34 @@ http://185.245.187.150:80/SonyTurbo/index.m3u8
 #EXTINF:-1,Zee TV
 #EXTGRP:Кино
 http://185.245.187.150:80/ZeeTV/index.m3u8
-#EXTINF:-1, Победа
+#EXTINF:-1,ДОМ КИНО
 #EXTGRP:Кино
-https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b2628000_slru.m3u8?hls_proxy_host=b1b1afbf267e0ec0e66706203ee525ae
+http://185.74.7.220:8080/domkino/mpegts
+#EXTINF:-1,КИНОПОКАЗ
+#EXTGRP:Кино
+http://185.74.7.220:8080/kinopokaz/mpegts
+#EXTINF:-1,КИНОПРЕМЬЕРА_HD
+#EXTGRP:Кино
+http://185.74.7.220:8080/kinopremyera/mpegts
+#EXTINF:-1,КИНОСВИДАНИЕ
+#EXTGRP:Кино
+http://185.74.7.220:8080/kinosvidanie/mpegts
+#EXTINF:-1,РОДНОЕ КИНО
+#EXTGRP:Кино
+http://185.74.7.220:8080/rodnoekino/mpegts
 #EXTINF:-1,Кино UHD
 #EXTGRP:Кино
 http://188.35.9.26:16050/udp/238.0.16.1:69000
 #EXTINF:-1,Остросюжетное HD
 #EXTGRP:Кино
 http://188.35.9.26:14050/udp/238.0.14.3:69000?codec=mpeg4
+#EXTINF:-1, Победа
+#EXTGRP:Кино
+https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b2628000_slru.m3u8?hls_proxy_host=b1b1afbf267e0ec0e66706203ee525ae
 
+#EXTINF:-1,ANIMAL PLANET HD
+#EXTGRP:Познавательные
+http://185.74.7.220:8080/animal/mpegts
 #EXTINF:-1,National Geographic
 #EXTGRP:Познавательные
 http://185.245.187.150:80/NationalGeographic/index.m3u8
