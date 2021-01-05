@@ -11,9 +11,6 @@ https://a3569456506-s26881.cdn.ngenix.net/hls/russia_k/playlist_1.m3u8
 #EXTINF:-1 ,Россия 24
 #EXTGRP:Эфирные каналы
 https://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_1.m3u8
-#EXTINF:-1 ,ОТР
-#EXTGRP:Эфирные каналы
-https://bl.webcaster.pro/media/playlist/free_805d6542d60b9ec7a46599db551c6872_hd/5_2972636396/720p/93d21bd454118bed9ae29d88dac0ceef/1609617887.m3u8?seek=1609574642&live=15&ref=https%3A%2F%2Fotr-online.ru%2F
 #EXTINF:-1 ,ТВЦ
 #EXTGRP:Эфирные каналы
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/chunklist_b1703000.m3u8?hls_proxy_host=pub3.rtmp.s01.l.tvc
@@ -29,21 +26,9 @@ https://mobdrm.mediavitrina.ru/hls-live1/streams/ctc/ctc-chunks-4.m3u8?cdn=https
 #EXTINF:-1 ,Домашний
 #EXTGRP:Эфирные каналы
 https://mobdrm.mediavitrina.ru/hls-live1/streams/ctc-dom/ctc-dom-chunks-4.m3u8?cdn=https://ctc-live-megafon.mediavitrina.ru&token=JDS88o0rX0rX8ClH4C753YuwE7ZzofFILxQuhMfCnQo.FP-llQQfO69gWBk1s2eIvGbpPce4b86gPKd00ICQY08.1609576330
-#EXTINF:-1 ,ТВ3
-#EXTGRP:Эфирные каналы
-https://live-202.zxz.su/LIVE/LIVE:317846/HLS/1609594052/gkt-uRkJVZOPPrwJ_990tQ/live/317846_3/chunklist.m3u8
-#EXTINF:-1 ,Пятница!
-#EXTGRP:Эфирные каналы
-https://live-202.zxz.su/LIVE/LIVE:317844/HLS/1609593948/GOUE8ALFzBrjNvxE3PKyVg/live/317844_3/chunklist.m3u8
 #EXTINF:-1 ,Звезда
 #EXTGRP:Эфирные каналы
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 ,Мир
-#EXTGRP:Эфирные каналы
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.mirtv
-#EXTINF:-1 ,ТНТ
-#EXTGRP:Эфирные каналы
-https://live-202.zxz.su/LIVE/LIVE:317851/HLS/1609591816/0burBOt8N4ljTLreAZlMjA/live/317851_3/chunklist.m3u8
 #EXTINF:-1, Победа
 #EXTGRP:Кино
 https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b2628000_slru.m3u8?hls_proxy_host=b1b1afbf267e0ec0e66706203ee525ae
