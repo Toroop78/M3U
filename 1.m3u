@@ -30,6 +30,13 @@ https://mobdrm.mediavitrina.ru/hls-live1/streams/ctc-dom/ctc-dom-chunks-4.m3u8?c
 #EXTGRP:Эфирные каналы
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 
+#EXTINF:-1,Amedia1
+#EXTGRP:Кино
+http://185.245.187.150:80/Amedia1/index.m3u8
+#EXTINF:-1,Amedia2
+#EXTGRP:Кино
+http://185.245.187.150:80/Amedia2/index.m3u8
+
 #EXTINF:-1, Победа
 #EXTGRP:Кино
 https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b2628000_slru.m3u8?hls_proxy_host=b1b1afbf267e0ec0e66706203ee525ae
