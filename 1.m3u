@@ -59,3 +59,5 @@ https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b2628000_slru.m3
 #EXTINF:-1, НТВ-Хит
 #EXTGRP:Кино
 https://mob3-ntv.cdnvideo.ru/ntv/smil:ntvair14.smil/chunklist_b1628000.m3u8?md5=0N2iNH8kYLizDpso6cMAig&e=1610195794&hls_proxy_host=pub5.rtmp.s01.l.ntv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="" group-title="",Кино UHD
+http://188.35.9.26:16050/udp/238.0.16.1:69000
