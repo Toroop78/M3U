@@ -1,16 +1,7 @@
 #EXTM3U
-#EXTINF:-1 ,1
-#EXTGRP:Эфирные каналы
-https://mobdrm.1tv.ru/hls-live10/streams/1tv-dvr/1tv-4h3.m3u8?cdn=https://edge4.1internet.tv&netprav=/hls-vod11/streams/1tv/netprav.m3u8&e=1609589777&s=MuhcWjBM0Kr9eFPGoDkWd4JJkctt%2Bl3qemkbHMgrDyQH2GtMWMs49JdLKe4gLr5Q2xrFqgEdVUUMvSZ0QnM9hmU%2BUC8NRCodAN6LInjIQS3ZLRH52wBQN3040iwh%2BwuRZy4bDrE0GXzc5kswd7JN4w4YMG3WIUN85sfTXX%2FlaT7ZK9Bb%2BrJRJFBBNjy6b%2BWUJxGvjcCe%2FFz7NA5mX9tLEVBmf4JhaAcfuPBAgQAJh5Phuwh6phE7D9RWFcFuqmoTrwEIIj1wit4mmhIyej2U6Q%3D%3D
 #EXTINF:-1 ,Россия 1
 #EXTGRP:Эфирные каналы
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist.m3u8
-#EXTINF:-1 ,Матч! 
-#EXTGRP:Эфирные каналы
-https://live-202.zxz.su/LIVE/LIVE:133529/HLS/1609588224/GR60K_vuTAG0QjFRp3Vw7Q/live/133529_1/chunklist.m3u8
-#EXTINF:-1 ,НТВ
-#EXTGRP:Эфирные каналы
-https://mob3-ntv.cdnvideo.ru/ntv3/smil:ntvair007.smil/chunklist_b1628000.m3u8?md5=ul_dXaNAjD3V4gk5PEtBPw&e=1610178846&hls_proxy_host=pub5.rtmp.s01.l.ntv
 #EXTINF:-1 ,5 канал
 #EXTGRP:Эфирные каналы
 https://mobdrm.mediavitrina.ru/hls-live1/streams/tv-5/tv-5-chunks-1.m3u8?cdn=https://nmg-live-megafon.mediavitrina.ru&token=L_cMfYez5MyKMwIIKB0nkUObIyrVdKnh5tLLinasAl0.mowrtCrHr-aBgXt_Mjj0b056TQsYaJI_NxyK-DYC6ck.1609574370
