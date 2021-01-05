@@ -29,6 +29,7 @@ https://mobdrm.mediavitrina.ru/hls-live1/streams/ctc-dom/ctc-dom-chunks-4.m3u8?c
 #EXTINF:-1 ,Звезда
 #EXTGRP:Эфирные каналы
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+
 #EXTINF:-1, Победа
 #EXTGRP:Кино
 https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b2628000_slru.m3u8?hls_proxy_host=b1b1afbf267e0ec0e66706203ee525ae
@@ -41,3 +42,13 @@ http://188.35.9.26:16050/udp/238.0.16.1:69000
 #EXTINF:-1,Остросюжетное HD
 #EXTGRP:Кино
 http://188.35.9.26:14050/udp/238.0.14.3:69000?codec=mpeg4
+
+#EXTINF:-1,Охотник и Рыболов
+#EXTGRP:Развлекательные
+https://strm.yandex.ru/kal/ohotnik/ysign1=58ad5b48818136aada61a9fcdd3e12eb1aba3e2c6690a4615ab5278f369bdfa1,dar=169,end=1609841700,pfx,res=1080,sfx,start=1609840500,ts=6001d0f4/index-v1-a1.m3u8?vsid=2b593dbd62d477110a55699745347df935a0192f8cf9xWEBx5779x1609840724&adsid=c51108a200234e2ee86ec01fdca9bc6152996a3a4acfxWEBx5779x1609840647&gzip=1&partner_id=191302&reqid=1609840718.84539.75441.1029802&target_ref=https%3A%2F%2Fyastatic.net&uuid=4d3f5b2fffc698928c1c8f196fbe4665&from=efir_touch
+#EXTINF:-1,Диалоги о рыбалке
+#EXTGRP:Развлекательные
+https://strm.yandex.ru/kal/dialogi/ysign1=18a8a1682f854678e821e130fae2a560fcfa6f6e7b9f41c84c3140bfcb060432,dar=169,end=1609841940,pfx,res=1080,sfx,start=1609840500,ts=6001c2d8/index-v1-a1.m3u8?vsid=5f2de8c35d2ef6c6300b14378bc886680981de98e0f0xWEBx5779x1609841410&adsid=c51108a200234e2ee86ec01fdca9bc6152996a3a4acfxWEBx5779x1609840647&gzip=1&partner_id=405593&reqid=1609841386.52001.75421.955552&target_ref=https%3A%2F%2Fyastatic.net&uuid=435c416a2a624c1fb5ad57311ea575b7&from=efir_touch
+#EXTINF:-1,Загородный
+#EXTGRP:Развлекательные
+https://strm.yandex.ru/kal/zagorod/ysign1=d3a557f32ad76d507c5aca2e3851924b95f9fe389e8e37c1e9bb93499cb1e097,dar=169,end=1609842300,pfx,res=1080,sfx,start=1609840800,ts=60017c49/index-v1-a1.m3u8?vsid=eed4903416c8fd395d17afc60303aba23eb25a788cfbxWEBx5779x1609841092&adsid=c51108a200234e2ee86ec01fdca9bc6152996a3a4acfxWEBx5779x1609840647&gzip=1&partner_id=261608&reqid=1609841078.0545.75401.817046&target_ref=https%3A%2F%2Fyastatic.net&uuid=4cb7e19cff0c09dca940edf26108b9b6&from=efir_touch
