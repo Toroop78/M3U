@@ -45,15 +45,15 @@ http://185.245.187.150:80/Fox/index.m3u8
 #EXTINF:-1,Mir Seriala
 #EXTGRP:Кино
 http://185.245.187.150:80/MirSeriala/index.m3u8
+#EXTINF:-1,НСТ
+#EXTGRP:Кино
+http://91.206.19.123:4022/udp/225.0.55.76:1234
 #EXTINF:-1,Paramount
 #EXTGRP:Кино
 http://185.245.187.150:80/Paramount/index.m3u8
-#EXTINF:-1,Paramount Comedy
-#EXTGRP:Кино
-http://185.245.187.150:80/ParamountComedy/index.m3u8
 #EXTINF:-1,SonySci-Fi
 #EXTGRP:Кино
-http://185.245.187.150:80/SonySci-Fi/index.m3u8
+http://91.206.19.123:4022/udp/225.0.55.73:1234
 #EXTINF:-1,Sony Turbo
 #EXTGRP:Кино
 http://185.245.187.150:80/SonyTurbo/index.m3u8
@@ -72,6 +72,9 @@ http://185.74.7.220:8080/domkino/mpegts
 #EXTINF:-1,Кино UHD
 #EXTGRP:Кино
 http://188.35.9.26:16050/udp/238.0.16.1:69000
+#EXTINF:-1,КИНОКОМЕДИЯ
+#EXTGRP:Кино
+http://91.206.19.123:4022/udp/225.0.55.39:1234
 #EXTINF:-1,КИНОПОКАЗ
 #EXTGRP:Кино
 http://185.74.7.220:8080/kinopokaz/mpegts
@@ -81,9 +84,11 @@ http://185.74.7.220:8080/kinopremyera/mpegts
 #EXTINF:-1,КИНОСВИДАНИЕ
 #EXTGRP:Кино
 http://185.74.7.220:8080/kinosvidanie/mpegts
-#EXTINF:-1,Наше новое кино
+#EXTINF:-1,КИНОСЕРИЯ
+http://91.206.19.123:4022/udp/225.0.55.77:1234
+#EXTINF:-1,НАШЕ НОВОЕ КИНО
 #EXTGRP:Кино
-http://185.112.140.28:80/Nashe_Novoe_Kino/index.m3u8?em9uYS1pcHR2LnJ1Lw
+http://91.206.19.123:4022/udp/225.0.55.69:1234
 #EXTINF:-1,Остросюжетное HD
 #EXTGRP:Кино
 http://188.35.9.26:14050/udp/238.0.14.3:69000?codec=mpeg4
@@ -93,6 +98,9 @@ https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b2628000_slru.m3
 #EXTINF:-1,Родное Кино
 #EXTGRP:Кино
 http://185.74.7.220:8080/rodnoekino/mpegts
+#EXTINF:-1,РУССКАЯ КОМЕДИЯ
+#EXTGRP:Кино
+http://91.206.19.123:4022/udp/225.0.55.94:1234
 #EXTINF:-1,СТС LOVE
 #EXTGRP:Кино
 http://91.206.19.123:4022/udp/225.0.55.5:1234
@@ -112,12 +120,12 @@ http://185.74.7.220:8080/techno_24/mpegts
 #EXTINF:-1,Viasat Explorer
 #EXTGRP:Познавательные
 http://91.206.19.123:4022/udp/225.0.55.47:1234
-#EXTINF:-1,Viasat History HD
+#EXTINF:-1,Viasat History
 #EXTGRP:Познавательные
 http://91.206.19.123:4022/udp/225.0.55.27:1234
 #EXTINF:-1,Viasat Nature
 #EXTGRP:Познавательные
-http://185.245.187.150:80/ViasatNature/index.m3u8
+http://91.206.19.123:4022/udp/225.0.55.57:1234
 #EXTINF:-1,МОЯ ПЛАНЕТА
 #EXTGRP:Познавательные
 http://91.206.19.123:4022/udp/225.0.55.18:1234
@@ -127,3 +135,11 @@ http://serv30.vintera.tv:8081/restream/ohotarib/chunks.m3u8?nimblesessionid=3117
 #EXTINF:-1,Под водой
 #EXTGRP:Познавательные
 http://serv30.vintera.tv:8081/restream/podvodoi/chunks.m3u8?nimblesessionid=311709937&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjEgMTA6NTg6MDAgQU0maGFzaF92YWx1ZT1jNmxOSzlaWWpQSWQwcUoxS3ZURXJnPT0mdmFsaWRtaW51dGVzPTQ4MA==
+
+
+#EXTINF:-1,БОКС ТВ
+#EXTGRP:Спорт
+http://91.206.19.123:4022/udp/225.0.55.50:1234
+#EXTINF:-1,КХЛ ТВ
+#EXTGRP:Спорт
+http://91.206.19.123:4022/udp/225.0.55.42:1234
