@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1,ПЕРВЫЙ КАНАЛ
+#EXTGRP:Эфирные каналы
+http://91.206.19.123:4022/udp/225.0.56.1:1234
 #EXTINF:-1 ,Россия 1
 #EXTGRP:Эфирные каналы
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist.m3u8
@@ -69,6 +72,12 @@ http://91.206.19.123:4022/udp/225.0.55.25:1234
 #EXTINF:-1,Дом Кино
 #EXTGRP:Кино
 http://185.74.7.220:8080/domkino/mpegts
+#EXTINF:-1,ЕВРОКИНО
+#EXTGRP:Кино
+http://91.206.19.123:4022/udp/225.0.55.189:1234
+#EXTINF:-1,ИЛЛЮЗИОН+
+#EXTGRP:Кино
+http://91.206.19.123:4022/udp/225.0.55.188:1234
 #EXTINF:-1,Кино UHD
 #EXTGRP:Кино
 http://188.35.9.26:16050/udp/238.0.16.1:69000
@@ -86,6 +95,9 @@ http://185.74.7.220:8080/kinopremyera/mpegts
 http://185.74.7.220:8080/kinosvidanie/mpegts
 #EXTINF:-1,КИНОСЕРИЯ
 http://91.206.19.123:4022/udp/225.0.55.77:1234
+#EXTINF:-1,МОСФИЛЬМ ЗОЛОТАЯ КОЛЛЕКЦИЯ
+#EXTGRP:Кино
+http://91.206.19.123:4022/udp/225.0.56.27:1234
 #EXTINF:-1,НАШЕ НОВОЕ КИНО
 #EXTGRP:Кино
 http://91.206.19.123:4022/udp/225.0.55.69:1234
@@ -95,12 +107,21 @@ http://188.35.9.26:14050/udp/238.0.14.3:69000?codec=mpeg4
 #EXTINF:-1, Победа
 #EXTGRP:Кино
 https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b2628000_slru.m3u8?hls_proxy_host=b1b1afbf267e0ec0e66706203ee525ae
-#EXTINF:-1,Родное Кино
+#EXTINF:-1,РОДНОЕ КИНО
 #EXTGRP:Кино
-http://185.74.7.220:8080/rodnoekino/mpegts
+http://91.206.19.123:4022/udp/225.0.55.192:1234
 #EXTINF:-1,РУССКАЯ КОМЕДИЯ
 #EXTGRP:Кино
 http://91.206.19.123:4022/udp/225.0.55.94:1234
+#EXTINF:-1,РУССКИЙ ДЕТЕКТИВ
+#EXTGRP:Кино
+http://91.206.19.123:4022/udp/225.0.55.179:1234
+#EXTINF:-1,РУССКИЙ БЕСТСЕЛЛЕР
+#EXTGRP:Кино
+http://91.206.19.123:4022/udp/225.0.55.180:1234
+#EXTINF:-1,РУССКИЙ ИЛЛЮЗИОН
+#EXTGRP:Кино
+http://91.206.19.123:4022/udp/225.0.55.185:1234
 #EXTINF:-1,СТС LOVE
 #EXTGRP:Кино
 http://91.206.19.123:4022/udp/225.0.55.5:1234
@@ -129,13 +150,15 @@ http://91.206.19.123:4022/udp/225.0.55.57:1234
 #EXTINF:-1,МОЯ ПЛАНЕТА
 #EXTGRP:Познавательные
 http://91.206.19.123:4022/udp/225.0.55.18:1234
-#EXTINF:-1,Охота и Рыбалка
+#EXTINF:-1,ИСТОРИЯ
 #EXTGRP:Познавательные
-http://serv30.vintera.tv:8081/restream/ohotarib/chunks.m3u8?nimblesessionid=311720817&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjEgMTE6MTA6NDAgQU0maGFzaF92YWx1ZT1raEwva2Roa3VSdG5kVnNja0RtckJnPT0mdmFsaWRtaW51dGVzPTQ4MA==
-#EXTINF:-1,Под водой
+http://91.206.19.123:4022/udp/225.0.55.138:1234
+#EXTINF:-1,ЖИВАЯ ПЛАНЕТА
 #EXTGRP:Познавательные
-http://serv30.vintera.tv:8081/restream/podvodoi/chunks.m3u8?nimblesessionid=311709937&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjEgMTA6NTg6MDAgQU0maGFzaF92YWx1ZT1jNmxOSzlaWWpQSWQwcUoxS3ZURXJnPT0mdmFsaWRtaW51dGVzPTQ4MA==
-
+http://91.206.19.123:4022/udp/225.0.55.148:1234
+#EXTINF:-1,ОРУЖИЕ
+#EXTGRP:Познавательные
+http://91.206.19.123:4022/udp/225.0.55.106:1234
 
 #EXTINF:-1,БОКС ТВ
 #EXTGRP:Спорт
