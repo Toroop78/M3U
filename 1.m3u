@@ -32,7 +32,7 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 
 #EXTINF:-1,Amedia1
 #EXTGRP:Кино
-http://185.245.187.150:80/Amedia1/index.m3u8
+http://91.206.19.123:4022/udp/225.0.55.38:1234
 #EXTINF:-1,Amedia2
 #EXTGRP:Кино
 http://185.245.187.150:80/Amedia2/index.m3u8
@@ -65,7 +65,7 @@ http://185.74.7.220:8080/TV1000/mpegts
 http://185.74.7.220:8080/tv1000ru/mpegts
 #EXTINF:-1,Zee TV
 #EXTGRP:Кино
-http://185.245.187.150:80/ZeeTV/index.m3u8
+http://91.206.19.123:4022/udp/225.0.55.25:1234
 #EXTINF:-1,Дом Кино
 #EXTGRP:Кино
 http://185.74.7.220:8080/domkino/mpegts
@@ -93,10 +93,13 @@ https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b2628000_slru.m3
 #EXTINF:-1,Родное Кино
 #EXTGRP:Кино
 http://185.74.7.220:8080/rodnoekino/mpegts
+#EXTINF:-1,СТС LOVE
+#EXTGRP:Кино
+http://91.206.19.123:4022/udp/225.0.55.5:1234
 
 #EXTINF:-1,ANIMAL PLANET HD
 #EXTGRP:Познавательные
-http://185.74.7.220:8080/animal/mpegts
+http://91.206.19.123:4022/udp/225.0.55.21:1234
 #EXTINF:-1,National Geographic
 #EXTGRP:Познавательные
 http://185.245.187.150:80/NationalGeographic/index.m3u8
@@ -108,13 +111,16 @@ http://185.245.187.150:80/OceanTV/index.m3u8
 http://185.74.7.220:8080/techno_24/mpegts
 #EXTINF:-1,Viasat Explorer
 #EXTGRP:Познавательные
-http://185.245.187.150:80/ViasatExplorer/index.m3u8
+http://91.206.19.123:4022/udp/225.0.55.47:1234
 #EXTINF:-1,Viasat History HD
 #EXTGRP:Познавательные
-http://185.245.187.150:80/ViasatHistory/index.m3u8
+http://91.206.19.123:4022/udp/225.0.55.27:1234
 #EXTINF:-1,Viasat Nature
 #EXTGRP:Познавательные
 http://185.245.187.150:80/ViasatNature/index.m3u8
+#EXTINF:-1,МОЯ ПЛАНЕТА
+#EXTGRP:Познавательные
+http://91.206.19.123:4022/udp/225.0.55.18:1234
 #EXTINF:-1,Охота и Рыбалка
 #EXTGRP:Познавательные
 http://serv30.vintera.tv:8081/restream/ohotarib/chunks.m3u8?nimblesessionid=311720817&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjEgMTE6MTA6NDAgQU0maGFzaF92YWx1ZT1raEwva2Roa3VSdG5kVnNja0RtckJnPT0mdmFsaWRtaW51dGVzPTQ4MA==
