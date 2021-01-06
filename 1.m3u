@@ -42,6 +42,9 @@ http://185.245.187.150:80/Amedia2/index.m3u8
 #EXTINF:-1,Bollywood HD
 #EXTGRP:Кино
 http://185.245.187.150:80/Bollywood/index.m3u8
+#EXTINF:-1,CINEMA
+#EXTGRP:Кино
+http://91.206.19.123:4022/udp/225.0.55.115:1234
 #EXTINF:-1,Fox HD
 #EXTGRP:Кино
 http://185.245.187.150:80/Fox/index.m3u8
@@ -101,6 +104,9 @@ http://91.206.19.123:4022/udp/225.0.56.27:1234
 #EXTINF:-1,НАШЕ НОВОЕ КИНО
 #EXTGRP:Кино
 http://91.206.19.123:4022/udp/225.0.55.69:1234
+#EXTINF:-1,НТВ ХИТ
+#EXTGRP:Кино
+http://91.206.19.123:4022/udp/225.0.55.110:1234
 #EXTINF:-1,Остросюжетное HD
 #EXTGRP:Кино
 http://188.35.9.26:14050/udp/238.0.14.3:69000?codec=mpeg4
