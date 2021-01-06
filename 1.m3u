@@ -35,19 +35,27 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 
 #EXTINF:-1,Amedia1
 #EXTGRP:Кино
-http://91.206.19.123:4022/udp/225.0.55.38:1234
+http://91.206.19.123:4022/udp/225.0.56.9:1234
 #EXTINF:-1,Amedia2
 #EXTGRP:Кино
 http://185.245.187.150:80/Amedia2/index.m3u8
+#EXTINF:-1,AMEDIA PREMIUM
+#EXTGRP:Кино
+http://91.206.19.123:4022/udp/225.0.56.10:1234
 #EXTINF:-1,Bollywood HD
 #EXTGRP:Кино
 http://185.245.187.150:80/Bollywood/index.m3u8
 #EXTINF:-1,CINEMA
 #EXTGRP:Кино
 http://91.206.19.123:4022/udp/225.0.55.115:1234
-#EXTINF:-1,Fox HD
+#EXTINF:-1,Fox
 #EXTGRP:Кино
-http://185.245.187.150:80/Fox/index.m3u8
+http://91.206.19.123:4022/udp/225.0.56.5:1234
+#EXTINF:-1,FOX LIFE
+#EXTGRP:Кино
+http://91.206.19.123:4022/udp/225.0.56.6:1234
+#EXTINF:-1,HOLLYWOOD HD
+http://91.206.19.123:4022/udp/225.0.56.12:1234
 #EXTINF:-1,Mir Seriala
 #EXTGRP:Кино
 http://185.245.187.150:80/MirSeriala/index.m3u8
@@ -57,6 +65,8 @@ http://91.206.19.123:4022/udp/225.0.55.76:1234
 #EXTINF:-1,Paramount
 #EXTGRP:Кино
 http://185.245.187.150:80/Paramount/index.m3u8
+#EXTINF:-1,PARAMOUNT COMEDY
+http://91.206.19.123:4022/udp/225.0.56.15:1234
 #EXTINF:-1,SonySci-Fi
 #EXTGRP:Кино
 http://91.206.19.123:4022/udp/225.0.55.73:1234
@@ -69,6 +79,13 @@ http://185.74.7.220:8080/TV1000/mpegts
 #EXTINF:-1,TV 1000 Ru Kino
 #EXTGRP:Кино
 http://185.74.7.220:8080/tv1000ru/mpegts
+#EXTINF:-1,VIP PREMIERE HD
+http://91.206.19.123:4022/udp/225.0.56.13:1234
+#EXTINF:-1,VIP COMEDY HD
+http://91.206.19.123:4022/udp/225.0.56.14:1234
+#EXTINF:-1,VIP MEGAHIT
+#EXTGRP:Кино
+http://91.206.19.123:4022/udp/225.0.56.3:1234
 #EXTINF:-1,Zee TV
 #EXTGRP:Кино
 http://91.206.19.123:4022/udp/225.0.55.25:1234
@@ -84,6 +101,9 @@ http://91.206.19.123:4022/udp/225.0.55.188:1234
 #EXTINF:-1,Кино UHD
 #EXTGRP:Кино
 http://188.35.9.26:16050/udp/238.0.16.1:69000
+#EXTINF:-1,КИНО ТВ
+#EXTGRP:Кино
+http://91.206.19.123:4022/udp/225.0.56.4:1234
 #EXTINF:-1,КИНОКОМЕДИЯ
 #EXTGRP:Кино
 http://91.206.19.123:4022/udp/225.0.55.39:1234
@@ -135,12 +155,21 @@ http://91.206.19.123:4022/udp/225.0.55.5:1234
 #EXTINF:-1,ANIMAL PLANET HD
 #EXTGRP:Познавательные
 http://91.206.19.123:4022/udp/225.0.55.21:1234
-#EXTINF:-1,National Geographic
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://91.206.19.123:4022/udp/225.0.56.23:1234
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://91.206.19.123:4022/udp/225.0.56.24:1234
+#EXTINF:-1,NATIONAL GEOGRAPHIC CHANNEL HD
 #EXTGRP:Познавательные
-http://185.245.187.150:80/NationalGeographic/index.m3u8
+http://91.206.19.123:4022/udp/225.0.56.30:1234
+#EXTINF:-1,NAT GEO WILD HD
+http://91.206.19.123:4022/udp/225.0.56.25:1234
 #EXTINF:-1,Ocean TV
 #EXTGRP:Познавательные
 http://185.245.187.150:80/OceanTV/index.m3u8
+#EXTINF:-1,SONY CHANNEL HD
+#EXTGRP:Познавательные
+http://91.206.19.123:4022/udp/225.0.56.7:1234
 #EXTINF:-1,T24
 #EXTGRP:Познавательные
 http://185.74.7.220:8080/techno_24/mpegts
@@ -153,6 +182,9 @@ http://91.206.19.123:4022/udp/225.0.55.27:1234
 #EXTINF:-1,Viasat Nature
 #EXTGRP:Познавательные
 http://91.206.19.123:4022/udp/225.0.55.57:1234
+#EXTINF:-1,ДИКАЯ ОХОТА HD
+#EXTGRP:Познавательные
+http://91.206.19.123:4022/udp/225.0.56.29:1234
 #EXTINF:-1,МОЯ ПЛАНЕТА
 #EXTGRP:Познавательные
 http://91.206.19.123:4022/udp/225.0.55.18:1234
@@ -165,10 +197,46 @@ http://91.206.19.123:4022/udp/225.0.55.148:1234
 #EXTINF:-1,ОРУЖИЕ
 #EXTGRP:Познавательные
 http://91.206.19.123:4022/udp/225.0.55.106:1234
+#EXTINF:-1,ОХОТНИК И РЫБОЛОВ HD
+#EXTGRP:Познавательные
+http://91.206.19.123:4022/udp/225.0.56.31:1234
+#EXTINF:-1,ПРИКЛЮЧЕНИЯ HD
+#EXTGRP:Познавательные
+http://91.206.19.123:4022/udp/225.0.56.28:1234
 
-#EXTINF:-1,БОКС ТВ
+#EXTINF:-1,EUROSPORT 1 HD
 #EXTGRP:Спорт
-http://91.206.19.123:4022/udp/225.0.55.50:1234
-#EXTINF:-1,КХЛ ТВ
+http://91.206.19.123:4022/udp/225.0.56.33:1234
+#EXTINF:-1,EUROSPORT 2 HD
 #EXTGRP:Спорт
-http://91.206.19.123:4022/udp/225.0.55.42:1234
+http://91.206.19.123:4022/udp/225.0.56.53:1234
+#EXTINF:-1,КХЛ HD
+#EXTGRP:Спорт
+http://91.206.19.123:4022/udp/225.0.56.38:1234
+#EXTINF:-1,МАТЧ! HD
+#EXTGRP:Спорт
+http://91.206.19.123:4022/udp/225.0.56.37:1234
+#EXTINF:-1,МАТЧ! АРЕНА HD
+#EXTGRP:Спорт
+http://91.206.19.123:4022/udp/225.0.56.35:1234
+#EXTINF:-1,МАТЧ! ИГРА HD
+#EXTGRP:Спорт
+http://91.206.19.123:4022/udp/225.0.56.61:1234
+#EXTINF:-1,МАТЧ! ПРЕМЬЕР HD
+#EXTGRP:Спорт
+http://91.206.19.123:4022/udp/225.0.56.94:1234
+#EXTINF:-1,ФУТБОЛ HD
+#EXTGRP:Спорт
+http://91.206.19.123:4022/udp/225.0.56.63:1234
+#EXTINF:-1,МАТЧ! ФУТБОЛ 1 HD
+#EXTGRP:Спорт
+http://91.206.19.123:4022/udp/225.0.56.60:1234
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2 HD
+#EXTGRP:Спорт
+http://91.206.19.123:4022/udp/225.0.56.62:1234
+#EXTINF:-1,МАТЧ! ФУТБОЛ 3 HD
+#EXTGRP:Спорт
+http://91.206.19.123:4022/udp/225.0.56.69:1234
+#EXTINF:-1,VIASAT SPORT HD
+#EXTGRP:Спорт
+http://91.206.19.123:4022/udp/225.0.56.68:1234
