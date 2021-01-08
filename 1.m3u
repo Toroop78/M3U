@@ -297,3 +297,49 @@ http://89.106.234.3:80/Rodnoe_kino_34_35.m3u8
 #EXTGRP:Кино
 #EXTINF:-1,Супер
 #EXTGRP:Кино
+
+#EXTINF:-1 ,21 (15 HD) канал
+#EXTGRP:Спортивные
+#EXTINF:-1 ,Eurosport 1 HD
+#EXTGRP:Спортивные
+#EXTINF:-1 ,Eurosport 2 HD
+#EXTGRP:Спортивные
+#EXTINF:-1 ,M1 Global HD
+#EXTGRP:Спортивные
+#EXTINF:-1 ,Viasat Sport HD
+#EXTGRP:Спортивные
+#EXTINF:-1 ,АВТО24 HD
+#EXTGRP:Спортивные
+#EXTINF:-1 ,Авто Плюс
+#EXTGRP:Спортивные
+#EXTINF:-1 ,Бокс ТВ
+#EXTGRP:Спортивные
+#EXTINF:-1 ,Драйв
+#EXTGRP:Спортивные
+#EXTINF:-1 ,КХЛ
+#EXTGRP:Спортивные
+#EXTINF:-1 ,КХЛ HD
+#EXTGRP:Спортивные
+http://89.106.234.3:80/khl_hd_34_35.m3u8
+#EXTINF:-1 ,МАТЧ ПРЕМЬЕР
+#EXTGRP:Спортивные
+#EXTINF:-1 ,МАТЧ! HD
+#EXTGRP:Спортивные
+#EXTINF:-1 ,МАТЧ! АРЕНА HD
+#EXTGRP:Спортивные
+#EXTINF:-1 ,МАТЧ! БОЕЦ
+#EXTGRP:Спортивные
+#EXTINF:-1 ,МАТЧ! ИГРА HD
+#EXTGRP:Спортивные
+#EXTINF:-1 ,МАТЧ! СТРАНА
+#EXTGRP:Спортивные
+#EXTINF:-1 ,МАТЧ! ФУТБОЛ 1 HD
+#EXTGRP:Спортивные
+#EXTINF:-1 ,МАТЧ! ФУТБОЛ 2 HD
+#EXTGRP:Спортивные
+#EXTINF:-1 ,МАТЧ! ФУТБОЛ 3 HD
+#EXTGRP:Спортивные
+#EXTINF:-1 ,Моторспорт ТВ
+#EXTGRP:Спортивные
+#EXTINF:-1 ,Русский экстрим HD
+#EXTGRP:Спортивные
