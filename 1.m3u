@@ -1,4 +1,89 @@
 #EXTM3U
+#EXTINF:-1,365 Дней
+#EXTGRP:Познавательные
+#EXTINF:-1,Animal Planet HD
+#EXTGRP:Познавательные
+http://185.74.7.220:8080/animal/mpegts
+#EXTINF:-1,Discovery Channel HD
+#EXTGRP:Познавательные
+#EXTINF:-1,Discovery Science HD
+#EXTGRP:Познавательные
+#EXTINF:-1,English Club HD
+#EXTGRP:Познавательные
+#EXTINF:-1,Galaxy
+#EXTGRP:Познавательные
+#EXTINF:-1,HD Life
+#EXTGRP:Познавательные
+#EXTINF:-1,HGTV
+#EXTGRP:Познавательные
+#EXTINF:-1,Museum HD
+#EXTGRP:Познавательные
+#EXTINF:-1,Nat Geo Wild HD
+#EXTGRP:Познавательные
+http://89.106.234.3:80/NatGeoWildHD_34_35.m3u8
+#EXTINF:-1,National Geographic HD
+#EXTGRP:Познавательные
+#EXTINF:-1,National Geographic Wild HD
+#EXTGRP:Познавательные
+#EXTINF:-1,Ocean TV
+#EXTGRP:Познавательные
+http://185.245.187.150:80/OceanTV/index.m3u8
+#EXTINF:-1,RTG HD
+#EXTGRP:Познавательные
+#EXTINF:-1,Russia Today Doc HD
+#EXTGRP:Познавательные
+#EXTINF:-1,Viasat Explore
+#EXTGRP:Познавательные
+#EXTINF:-1,Viasat History
+#EXTGRP:Познавательные
+#EXTINF:-1,Viasat Nature
+#EXTGRP:Познавательные
+#EXTINF:-1,Viasat Nature/History HD
+#EXTGRP:Познавательные
+#EXTINF:-1,Бобер
+#EXTGRP:Познавательные
+http://89.106.234.3:80/bober_34_35.m3u8
+#EXTINF:-1,В мире животных
+#EXTGRP:Познавательные
+#EXTINF:-1,Дикая охота HD
+#EXTGRP:Познавательные
+#EXTINF:-1,Дикая рыбалка HD
+#EXTGRP:Познавательные
+#EXTINF:-1,Доктор HD
+#EXTGRP:Познавательные
+#EXTINF:-1,Живая Планета
+#EXTGRP:Познавательные
+#EXTINF:-1,История
+#EXTGRP:Познавательные
+#EXTINF:-1,Ключ
+#EXTGRP:Познавательные
+#EXTINF:-1,Мама
+#EXTGRP:Познавательные
+#EXTINF:-1,Моя Планета
+#EXTGRP:Познавательные
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b800000.m3u8
+#EXTINF:-1,Моя Планета HD
+#EXTGRP:Познавательные
+#EXTINF:-1,Наука
+#EXTGRP:Познавательные
+#EXTINF:-1,Оружие
+#EXTGRP:Познавательные
+#EXTINF:-1,Охота и рыбалка
+#EXTGRP:Познавательные
+http://185.74.5.142/dars5/video.m3u8
+#EXTINF:-1,Охотник и рыболов HD
+#EXTGRP:Познавательные
+#EXTINF:-1,Первый вегетарианский
+#EXTGRP:Познавательные
+#EXTINF:-1,Поехали!
+#EXTGRP:Познавательные
+http://89.106.234.3:80/poehali_34_35.m3u8
+#EXTINF:-1,Приключения HD
+#EXTGRP:Познавательные
+#EXTINF:-1,Т24
+#EXTGRP:Познавательные
+http://185.74.7.220:8080/techno_24/mpegts
+
 #EXTINF:-1,Amedia 1
 #EXTGRP:Кино
 #EXTINF:-1,Amedia 2
