@@ -1,257 +1,132 @@
 #EXTM3U
-#EXTINF:-1,ПЕРВЫЙ КАНАЛ
-#EXTGRP:Эфирные каналы
-http://91.206.19.123:4022/udp/225.0.56.1:1234
-#EXTINF:-1 ,Россия 1
-#EXTGRP:Эфирные каналы
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist.m3u8
-#EXTINF:-1 ,5 канал
-#EXTGRP:Эфирные каналы
-https://mobdrm.mediavitrina.ru/hls-live1/streams/tv-5/tv-5-chunks-1.m3u8?cdn=https://nmg-live-megafon.mediavitrina.ru&token=L_cMfYez5MyKMwIIKB0nkUObIyrVdKnh5tLLinasAl0.mowrtCrHr-aBgXt_Mjj0b056TQsYaJI_NxyK-DYC6ck.1609574370
-#EXTINF:-1 ,Россия К
-#EXTGRP:Эфирные каналы
-https://a3569456506-s26881.cdn.ngenix.net/hls/russia_k/playlist_1.m3u8
-#EXTINF:-1 ,Россия 24
-#EXTGRP:Эфирные каналы
-https://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_1.m3u8
-#EXTINF:-1 ,ТВЦ
-#EXTGRP:Эфирные каналы
-https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/chunklist_b1703000.m3u8?hls_proxy_host=pub3.rtmp.s01.l.tvc
-#EXTINF:-1 ,Рен ТВ
-#EXTGRP:Эфирные каналы
-https://mobdrm.mediavitrina.ru/hls-live2/streams/ren-tv/ren-tv-chunks-4.m3u8?cdn=https://nmglive.cdnvideo.ru&token=Ww6Y5YUs3QPuk0jVsCODnOcBZsqHmlDX62XjkMIKj6U.TGdNVfe4LCNwWwLcZQDkTq9osNKiYSlonmaBHhqEeTI.1609575124
-#EXTINF:-1 ,Спас
-#EXTGRP:Эфирные каналы
-https://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,СТС
-#EXTGRP:Эфирные каналы
-https://mobdrm.mediavitrina.ru/hls-live1/streams/ctc/ctc-chunks-4.m3u8?cdn=https://ctclive.cdnvideo.ru&token=-gq-rVYfj62dgxiimNscyX7UEnhK8L0QanqTRJ4YPQg.YP7OpKSq1yFVbOT7nijB50eTrN30lxRqqqXy4iGHvt0.1609575647
-#EXTINF:-1 ,Домашний
-#EXTGRP:Эфирные каналы
-https://mobdrm.mediavitrina.ru/hls-live1/streams/ctc-dom/ctc-dom-chunks-4.m3u8?cdn=https://ctc-live-megafon.mediavitrina.ru&token=JDS88o0rX0rX8ClH4C753YuwE7ZzofFILxQuhMfCnQo.FP-llQQfO69gWBk1s2eIvGbpPce4b86gPKd00ICQY08.1609576330
-#EXTINF:-1 ,Звезда
-#EXTGRP:Эфирные каналы
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-
-#EXTINF:-1,Amedia1
+#EXTINF:-1,Amedia 1
 #EXTGRP:Кино
-http://91.206.19.123:4022/udp/225.0.56.9:1234
-#EXTINF:-1,Amedia2
+#EXTINF:-1,Amedia 2
 #EXTGRP:Кино
-http://185.245.187.150:80/Amedia2/index.m3u8
-#EXTINF:-1,AMEDIA PREMIUM
+http://89.106.234.3:80/A2_34_35.m3u8
+#EXTINF:-1,Amedia HIT HD
+http://89.106.234.3:80/amedia_hit_hd_34_35.m3u8
 #EXTGRP:Кино
-http://91.206.19.123:4022/udp/225.0.56.10:1234
+#EXTINF:-1,Amedia Premium HD
+#EXTGRP:Кино
 #EXTINF:-1,Bollywood HD
 #EXTGRP:Кино
-http://185.245.187.150:80/Bollywood/index.m3u8
-#EXTINF:-1,CINEMA
+http://89.106.234.3:80/bollywood_hd_34_35.m3u8
+#EXTINF:-1,Bolt HD
 #EXTGRP:Кино
-http://91.206.19.123:4022/udp/225.0.55.115:1234
-#EXTINF:-1,Fox
+#EXTINF:-1,FAN HD
 #EXTGRP:Кино
-http://91.206.19.123:4022/udp/225.0.56.5:1234
-#EXTINF:-1,FOX LIFE
+#EXTINF:-1,Fox HD
 #EXTGRP:Кино
-http://91.206.19.123:4022/udp/225.0.56.6:1234
-#EXTINF:-1,HOLLYWOOD HD
-http://91.206.19.123:4022/udp/225.0.56.12:1234
-#EXTINF:-1,Mir Seriala
+#EXTINF:-1,Fox Life HD
 #EXTGRP:Кино
-http://185.245.187.150:80/MirSeriala/index.m3u8
-#EXTINF:-1,НСТ
+#EXTINF:-1,Hollywood HD
 #EXTGRP:Кино
-http://91.206.19.123:4022/udp/225.0.55.76:1234
-#EXTINF:-1,Paramount
+#EXTINF:-1,Paramount Channel HD
 #EXTGRP:Кино
 http://185.245.187.150:80/Paramount/index.m3u8
-#EXTINF:-1,PARAMOUNT COMEDY
-http://91.206.19.123:4022/udp/225.0.56.15:1234
-#EXTINF:-1,SonySci-Fi
+#EXTINF:-1,Sony Sci Fi
 #EXTGRP:Кино
-http://91.206.19.123:4022/udp/225.0.55.73:1234
+#EXTINF:-1,Sony TV HD
+#EXTGRP:Кино
 #EXTINF:-1,Sony Turbo
 #EXTGRP:Кино
 http://185.245.187.150:80/SonyTurbo/index.m3u8
-#EXTINF:-1,STAR CINEMA HD
+#EXTINF:-1,Spike HD
 #EXTGRP:Кино
-http://91.206.19.123:4022/udp/225.0.56.54:1234
-#EXTINF:-1,TV 1000
+#EXTINF:-1,Star Cinema HD
+#EXTGRP:Кино
+#EXTINF:-1,Star Family HD
+#EXTGRP:Кино
+#EXTINF:-1,TV1000 Action HD
+#EXTGRP:Кино
+#EXTINF:-1,TV1000 HD
 #EXTGRP:Кино
 http://185.74.7.220:8080/TV1000/mpegts
-#EXTINF:-1,TV 1000 Ru Kino
+#EXTINF:-1,TV1000 Русское кино HD
 #EXTGRP:Кино
 http://185.74.7.220:8080/tv1000ru/mpegts
-#EXTINF:-1,VIP PREMIERE HD
-http://91.206.19.123:4022/udp/225.0.56.13:1234
-#EXTINF:-1,VIP COMEDY HD
-http://91.206.19.123:4022/udp/225.0.56.14:1234
-#EXTINF:-1,VIP MEGAHIT
+#EXTINF:-1,ViP Comedy
 #EXTGRP:Кино
-http://91.206.19.123:4022/udp/225.0.56.3:1234
+#EXTINF:-1,ViP Megahit
+#EXTGRP:Кино
+#EXTINF:-1,ViP Premiere
+#EXTGRP:Кино
+#EXTINF:-1,ViP Serial
+#EXTGRP:Кино
 #EXTINF:-1,Zee TV
 #EXTGRP:Кино
-http://91.206.19.123:4022/udp/225.0.55.25:1234
-#EXTINF:-1,Дом Кино
+#EXTINF:-1,Дом кино
 #EXTGRP:Кино
 http://185.74.7.220:8080/domkino/mpegts
-#EXTINF:-1,ЕВРОКИНО
+#EXTINF:-1,Дом кино Premium HD
 #EXTGRP:Кино
-http://91.206.19.123:4022/udp/225.0.55.189:1234
-#EXTINF:-1,ИЛЛЮЗИОН+
+#EXTINF:-1,Дорама HD
 #EXTGRP:Кино
-http://91.206.19.123:4022/udp/225.0.55.188:1234
+#EXTINF:-1,Еврокино
+#EXTGRP:Кино
+#EXTINF:-1,Мир сериала
+#EXTGRP:Кино
+http://185.245.187.150:80/MirSeriala/index.m3u8
+#EXTINF:-1,Мосфильм Золотая коллекция HD
+#EXTGRP:Кино
+http://31.128.159.41:8080/mosfilm/index.m3u8
+#EXTINF:-1,Иллюзион+
+#EXTGRP:Кино
+#EXTINF:-1,Индийское кино
+#EXTGRP:Кино
+http://89.106.234.3:80/Indiiskoe_kino_34_35.m3u8
 #EXTINF:-1,Кино UHD
 #EXTGRP:Кино
-http://188.35.9.26:16050/udp/238.0.16.1:69000
-#EXTINF:-1,КИНО ТВ
-#EXTGRP:Кино
-http://91.206.19.123:4022/udp/225.0.56.4:1234
 #EXTINF:-1,КИНОКОМЕДИЯ
 #EXTGRP:Кино
-http://91.206.19.123:4022/udp/225.0.55.39:1234
 #EXTINF:-1,КИНОПОКАЗ
 #EXTGRP:Кино
 http://185.74.7.220:8080/kinopokaz/mpegts
-#EXTINF:-1,КИНОПРЕМЬЕРА_HD
+#EXTINF:-1,КИНОПРЕМЬЕРА HD
 #EXTGRP:Кино
 http://185.74.7.220:8080/kinopremyera/mpegts
-#EXTINF:-1,КИНОСВИДАНИЕ
+#EXTINF:-1,КИНОСВИДАНИЕ HD
 #EXTGRP:Кино
 http://185.74.7.220:8080/kinosvidanie/mpegts
-#EXTINF:-1,КИНОСЕРИЯ
-http://91.206.19.123:4022/udp/225.0.55.77:1234
-#EXTINF:-1,МОСФИЛЬМ ЗОЛОТАЯ КОЛЛЕКЦИЯ
+#EXTINF:-1,КИНОСЕМЬЯ HD
 #EXTGRP:Кино
-http://91.206.19.123:4022/udp/225.0.56.27:1234
+#EXTINF:-1,КИНОСЕРИЯ
+#EXTGRP:Кино
+#EXTINF:-1,КИНОХИТ HD
+#EXTGRP:Кино
+#EXTINF:-1,Кино ТВ HD
+#EXTGRP:Кино
+http://31.128.159.41:8080/kinotv/index.m3u8
+#EXTINF:-1,Киномикс HD
+#EXTGRP:Кино
+#EXTINF:-1,Киноужас HD
+#EXTGRP:Кино
+#EXTINF:-1,Комедия
+#EXTGRP:Кино
+#EXTINF:-1,МУЖСКОЕ КИНО HD
+#EXTGRP:Кино
 #EXTINF:-1,НАШЕ НОВОЕ КИНО
 #EXTGRP:Кино
-http://91.206.19.123:4022/udp/225.0.55.69:1234
-#EXTINF:-1,НТВ ХИТ
+#EXTINF:-1,НСТ
 #EXTGRP:Кино
-http://91.206.19.123:4022/udp/225.0.55.110:1234
 #EXTINF:-1,Остросюжетное HD
 #EXTGRP:Кино
-http://188.35.9.26:14050/udp/238.0.14.3:69000?codec=mpeg4
-#EXTINF:-1, Победа
+#EXTINF:-1,Победа HD
 #EXTGRP:Кино
 https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b2628000_slru.m3u8?hls_proxy_host=b1b1afbf267e0ec0e66706203ee525ae
 #EXTINF:-1,РОДНОЕ КИНО
 #EXTGRP:Кино
-http://91.206.19.123:4022/udp/225.0.55.192:1234
-#EXTINF:-1,РУССКАЯ КОМЕДИЯ
+http://89.106.234.3:80/Rodnoe_kino_34_35.m3u8
+#EXTINF:-1,Русский бестселлер
 #EXTGRP:Кино
-http://91.206.19.123:4022/udp/225.0.55.94:1234
-#EXTINF:-1,РУССКИЙ ДЕТЕКТИВ
+#EXTINF:-1,Русский детектив
 #EXTGRP:Кино
-http://91.206.19.123:4022/udp/225.0.55.179:1234
-#EXTINF:-1,РУССКИЙ БЕСТСЕЛЛЕР
+#EXTINF:-1,Русский иллюзион
 #EXTGRP:Кино
-http://91.206.19.123:4022/udp/225.0.55.180:1234
-#EXTINF:-1,РУССКИЙ ИЛЛЮЗИОН
+#EXTINF:-1,Русский роман HD
 #EXTGRP:Кино
-http://91.206.19.123:4022/udp/225.0.55.185:1234
-#EXTINF:-1,РУССКИЙ РОМАН HD
+#EXTINF:-1,СТС Love
 #EXTGRP:Кино
-http://91.206.19.123:4022/udp/225.0.56.47:1234
-#EXTINF:-1,СТС LOVE
+#EXTINF:-1,Супер
 #EXTGRP:Кино
-http://91.206.19.123:4022/udp/225.0.55.5:1234
-
-#EXTINF:-1,ANIMAL PLANET HD
-#EXTGRP:Познавательные
-http://91.206.19.123:4022/udp/225.0.55.21:1234
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://91.206.19.123:4022/udp/225.0.56.23:1234
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://91.206.19.123:4022/udp/225.0.56.24:1234
-#EXTINF:-1,HDL HD
-#EXTGRP:Познавательные
-http://91.206.19.123:4022/udp/225.0.56.39:1234
-#EXTINF:-1,NATIONAL GEOGRAPHIC CHANNEL HD
-#EXTGRP:Познавательные
-http://91.206.19.123:4022/udp/225.0.56.30:1234
-#EXTINF:-1,NAT GEO WILD HD
-http://91.206.19.123:4022/udp/225.0.56.25:1234
-#EXTINF:-1,Ocean TV
-#EXTGRP:Познавательные
-http://185.245.187.150:80/OceanTV/index.m3u8
-#EXTINF:-1,SONY CHANNEL HD
-#EXTGRP:Познавательные
-http://91.206.19.123:4022/udp/225.0.56.7:1234
-#EXTINF:-1,T24
-#EXTGRP:Познавательные
-http://185.74.7.220:8080/techno_24/mpegts
-#EXTINF:-1,Viasat Explorer
-#EXTGRP:Познавательные
-http://91.206.19.123:4022/udp/225.0.55.47:1234
-#EXTINF:-1,Viasat History
-#EXTGRP:Познавательные
-http://91.206.19.123:4022/udp/225.0.55.27:1234
-#EXTINF:-1,Viasat Nature
-#EXTGRP:Познавательные
-http://91.206.19.123:4022/udp/225.0.55.57:1234
-#EXTINF:-1,ДИКАЯ ОХОТА HD
-#EXTGRP:Познавательные
-http://91.206.19.123:4022/udp/225.0.56.29:1234
-#EXTINF:-1,МОЯ ПЛАНЕТА
-#EXTGRP:Познавательные
-http://91.206.19.123:4022/udp/225.0.55.18:1234
-#EXTINF:-1,ИСТОРИЯ
-#EXTGRP:Познавательные
-http://91.206.19.123:4022/udp/225.0.55.138:1234
-#EXTINF:-1,ЖИВАЯ ПЛАНЕТА
-#EXTGRP:Познавательные
-http://91.206.19.123:4022/udp/225.0.55.148:1234
-#EXTINF:-1,ОРУЖИЕ
-#EXTGRP:Познавательные
-http://91.206.19.123:4022/udp/225.0.55.106:1234
-#EXTINF:-1,ОХОТНИК И РЫБОЛОВ HD
-#EXTGRP:Познавательные
-http://91.206.19.123:4022/udp/225.0.56.31:1234
-#EXTINF:-1,ПРИКЛЮЧЕНИЯ HD
-#EXTGRP:Познавательные
-http://91.206.19.123:4022/udp/225.0.56.28:1234
-
-#EXTINF:-1,EUROSPORT 1 HD
-#EXTGRP:Спорт
-http://91.206.19.123:4022/udp/225.0.56.33:1234
-#EXTINF:-1,EUROSPORT 2 HD
-#EXTGRP:Спорт
-http://91.206.19.123:4022/udp/225.0.56.53:1234
-#EXTINF:-1,M-1 GLOBAL HD
-#EXTGRP:Спорт
-http://91.206.19.123:4022/udp/225.0.56.43:1234
-#EXTINF:-1,КХЛ HD
-#EXTGRP:Спорт
-http://91.206.19.123:4022/udp/225.0.56.38:1234
-#EXTINF:-1,МАТЧ! HD
-#EXTGRP:Спорт
-http://91.206.19.123:4022/udp/225.0.56.37:1234
-#EXTINF:-1,МАТЧ! АРЕНА HD
-#EXTGRP:Спорт
-http://91.206.19.123:4022/udp/225.0.56.35:1234
-#EXTINF:-1,МАТЧ! ИГРА HD
-#EXTGRP:Спорт
-http://91.206.19.123:4022/udp/225.0.56.61:1234
-#EXTINF:-1,МАТЧ! ПРЕМЬЕР HD
-#EXTGRP:Спорт
-http://91.206.19.123:4022/udp/225.0.56.94:1234
-#EXTINF:-1,ФУТБОЛ HD
-#EXTGRP:Спорт
-http://91.206.19.123:4022/udp/225.0.56.63:1234
-#EXTINF:-1,МАТЧ! ФУТБОЛ 1 HD
-#EXTGRP:Спорт
-http://91.206.19.123:4022/udp/225.0.56.60:1234
-#EXTINF:-1,МАТЧ! ФУТБОЛ 2 HD
-#EXTGRP:Спорт
-http://91.206.19.123:4022/udp/225.0.56.62:1234
-#EXTINF:-1,МАТЧ! ФУТБОЛ 3 HD
-#EXTGRP:Спорт
-http://91.206.19.123:4022/udp/225.0.56.69:1234
-#EXTINF:-1,VIASAT SPORT HD
-#EXTGRP:Спорт
-http://91.206.19.123:4022/udp/225.0.56.68:1234
-#EXTINF:-1,MОТОРСПОРТ TB HD
-#EXTGRP:Спорт
-http://91.206.19.123:4022/udp/225.0.56.44:1234
