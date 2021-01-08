@@ -14,6 +14,8 @@ http://89.106.234.3:80/amedia_hit_hd_34_35.m3u8
 http://89.106.234.3:80/bollywood_hd_34_35.m3u8
 #EXTINF:-1,Bolt HD
 #EXTGRP:Кино
+#EXTINF:0,Cinema
+http://89.106.234.3/Cinema_34_35.m3u8
 #EXTINF:-1,FAN HD
 #EXTGRP:Кино
 #EXTINF:-1,Fox HD
@@ -118,6 +120,7 @@ http://89.106.234.3/Mujskoe_kino_hd_36_37.m3u8
 #EXTGRP:Кино
 #EXTINF:-1,НСТ
 #EXTGRP:Кино
+http://89.106.234.3/NSTV_38_39.m3u8
 #EXTINF:-1,Остросюжетное HD
 #EXTGRP:Кино
 #EXTINF:-1,Победа HD
