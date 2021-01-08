@@ -56,13 +56,16 @@ http://185.74.7.220:8080/tv1000ru/mpegts
 #EXTGRP:Кино
 #EXTINF:-1,Zee TV
 #EXTGRP:Кино
+http://89.106.234.3/ZeeTVHD_38_39.m3u8
 #EXTINF:-1,Дом кино
 #EXTGRP:Кино
 http://185.74.7.220:8080/domkino/mpegts
 #EXTINF:-1,Дом кино Premium HD
 #EXTGRP:Кино
+http://89.106.234.3/domkino_hd_36_37.m3u8
 #EXTINF:-1,Дорама HD
 #EXTGRP:Кино
+http://89.106.234.3/dorama_hd_36_37.m3u8
 #EXTINF:-1,Еврокино
 #EXTGRP:Кино
 #EXTINF:-1,Мир сериала
@@ -80,6 +83,7 @@ http://89.106.234.3:80/Indiiskoe_kino_34_35.m3u8
 #EXTGRP:Кино
 #EXTINF:-1,КИНОКОМЕДИЯ
 #EXTGRP:Кино
+http://89.106.234.3/Kinokomediya_hd_36_37.m3u8
 #EXTINF:-1,КИНОПОКАЗ
 #EXTGRP:Кино
 http://185.74.7.220:8080/kinopokaz/mpegts
@@ -91,21 +95,25 @@ http://185.74.7.220:8080/kinopremyera/mpegts
 http://185.74.7.220:8080/kinosvidanie/mpegts
 #EXTINF:-1,КИНОСЕМЬЯ HD
 #EXTGRP:Кино
+http://89.106.234.3/Kinosemiya_hd_36_37.m3u8
 #EXTINF:-1,КИНОСЕРИЯ
 #EXTGRP:Кино
 #EXTINF:-1,КИНОХИТ HD
 #EXTGRP:Кино
+http://89.106.234.3/Kinohit_hd_36_37.m3u8
 #EXTINF:-1,Кино ТВ HD
 #EXTGRP:Кино
 http://31.128.159.41:8080/kinotv/index.m3u8
-#EXTINF:-1,Киномикс HD
+#EXTINF:-1,КИНОМИКС HD
 #EXTGRP:Кино
+http://89.106.234.3/Kinomix_hd_36_37.m3u8
 #EXTINF:-1,Киноужас HD
 #EXTGRP:Кино
 #EXTINF:-1,Комедия
 #EXTGRP:Кино
 #EXTINF:-1,МУЖСКОЕ КИНО HD
 #EXTGRP:Кино
+http://89.106.234.3/Mujskoe_kino_hd_36_37.m3u8
 #EXTINF:-1,НАШЕ НОВОЕ КИНО
 #EXTGRP:Кино
 #EXTINF:-1,НСТ
