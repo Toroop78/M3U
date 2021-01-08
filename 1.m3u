@@ -1,4 +1,75 @@
 #EXTM3U
+#EXTINF:-1,31 (14 HD) канал
+#EXTGRP:Развлекательные
+#EXTINF:-1,2x2
+#EXTGRP:Развлекательные
+#EXTINF:-1,E TV
+#EXTGRP:Развлекательные
+#EXTINF:-1,ID Fashion
+http://89.106.234.3:80/IDFashion_34_35.m3u8
+#EXTINF:-1,LEOMAX+
+#EXTGRP:Развлекательные
+#EXTINF:-1,Leomax24
+#EXTGRP:Развлекательные
+#EXTINF:-1,MTV HD
+#EXTGRP:Развлекательные
+#EXTINF:-1,MyZen 4К
+#EXTGRP:Развлекательные
+#EXTINF:-1,Shop&Show
+#EXTGRP:Развлекательные
+#EXTINF:-1,Shopping Live
+#EXTGRP:Развлекательные
+#EXTINF:-1,TLC
+#EXTGRP:Развлекательные
+http://89.106.234.3/TLCHD_38_39.m3u8
+#EXTINF:-1,World Fashion Channel HD
+#EXTGRP:Развлекательные
+#EXTINF:-1,myZen.tv HD
+#EXTGRP:Развлекательные
+#EXTINF:0,Еда
+#EXTGRP:Развлекательные
+http://89.106.234.3//EdaHD_38_39.m3u8
+#EXTINF:-1,ЖАРА
+#EXTGRP:Развлекательные
+#EXTINF:-1,Живи
+#EXTGRP:Развлекательные
+#EXTINF:-1,КВН ТВ
+#EXTGRP:Развлекательные
+#EXTINF:-1,Кухня ТВ
+#EXTGRP:Развлекательные
+#EXTINF:-1,МИР Premium
+#EXTGRP:Развлекательные
+#EXTINF:-1,НТВ HD
+#EXTGRP:Развлекательные
+#EXTINF:-1,Ностальгия
+#EXTGRP:Развлекательные
+#EXTINF:-1,Первый HD
+#EXTGRP:Развлекательные
+#EXTINF:-1,РЕН ТВ HD
+#EXTGRP:Развлекательные
+https://mobdrm.mediavitrina.ru/hls-live2/streams/ren-tv/ren-tv-chunks-4.m3u8?cdn=https://nmglive.cdnvideo.ru&token=Ww6Y5YUs3QPuk0jVsCODnOcBZsqHmlDX62XjkMIKj6U.TGdNVfe4LCNwWwLcZQDkTq9osNKiYSlonmaBHhqEeTI.1609575124
+#EXTINF:-1,Россия HD
+#EXTGRP:Развлекательные
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist.m3u8
+#EXTINF:-1,Сарафан
+#EXTGRP:Развлекательные
+#EXTINF:-1 ,СТС
+#EXTGRP:Развлекательные
+https://mobdrm.mediavitrina.ru/hls-live1/streams/ctc/ctc-chunks-4.m3u8?cdn=https://ctclive.cdnvideo.ru&token=-gq-rVYfj62dgxiimNscyX7UEnhK8L0QanqTRJ4YPQg.YP7OpKSq1yFVbOT7nijB50eTrN30lxRqqqXy4iGHvt0.1609575647
+#EXTINF:-1,ТНТ HD
+#EXTGRP:Развлекательные
+#EXTINF:-1,ТНТ4
+#EXTGRP:Развлекательные
+http://89.106.234.3:80/tnt4_34_35.m3u8
+#EXTINF:-1,Телекафе
+#EXTGRP:Развлекательные
+#EXTINF:-1,Че
+#EXTGRP:Развлекательные
+#EXTINF:-1,Ю
+#EXTGRP:Развлекательные
+#EXTINF:-1,Ювелирочка
+#EXTGRP:Развлекательные
+
 #EXTINF:-1,365 Дней
 #EXTGRP:Познавательные
 #EXTINF:-1,Animal Planet HD
