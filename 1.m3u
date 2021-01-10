@@ -11,10 +11,10 @@ http://89.106.234.3/DaVinci_38_39.m3u8
 #EXTGRP:Познавательные
 #EXTINF:-1,HDL
 #EXTGRP:Познавательные
-http://89.106.234.3/hdl_38_39.m3u8
+http://89.106.234.5:80/hdl_34_35.m3u8
 #EXTINF:-1,Nat Geo WILD HD
 #EXTGRP:Познавательные
-http://89.106.234.3/NatGeoWildHD_38_39.m3u8
+http://89.106.234.5:80/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1,National Geographic HD
 #EXTGRP:Познавательные
 #EXTINF:-1,History HD
@@ -59,7 +59,7 @@ http://89.106.234.3/amedia_2_34_35.m3u8
 #EXTGRP:Фильмы
 #EXTINF:-1,Amedia HIT HD
 #EXTGRP:Фильмы
-http://89.106.234.3/amedia_hit_hd_38_39.m3u8
+http://89.106.234.5:80/amedia_hit_hd_34_35.m3u8
 #EXTINF:-1,Bollywood HD
 #EXTGRP:Фильмы
 http://89.106.234.3/bollywood_hd_34_35.m3u8
