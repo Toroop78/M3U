@@ -62,7 +62,7 @@ http://89.106.234.3/amedia_2_34_35.m3u8
 http://89.106.234.5:80/amedia_hit_hd_34_35.m3u8
 #EXTINF:-1,Bollywood HD
 #EXTGRP:Фильмы
-http://89.106.234.3/bollywood_hd_34_35.m3u8
+http://89.106.234.5:80/bollywood_hd_38_39.m3u8
 #EXTINF:-1,Cinema
 #EXTGRP:Фильмы
 http://89.106.234.3/Cinema_34_35.m3u8
@@ -85,7 +85,7 @@ http://89.106.234.3/ZeeTVHD_34_35.m3u8
 #EXTGRP:Фильмы
 #EXTINF:-1,Дом кино Премиум HD
 #EXTGRP:Фильмы
-http://89.106.234.3/domkino_hd_34_35.m3u8
+http://89.106.234.5:80/domkino_hd_34_35.m3u8
 #EXTINF:-1,ДОРАМА HD
 #EXTGRP:Фильмы
 http://89.106.234.3/dorama_hd_34_35.m3u8
