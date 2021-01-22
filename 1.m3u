@@ -2,108 +2,10 @@
 #EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="hdl",HDL HD
 http://89.106.234.5:80/hdl_34_35.m3u8
 #EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="nat-geo-wild",Nat Geo Wild HD
-http://91.237.40.215:11225/natgeo
-#EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="nat-geo-wild",Nat Geo Wild HD
 http://89.106.234.5:80/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="national-geographic",National Geographic HD
 http://cdn.nexttvnet.ru/hlsl/1/NATGEOHD/index.m3u8
-#EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="bober",Бобёр
-http://89.106.234.3/bober_34_35.m3u8
 #EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="bolshaya-azia",Большая Азия
 http://89.189.191.250/239.211.211.162/stream.m3u8
-#EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="poexali",Поехали! 
-http://89.106.234.3/poehali_34_35.m3u8
 
-#EXTINF:-1,Amedia 1 HD
-#EXTGRP:Фильмы
-#EXTINF:-1,Amedia 2
-#EXTGRP:Фильмы
-http://89.106.234.3/amedia_2_34_35.m3u8
-#EXTINF:-1,Amedia Premium HD
-#EXTGRP:Фильмы
-#EXTINF:-1,Amedia HIT HD
-#EXTGRP:Фильмы
-http://89.106.234.5:80/amedia_hit_hd_34_35.m3u8
-#EXTINF:-1,Bollywood HD
-#EXTGRP:Фильмы
-http://89.106.234.5:80/bollywood_hd_38_39.m3u8
-#EXTINF:-1,Cinema
-#EXTGRP:Фильмы
-http://89.106.234.3/Cinema_34_35.m3u8
-#EXTINF:-1,FOX HD
-#EXTGRP:Фильмы
-#EXTINF:-1,Hollywood
-#EXTGRP:Фильмы
-#EXTINF:-1,TV1000 ActionHD
-#EXTGRP:Фильмы
-#EXTINF:-1,TV 1000
-#EXTGRP:Фильмы
-http://185.74.7.220:8080/TV1000/mpegts
-#EXTINF:-1,TV 1000 Русское Кино
-#EXTGRP:Фильмы
-http://185.74.7.220:8080/tv1000ru/mpegts
-#EXTINF:-1,ZeeTV HD
-#EXTGRP:Фильмы
-http://89.106.234.3/ZeeTVHD_34_35.m3u8
-#EXTINF:-1,Дом кино
-#EXTGRP:Фильмы
-#EXTINF:-1,Дом кино Премиум HD
-#EXTGRP:Фильмы
-http://89.106.234.5:80/domkino_hd_34_35.m3u8
-#EXTINF:-1,ДОРАМА HD
-#EXTGRP:Фильмы
-http://89.106.234.3/dorama_hd_34_35.m3u8
-#EXTINF:-1,Иллюзион+ HD
-#EXTGRP:Фильмы
-#EXTINF:-1,ИНДИЙСКОЕ КИНО
-#EXTGRP:Фильмы
-http://89.106.234.5:80/Indiiskoe_kino_34_35.m3u8
-#EXTINF:-1,Кино ТВ
-#EXTGRP:Фильмы
-http://31.128.159.41:8080/kinotv/index.m3u8
-#EXTINF:-1,КИНОКОМЕДИЯ HD
-#EXTGRP:Фильмы
-http://89.106.234.5:80/Kinokomediya_hd_34_35.m3u8
-#EXTINF:-1,КИНОМИКС HD
-#EXTGRP:Фильмы
-http://89.106.234.5:80/Kinomix_hd_34_35.m3u8
-#EXTINF:-1,КИНОПОКАЗ
-#EXTGRP:Фильмы
-http://185.74.7.220:8080/kinopokaz/mpegts
-#EXTINF:-1,КИНОПРЕМЬЕРА HD
-#EXTGRP:Фильмы
-http://89.106.234.5:80/Kinopremiera_hd_34_35.m3u8
-#EXTINF:-1,КИНОСВИДАНИЕ HD
-#EXTGRP:Фильмы
-http://89.106.234.5:80/Kinosvidanie_hd_34_35.m3u8
-#EXTINF:-1,КИНОСЕМЬЯ HD
-#EXTGRP:Фильмы
-http://89.106.234.5:80/Kinosemiya_hd_34_35.m3u8
-#EXTINF:-1,КИНОХИТ HD
-#EXTGRP:Фильмы
-http://89.106.234.5:80/Kinohit_hd_34_35.m3u8
-#EXTINF:-1,Мосфильм Золотая коллекция HD
-#EXTGRP:Фильмы
-http://31.128.159.41:8080/mosfilm/index.m3u8
-#EXTINF:-1,МУЖСКОЕ КИНО HD
-#EXTGRP:Фильмы
-http://89.106.234.3/Mujskoe_kino_hd_34_35.m3u8
-#EXTINF:-1,НСТ
-#EXTGRP:Фильмы
-http://89.106.234.3/NSTV_34_35.m3u8
-#EXTINF:-1,Наше новое кино HD
-#EXTGRP:Фильмы
-#EXTINF:-1,Победа
-#EXTGRP:Фильмы
-#EXTINF:-1,Победа HD
-#EXTGRP:Фильмы
-https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b2628000_slru.m3u8?hls_proxy_host=b1b1afbf267e0ec0e66706203ee525ae
-#EXTINF:-1,РОДНОЕ КИНО
-#EXTGRP:Фильмы
-http://89.106.234.5:80/Rodnoe_kino_34_35.m3u8
-#EXTINF:-1,Русский Иллюзион
-#EXTGRP:Фильмы
 
-#EXTINF:-1,КХЛ HD
-#EXTGRP:Спортивные
-http://89.106.234.5:80/khl_hd_34_35.m3u8
