@@ -1,54 +1,18 @@
-#EXTM3U
-#EXTINF:-1,ANIMAL PLANET HD
-#EXTGRP:Познавательные
-http://spacetv.in/stream/IFBYIR5OA7/114.m3u8
-#EXTINF:-1,Da Vinci Learning
-#EXTGRP:Познавательные
-http://89.106.234.3/DaVinci_38_39.m3u8
-#EXTINF:-1,Discovery Channel
-#EXTGRP:Познавательные
-#EXTINF:-1,Discovery science
-#EXTGRP:Познавательные
-#EXTINF:-1,HDL
-#EXTGRP:Познавательные
+#EXTM3U url-tvg="http://iptvx.one/EPG_LITE"
+#EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="hdl",HDL HD
 http://89.106.234.5:80/hdl_34_35.m3u8
-#EXTINF:-1,Nat Geo WILD HD
-#EXTGRP:Познавательные
+#EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="nat-geo-wild",Nat Geo Wild HD
+http://91.237.40.215:11225/natgeo
+#EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="nat-geo-wild",Nat Geo Wild HD
 http://89.106.234.5:80/NatGeoWildHD_34_35.m3u8
-#EXTINF:-1,National Geographic HD
-#EXTGRP:Познавательные
-#EXTINF:-1,History HD
-#EXTGRP:Познавательные
-#EXTINF:-1,Viasat Explorer HD
-#EXTGRP:Познавательные
-#EXTINF:-1,Viasat History HD
-#EXTGRP:Познавательные
-#EXTINF:-1,Viasat Nature HD
-#EXTGRP:Познавательные
-#EXTINF:-1,БОБЁР 
-#EXTGRP:Познавательные
+#EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="national-geographic",National Geographic HD
+http://cdn.nexttvnet.ru/hlsl/1/NATGEOHD/index.m3u8
+#EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="bober",Бобёр
 http://89.106.234.3/bober_34_35.m3u8
-#EXTINF:-1,Большая Азия
-#EXTGRP:Познавательные
+#EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="bolshaya-azia",Большая Азия
 http://89.189.191.250/239.211.211.162/stream.m3u8
-#EXTINF:-1,Загородная жизнь HD
-#EXTGRP:Познавательные
-#EXTINF:-1,Клуб Путешествий
-#EXTGRP:Познавательные
-#EXTINF:-1,Моя планета HD
-#EXTGRP:Познавательные
-#EXTINF:0,Мужской
-http://89.106.234.3/Mujskoi_34_35.m3u8
-#EXTINF:-1,Охота и рыбалка
-#EXTGRP:Познавательные
-#EXTINF:-1,ПОЕХАЛИ!
-#EXTGRP:Познавательные
+#EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="poexali",Поехали! 
 http://89.106.234.3/poehali_34_35.m3u8
-#EXTINF:-1,Рыбалка и охота
-#EXTGRP:Познавательные
-#EXTINF:-1,T24
-#EXTGRP:Познавательные
-http://185.74.7.220:8080/techno_24/mpegts
 
 #EXTINF:-1,Amedia 1 HD
 #EXTGRP:Фильмы
