@@ -1,14 +1,23 @@
 #EXTM3U url-tvg="http://iptvx.one/EPG_LITE"
-#EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="hdl",HDL HD
+#EXTINF:-1 group-title="Познавательные" tvg-id="hdl",HDL
 http://89.106.234.5:80/hdl_34_35.m3u8
-#EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="nat-geo-wild",Nat Geo Wild HD
+#EXTINF:-1 group-title="Познавательные" tvg-id="nat-geo-wild",Nat Geo Wild HD
 http://89.106.234.5:80/NatGeoWildHD_34_35.m3u8
-#EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="national-geographic",National Geographic HD
+#EXTINF:-1 group-title="Познавательные" tvg-id="national-geographic",National Geographic HD
 http://cdn.nexttvnet.ru/hlsl/1/NATGEOHD/index.m3u8
-#EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="bober",Бобёр
-http://89.106.234.5:80/bober_34_35.m3u8
-#EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="bolshaya-azia",Большая Азия
+#EXTINF:-1 group-title="Познавательные" tvg-id="bolshaya-azia",Большая Азия
 http://89.189.191.250/239.211.211.162/stream.m3u8
-#EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="moya-planeta",Моя Планета
-http://89.106.234.5:80/MoyaPlaneta_34_35.m3u8
-
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="tv1000-russkoe-kino",TV1000 Русское кино
+http://109.200.130.124:7000/play/a005
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="tv1000-worldkino",TV1000 World Kino
+http://78.26.128.16:8081/144/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="vip-comedy",ViP Comedy HD
+http://185.220.35.94:8080/VIPComedyHD/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="vip-premiere",ViP Premiere HD
+http://78.26.128.16:8081/4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="domkino-premium",Дом Кино Премиум HD
+http://89.106.234.5:80/domkino_hd_34_35.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="mosfilm",Мосфильм. Золотая коллекция HD
+http://31.128.159.41:8080/mosfilm/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="pobeda",Победа HD
+https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b2628000_slru.m3u8?hls_proxy_host=b1b1afbf267e0ec0e66706203ee525ae
