@@ -157,9 +157,9 @@ http://89.106.234.3/NSTV_34_35.m3u8
 https://play.megafon.tv/out/u/v1-video-6348404.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Кино и сериалы" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="nashe-novoe-kino",Наше новое кино
 https://play.megafon.tv/out/u/v1-video-6348304.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Кино и сериалы" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="nashe-muzhskoe-hd",НТВ Сериал
+#EXTINF:-1 group-title="Кино и сериалы" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="ntv-serial",НТВ Сериал
 https://play.megafon.tv/out/u/v1-video-6348330.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Кино и сериалы" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="nashe-muzhskoe-hd",НТВ Хит
+#EXTINF:-1 group-title="Кино и сериалы" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="ntv-xit",НТВ Хит
 https://play.megafon.tv/out/u/v1-video-5308442.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Кино и сериалы" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="ostrosiuzhetnoe-hd",Остросюжетное HD
 http://188.35.9.11:2015
