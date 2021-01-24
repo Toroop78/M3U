@@ -102,7 +102,7 @@ http://188.35.9.11:2016
 #EXTINF:-1 group-title="Кино и сериалы" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="vip-premiere",ViP Premiere HD
 http://78.26.128.16:8081/4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="zee-tv",Zee TV HD
-http://89.106.234.3/ZeeTVHD_34_35.m3u8
+https://play.megafon.tv/out/u/v1-video-7731223.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Кино и сериалы" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="domkino-premium",Дом Кино Премиум HD
 http://89.106.234.5:80/domkino_hd_34_35.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="domkino",Дом Кино
