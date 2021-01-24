@@ -132,7 +132,7 @@ http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="kinopremiera-hd",Кинопремьера HD
 http://185.74.7.220:8080/kinopremyera/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="kinosvidanie",Киносвидание HD
-http://89.106.234.5:80/Kinosvidanie_hd_34_35.m3u8
+https://play.megafon.tv/out/u/v1-video-5308391.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Кино и сериалы" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="kinosemiya",Киносемья HD
 http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="kinoseria",Киносерия HD
