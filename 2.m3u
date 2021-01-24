@@ -42,7 +42,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8?version=2
 #EXTINF:-1 group-title="Кино и сериалы" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="amedia1",A1 HD
 https://play.megafon.tv/out/u/v1-video-6370556.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Кино и сериалы" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="amedia2",A2
-http://89.106.234.3/amedia_2_34_35.m3u8
+https://play.megafon.tv/out/u/v1-video-7731110.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Кино и сериалы" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="amedia-hit",Amedia Hit HD
 http://89.106.234.4:80/amedia_hit_hd_34_35.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="amedia-premium",Amedia Premium HD
