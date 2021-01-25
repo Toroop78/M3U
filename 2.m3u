@@ -150,7 +150,7 @@ https://play.megafon.tv/out/u/v1-video-6348382.mpd?device_type=web&display_type=
 #EXTINF:-1 group-title="Кино и сериалы" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="mosfilm",Мосфильм HD
 http://31.128.159.41:8080/mosfilm/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="muzhskoe-kino",Мужское Кино HD
-http://89.106.234.4:80/Mujskoe_kino_hd.m3u8
+http://185.32.44.174:8291/play/a03r/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="nst",НСТ
 https://play.megafon.tv/out/u/v1-video-7731340.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Кино и сериалы" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="nash-detektiv",Наш Детектив
