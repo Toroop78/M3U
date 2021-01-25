@@ -189,8 +189,6 @@ https://play.megafon.tv/out/u/v1-video-5612950.mpd?device_type=web&display_type=
 
 #EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="animal-planet",Animal Planet HD
 https://play.megafon.tv/out/u/v1-video-6370557.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="da-vinci",Da Vinci Learning
-https://sc.id-tv.kz/DaVinci_34_35.m3u8
 #EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="discovery-channel",Discovery Channel HD
 https://play.megafon.tv/out/u/v1-video-6370562.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="discovery-science",Discovery Science HD
@@ -274,7 +272,7 @@ https://s3.idata.uz/dars5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="pes-i-ko",Пёс и Ко
 https://play.megafon.tv/out/u/v1-video-5612991.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="poexali",Поехали! 
-http://89.106.234.3:80/poehali_34_35.m3u8
+https://play.megafon.tv/out/u/v1-video-5613000.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Познавательные" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="ratnik" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1604054297280.png",Ратник HD
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RATNIKHD/variant.m3u8?version=2
