@@ -279,15 +279,80 @@ https://play.megafon.tv/out/u/v1-video-7731146.mpd?device_type=web&display_type=
 #EXTINF:-1 group-title="Познавательные" tvg-id="tnomer",Тномер
 http://194.156.166.2:8000/play/a02g
 
+#EXTINF:-1 tvg-id="2na2" tvg-name="2х2" group-title="Развлекательные",2х2
+https://play.megafon.tv/out/u/v1-video-6348301.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 tvg-id="7tv" tvg-name="7ТВ" group-title="Развлекательные",7ТВ
+https://play.megafon.tv/out/u/v1-video-6348370.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 tvg-id="8kanal-ru" tvg-name="8 Канал" group-title="Развлекательные",8 Канал
+https://play.megafon.tv/out/u/v1-video-7986611.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 tvg-id="e-tv" tvg-name="E TV" group-title="Развлекательные",E
+https://play.megafon.tv/out/u/v1-video-7969126.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 tvg-id="fashionbox-hd" tvg-name="FashionBox" group-title="Развлекательные",FashionBox
+https://play.megafon.tv/out/u/v1-video-7969100.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Развлекательные" tvg-id="gags-network" tvg-logo="http://immo.date/logo/gags-network.png",Gags Network HD
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_GAGSNETWORKHD/variant.m3u8?version=2
-#EXTINF:-1 group-title="Развлекательные" tvg-id="zal-suda" tvg-logo="http://immo.date/logo/zal-suda.png",Зал суда HD
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_ZALSUDAHD/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="HGTV HD" group-title="Развлекательные",HGTV HD
+https://play.megafon.tv/out/u/v1-video-7986580.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 tvg-id="kbs-world" tvg-name="KBS World HD" group-title="Развлекательные",KBS World HD
+https://play.megafon.tv/out/u/v1-video-5308474.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 tvg-id="shopping-live" tvg-name="Shopping Live" group-title="Развлекательные",Shopping Live
+https://play.megafon.tv/out/u/v1-video-5613015.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 tvg-id="tlc" tvg-name="TLC HD" group-title="Развлекательные",TLC HD
+https://play.megafon.tv/out/u/v1-video-6782111.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 tvg-id="tvmchannel" tvg-name="TVMChannel" group-title="Развлекательные",TVMChannel
+https://play.megafon.tv/out/u/v1-video-6348360.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 tvg-id="world-fashion-channel" tvg-name="World Fashion Channel" group-title="Развлекательные",World Fashion Channel
+https://play.megafon.tv/out/u/v1-video-6361992.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 tvg-id="tro" tvg-name="БелРос" group-title="Развлекательные",БелРос
+https://play.megafon.tv/out/u/v1-video-6348317.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 tvg-id="bobior" tvg-name="Бобер" group-title="Развлекательные",Бобёр
+https://play.megafon.tv/out/u/v1-video-6348374.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 tvg-id="dikiy" tvg-name="Дикий" group-title="Развлекательные",Дикий
+https://play.megafon.tv/out/u/v1-video-7986619.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 tvg-id="zhara" tvg-name="Жара HD" group-title="Развлекательные",Жара HD
+https://play.megafon.tv/out/u/v1-video-6348355.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 tvg-id="zagorodnaya-zhizn" tvg-name="Загородная жизнь" group-title="Развлекательные",Загородная жизнь
+https://play.megafon.tv/out/u/v1-video-7731148.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 tvg-id="zagorodny" tvg-name="Загородный" group-title="Развлекательные",Загородный
+https://play.megafon.tv/out/u/v1-video-6348332.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 tvg-id="kvn-tv" tvg-name="КВН ТВ" group-title="Развлекательные",КВН ТВ
+https://play.megafon.tv/out/u/v1-video-6348381.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 tvg-id="kaleydoskop-tv" tvg-name="Калейдоскоп ТВ" group-title="Развлекательные",Калейдоскоп ТВ
+https://play.megafon.tv/out/u/v1-video-6348384.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 tvg-id="kluch" tvg-name="Ключ HD" group-title="Развлекательные",Ключ HD
+https://play.megafon.tv/out/u/v1-video-7986608.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 tvg-name="МегаФонТВ.Live 2" group-title="Развлекательные",МегаФонТВ.Live 2
+https://play.megafon.tv/out/u/v1-video-7813755.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 tvg-name="МегаФонТВ.Live 3" group-title="Развлекательные",МегаФонТВ.Live 3
+https://play.megafon.tv/out/u/v1-video-7668760.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 tvg-id="morskoy" tvg-name="Морской" group-title="Развлекательные",Морской
+https://play.megafon.tv/out/u/v1-video-6348359.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 tvg-id="muzhskoy" tvg-name="Мужской" group-title="Развлекательные",Мужской
+https://play.megafon.tv/out/u/v1-video-7731151.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 tvg-id="ntv-pravo" tvg-name="НТВ Право" group-title="Развлекательные",НТВ Право
+https://play.megafon.tv/out/u/v1-video-5308491.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 tvg-id="ntv-style" tvg-name="НТВ Стиль" group-title="Развлекательные",НТВ Стиль
+https://play.megafon.tv/out/u/v1-video-6348328.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 tvg-id="nasha-tema" tvg-name="Наша Тема" group-title="Развлекательные",Наша Тема
+https://play.megafon.tv/out/u/v1-video-7731226.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 tvg-id="okino" tvg-name="О!Кино" group-title="Развлекательные",О!Кино
+https://play.megafon.tv/out/u/v1-video-5308411.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 tvg-id="otkryty-mir" tvg-name="Открытый Мир" group-title="Развлекательные",Открытый Мир
+https://play.megafon.tv/out/u/v1-video-6348319.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 tvg-id="oxota-i-rybalka" tvg-name="Охота и рыбалка" group-title="Развлекательные",Охота и рыбалка
+https://play.megafon.tv/out/u/v1-video-6348325.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" tvg-name="Охотник и рыболов HD" group-title="Развлекательные",Охотник и рыболов HD
+https://play.megafon.tv/out/u/v1-video-7322491.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 tvg-id="poexali" tvg-name="Поехали!" group-title="Развлекательные",Поехали!
+https://play.megafon.tv/out/u/v1-video-5613000.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 tvg-id="prodvizhenie" tvg-name="Продвижение" group-title="Развлекательные",Продвижение
+https://play.megafon.tv/out/u/v1-video-5612984.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Развлекательные" tvg-id="piatnica-pl7",Пятница! (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8?version=2
+#EXTINF:-1 tvg-id="sarafan" tvg-name="Сарафан" group-title="Развлекательные",Сарафан
+https://play.megafon.tv/out/u/v1-video-6348346.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Развлекательные" tvg-id="sts-pl7",СТС (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8?version=2
@@ -306,12 +371,24 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8?version=2
 #EXTINF:-1 group-title="Развлекательные" tvg-id="tnt4-pl7",ТНТ4 (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8?version=2
+#EXTINF:-1 tvg-id="teatr" tvg-name="Театр" group-title="Развлекательные",Театр
+https://play.megafon.tv/out/u/v1-video-6362005.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 tvg-id="tnomer" tvg-name="Тномер" group-title="Развлекательные",Тномер
+https://play.megafon.tv/out/u/v1-video-6361997.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 tvg-id="tonus-tv" tvg-name="Тонус" group-title="Развлекательные",Тонус
+https://play.megafon.tv/out/u/v1-video-6362002.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 tvg-id="tochka-tv" tvg-name="Точка ТВ" group-title="Развлекательные",Точка ТВ
+https://play.megafon.tv/out/u/v1-video-8013154.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 tvg-id="centralnoye-tv" tvg-name="Центральное телевидение" group-title="Развлекательные",Центральное телевидение
+https://play.megafon.tv/out/u/v1-video-5308459.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Развлекательные" tvg-id="che-pl7",Че! (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8?version=2
 #EXTINF:-1 group-title="Развлекательные" tvg-id="yu-pl7",Ю (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8?version=2
+#EXTINF:-1 tvg-id="yuvelirochka" tvg-name="Ювелирочка" group-title="Развлекательные",Ювелирочка
+https://play.megafon.tv/out/u/v1-video-5308481.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 
 #EXTINF:-1 group-title="Детские" tvg-id="ani",Ani
 https://play.megafon.tv/out/u/v1-video-7969092.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
