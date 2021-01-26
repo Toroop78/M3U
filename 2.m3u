@@ -104,7 +104,7 @@ http://195.154.242.229:3000/telegramgroup/premiere_group/19547
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="zee-tv",Zee TV HD
 https://play.megafon.tv/out/u/v1-video-7731223.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="domkino-premium",Дом Кино Премиум HD
-http://89.106.234.5:80/domkino_hd_34_35.m3u8
+https://play.megafon.tv/out/u/v1-video-5612948.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="domkino",Дом Кино
 https://play.megafon.tv/out/u/v1-video-6348302.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="dorama",Дорама HD
