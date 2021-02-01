@@ -1,9 +1,10 @@
 #EXTM3U url-tvg="http://iptvx.one/EPG_LITE"
 
 #EXTINF:-1, Первый канал HD
-https://mobdrm.1tv.ru/hls-live10/streams/1tv/1tv3.m3u8?cdn=https://edge2.1internet.tv&netprav=/hls-vod11/streams/1tv/netprav.m3u8&e=1612099494&s=yq%2ByVxB5zFlO2FWLl8X9Gq790HrCzfvdcDr4lSjJTrZQX7J9D%2F3vsOffoa%2B0tAsvmiYbmBTiFTKrwqO0Ij3gmkBaFOWtScOtIMkFHebtXGU3hUvnB%2FDKLhCabgWAlrWeUITQInrVYRm1WR6z96QxjiBpEBQCKSWSQlJmAxabiEKcoZdiMeRDYOwEHe%2B%2Fdyf3VxWMFeuUMKWOFf5umFYbDXAViuwj4lTiXMS4lP0yeuGLDQcpLnd3g2g8ib2S8XnI
+https://mobdrm.1tv.ru/hls-live10/streams/1tv/1tv3.m3u8?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1, Первый канал HD
-https://mobdrm.1tv.ru/hls-live10/streams/1tv/1tv3.m3u8?cdn=https://edge2.1internet.tv&netprav=/hls-vod11/streams/1tv/netprav.m3u8&e=1612101583&s=seuo2kD%2BfX5%2FbeGdhLEa8K790HrCzfvdcDr4lSjJTrZQX7J9D%2F3vsOffoa%2B0tAsvmiYbmBTiFTKrwqO0Ij3gmkBaFOWtScOtIMkFHebtXGU3hUvnB%2FDKLhCabgWAlrWeUITQInrVYRm1WR6z96QxjiBpEBQCKSWSQlJmAxabiEKcoZdiMeRDYOwEHe%2B%2Fdyf3VxWMFeuUMKWOFf5umFYbDXAViuwj4lTiXMS4lP0yeuE5jEDdg4l%2FJ2gk7rLZ2hJ4
+https://mobdrm.1tv.ru/hls-live10/streams/1tv/1tv3.m3u8
+
 #EXTINF:-1, Россия 1 HD
 https://livehlsvgtrk2.cdnvideo.ru/hls/russia_hd/playlist_3.m3u8?md5=0yzHFNT3I-dnS9erPWN4UQ&e=1612112580&hls_proxy_host=70b013ca21e8364cd537747cf862272b
 #EXTINF:-1, РенТВ HD
