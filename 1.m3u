@@ -1,28 +1,16 @@
 #EXTM3U url-tvg="http://iptvx.one/EPG_LITE"
 
-#EXTINF:-1, Первый канал HD
-https://mobdrm.1tv.ru/hls-live10/streams/1tv/1tv3.m3u8?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1, Первый канал HD
-https://mobdrm.1tv.ru/hls-live10/streams/1tv/1tv3.m3u8
-
-#EXTINF:-1, Россия 1 HD
-https://livehlsvgtrk2.cdnvideo.ru/hls/russia_hd/playlist_3.m3u8?md5=0yzHFNT3I-dnS9erPWN4UQ&e=1612112580&hls_proxy_host=70b013ca21e8364cd537747cf862272b
-#EXTINF:-1, РенТВ HD
-https://mobdrm.mediavitrina.ru/hls-live1/streams/ren-tv/ren-tv-chunks-4.m3u8?cdn=https://nmg-live.gcdn.co&token=4ju-181lEOy1Iy31egX2brjAyuhjx0Usvs7IjHO1QJA.8bFPaUcC-lfQgF9VmHqPZK_3KFlD1aRIWa0RGbNLgtk.1612100011
 #EXTINF:-1, РенТВ HD
 https://mobdrm.mediavitrina.ru/hls-live1/streams/ren-tv/ren-tv-chunks-4.m3u8?cdn=https://nmg-live.gcdn.co&token=Y_O1h0Khy9XZ1PXh_TCg5upo1gY66vTAGPQ3MwwKOMw.SAKMQdKxb_XUq10oCKfY7b-oGHJkGlyOBCupSJZZKnc.1612101756
 #EXTINF:-1, СТС HD
 https://mobdrm.mediavitrina.ru/hls-live2/streams/ctc/ctc-chunks-4.m3u8?cdn=https://ctclive.cdnvideo.ru&token=7MqDrsg8j-YKZRxuboP84TKktvNB-bzawg8KfV2EljE.lkmmJk7_jW0sfxntaWj4f2g1u8W_EOec1Fz9nmaN3dU.1612100144
 #EXTINF:-1, Домашний HD
 https://mobdrm.mediavitrina.ru/hls-live2/streams/ctc-dom/ctc-dom-chunks-4.m3u8?cdn=https://ctc-live.gcdn.co&token=eK65IvkjkAwNADMCUHmf1EKkYUJJbqPlSLGB2aNKYVM.qe1OQDuIxvseoPXVvP2G-G4VFJ0h5QcEhH6dUylVpUM.1612100294
-#EXTINF:-1, Домашний HD
-https://mobdrm.mediavitrina.ru/hls-live1/streams/ctc-dom/ctc-dom-chunks-4.m3u8?cdn=https://ctclive.cdnvideo.ru&token=UlzTd6VFkSOecwOGbT3XgcSyD9cItMVUDqB_H7m185c.ctDKJmVq_ArVpTOmWyEow205jO795_70gdnVvZgLBnI.1612102057
 #EXTINF:-1, Известия HD
 https://mobdrm.mediavitrina.ru/hls-live2/streams/iz/iz-chunks-4.m3u8?cdn=https://edge01r.mediavitrina.ru&token=N455xY7JKN1Cy249JUg8b4skD8IZMCUeqEYXzxk8fO8.7VeYe2L6mvXZjv2qGTB99UgI7GweHgsf7_i6SrhGXp4.1612100660
 #EXTINF:-1, ТНТ
 https://s4.federal.tv:8082/fed/tnttv-hq.stream/chunks.m3u8?nimblesessionid=177673226&wmsAuthSign=c2VydmVyX3RpbWU9MS8zMS8yMDIxIDE6NTY6MDUgUE0maGFzaF92YWx1ZT1tR2pBQkdBNnNXVU0rUlR4dHdid3pnPT0mdmFsaWRtaW51dGVzPTIwMA==
-#EXTINF:-1, Пятница! HD
-https://live-101.zxz.su/LIVE/LIVE:317844/HLS/1612116283/RlUMHYrT7Kemb1pmAJcAaQ/live/317844_3/chunklist.m3u8
+
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="hdl",HDL
 http://89.106.234.5:80/hdl_34_35.m3u8
