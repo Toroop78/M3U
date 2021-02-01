@@ -1,5 +1,29 @@
 #EXTM3U url-tvg="http://iptvx.one/EPG_LITE"
 
+#EXTINF:-1, Первый канал HD
+https://mobdrm.1tv.ru/hls-live10/streams/1tv/1tv4.m3u8?cdn=https://edge3.1internet.tv&netprav=/hls-vod11/streams/1tv/netprav.m3u8&e=1612167932&s=xYE6gwzNbFtK18dA%2BKi65dKdNNj66m%2FnDHqtQzwuNjXIFPwhYmszDGst4bcOlcMrro6OFjg7E6QmLdfG5pwKj%2FRtkdRpUITYyqSb2RDkvyRwAXFttf%2FKkWPz0FOODQh2vHsa0AB8WSfuoqZ4J9mUdRFV1Iqu3AbTsNgyrVHqyHbiA2ka8UaZzsassFO5aJxZzPiRhkHQ7GPIgHz%2BNk9Ks8a%2BvRMWEvxwhENL8wMAf33%2Fe3kTZTqNeZNTz1JN5Y%2Fk
+#EXTINF:-1, Россия 1 HD
+https://livehlsvgtrk2.cdnvideo.ru/hls/russia_hd/playlist_4.m3u8?md5=CtdXntP_1qky9rpxaLTz2A&e=1612180680&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+#EXTINF:-1,  НТВ
+https://mob3-ntv.cdnvideo.ru/ntv/smil:ntvair001.smil/chunklist_b664000.m3u8?md5=AxcnYP6wtrHt8YdLfz7DBw&e=1612772906&hls_proxy_host=pub3.rtmp.s01.l.ntv
+#EXTINF:-1,  ТВЦ
+https://mobdrm.mediavitrina.ru/hls-live1/streams/tvc/tvc-chunks-1.m3u8?cdn=https://edge02d.mediavitrina.ru&token=eJxIK5SskGIGjf_Ji1dTjrZ1iNN3Y4pqsYcfBhSh-Yk.ZfHxkwhHrSGYOUpcGL7gv9DkEczFBGrJZdHelDXRiPU.1612168316
+#EXTINF:-1,  Культура
+https://mobdrm.mediavitrina.ru/hls-livec2/streams/russiak.smil/chunklist_b546000.m3u8?cdn=https://vgtrk-live.gcdn.co&token=cCD7wzwlNEK45glEGrmrdVQx7JVYVfxNXplvgmOFbI8.RHliRGZA6Tlf7v13Mj2_69PWMdF7cjtW1UxrROO2qiw.1612168400
+#EXTINF:-1,  Россия 24
+https://mobdrm.mediavitrina.ru/hls-livec2/streams/russia24.smil/chunklist_b546000.m3u8?cdn=https://vgtrk-live.gcdn.co&token=ZLdbGPeEL-_QkI9wdzqjZHgRvUGN-SEihBgwkUV54Y0.SyOlJEpJAXbSckQRhCBW_vK39v-NWBi3PFOwlDi5M7s.1612168644
+#EXTINF:-1,  Че! 
+https://mobdrm.mediavitrina.ru/hls-live1/streams/ctc-che/ctc-che-chunks-1.m3u8?cdn=https://edge01d.mediavitrina.ru&token=Zzi_Xq_aS8Au2ig_Ih4uy_57xCHsBDbice9Fy_u3-AQ.t1uZYD6-epdiqmKdRKZ-iNRMbD3G8AA61TH_UzuCEaU.1612168835
+#EXTINF:-1,  5 канал
+https://mobdrm.mediavitrina.ru/hls-live1/streams/tv-5/tv-5-chunks-1.m3u8?cdn=https://edge02r.mediavitrina.ru&token=yQH5bAYG-rwb_bMwjFO7FSeGC3f3oQw1yDPofK-BuSs.GKCZLKZoaB0PLrGx_h_vxe92BBiWBsykrn-hXimMcqg.1612169004
+#EXTINF:-1,  Звезда
+https://mobdrm.mediavitrina.ru/hls-live1/streams/zvezda/zvezda-chunks-1.m3u8?cdn=https://edge02d.mediavitrina.ru&token=Sn5w3wM4b3qQSsvY9viQjCVtynF_QslE2K7pBa0lj4s.gWLnJbraT22EA1mOqwuPjvvX2cR74n5ipuULn86OG5U.1612169104
+#EXTINF:-1,  МИР
+https://mobdrm.mediavitrina.ru/hls-live1/streams/mtrkmir/mtrkmir-chunks-1.m3u8?cdn=https://edge02r.mediavitrina.ru&token=rc3TS6LCnZi_aaWV_2LxX5MIjeQ2EIF1QXpO_X_HGzw.nZh-2sSX7KxtQ2iSks14wE5_JM-8YHxfYZmsJdZDbeo.1612169204
+#EXTINF:-1,  МУЗ ТВ
+https://mobdrm.mediavitrina.ru/hls-live1/streams/muztv/muztv-chunks-1.m3u8?cdn=https://edge01r.mediavitrina.ru&token=5P7eKNFLKVygbWopbYRxopMDfZjkHRAESoyvQe7Omf0.wD-3CDaYxqCmt8i6lhubmg2K-tcmX5HLnhrJZQ-t0Fg.1612169287
+
+
 #EXTINF:-1, РенТВ HD
 https://mobdrm.mediavitrina.ru/hls-live1/streams/ren-tv/ren-tv-chunks-4.m3u8?cdn=https://nmg-live.gcdn.co&token=Y_O1h0Khy9XZ1PXh_TCg5upo1gY66vTAGPQ3MwwKOMw.SAKMQdKxb_XUq10oCKfY7b-oGHJkGlyOBCupSJZZKnc.1612101756
 #EXTINF:-1, СТС HD
