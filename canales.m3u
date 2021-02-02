@@ -32,6 +32,8 @@ https://play.megafon.tv/out/u/v1-video-6361996.mpd?device_type=web&display_type=
 https://strm.yandex.ru/kal/europaplus/europaplus0_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="festival-4k",Festival 4K
 
+#EXTINF:-1 group-title="Музыкальные" tvg-id="freshtv",FreshTV
+https://strm.yandex.ru/kal/fresh/fresh0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="iconcerts",iConcerts HD
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="iconcerts-ru",iConcerts HD Russia
