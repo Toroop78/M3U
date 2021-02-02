@@ -1,8 +1,8 @@
 #EXTM3U
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-#EXTINF:-1 group-title="Музыкальные" tvg-id="1hd" ,1HD Music Television
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="1hd" ,1HD
+https://strm.yandex.ru/kal/1hd/1hd0_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="acb-tv",9 Волна
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://rt-sth-cherks-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_CHERKS_9VOLNA-CHRK/variant.m3u8?version=2
@@ -34,6 +34,8 @@ https://strm.yandex.ru/kal/europaplus/europaplus0_169_1080p.json/index-v1-a1.m3u
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="freshtv",FreshTV
 https://strm.yandex.ru/kal/fresh/fresh0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="hitv",HITV 
+https://strm.yandex.ru/kal/hittv/hittv0_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="iconcerts",iConcerts HD
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="iconcerts-ru",iConcerts HD Russia
@@ -67,11 +69,11 @@ https://play.megafon.tv/out/u/v1-video-5308422.mpd?device_type=web&display_type=
 #EXTINF:-1 group-title="Музыкальные" tvg-id="mtv-russia", MTV Россия HD
 https://play.megafon.tv/out/u/v1-video-6370551.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Музыкальные" tvg-id="musicbox",Music Box Gold
-https://play.megafon.tv/out/u/v1-video-5308426.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+https://strm.yandex.ru/kal/musicboxgold/musicboxgold0_169_576p.json/index-v1-a1.m3u8 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="ru-tv",RU TV
-https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
+https://strm.yandex.ru/kal/rutv_cv/rutv_cv0_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="russian-musicbox",Russian MusicBox HD
-
+https://strm.yandex.ru/kal/rmbox/rmbox0_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="song-tv-ru",Song TV Russia
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="trace-urban",Trace Urban HD
@@ -95,19 +97,22 @@ https://play.megafon.tv/out/u/v1-video-6348376.mpd?device_type=web&display_type=
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_MAIDAN/variant.m3u8?version=2
 #EXTINF:-1 group-title="Музыкальные" tvg-id="matur-tv",Матур ТВ
-https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+https://strm.yandex.ru/kal/matur/matur0_169_1080p.json/index-v1-a1.m3u8 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="muztv",Муз ТВ
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8?version=2
+https://strm.yandex.ru/kal/muztv_supres/muztv_supres0_169_720p.json/index-v1-a1.m3u8 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="muzyka-pervogo",Музыка Первого
 https://play.megafon.tv/out/u/v1-video-5308408.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Музыкальные" tvg-id="no_epg_music",Новое Радио
+https://strm.yandex.ru/kal/nasheradio/nasheradio0_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="o2tv",О2ТВ
-https://play.megafon.tv/out/u/v1-video-5308486.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-
+https://strm.yandex.ru/kal/o2/o20_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="no_epg_music",Страна FM
+https://strm.yandex.ru/kal/srtranafm/srtranafm0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="tnt-music",ТНТ Music
-
+https://strm.yandex.ru/kal/tntmusic/tntmusic0_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="shanson-tv",Шансон-ТВ
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="shant-music-hd",Шант Music HD
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
