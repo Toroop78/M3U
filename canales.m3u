@@ -29,7 +29,7 @@ https://play.megafon.tv/out/u/v1-video-6361996.mpd?device_type=web&display_type=
 #EXTINF:-1 group-title="Музыкальные" tvg-id="clubbing-tv",Clubbing TV
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="europa-plus-tv", Europa Plus TV
-https://play.megafon.tv/out/u/v1-video-5308393.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+https://strm.yandex.ru/kal/europaplus/europaplus0_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="festival-4k",Festival 4K
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="iconcerts",iConcerts HD
