@@ -7,7 +7,7 @@ http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://rt-sth-cherks-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_CHERKS_9VOLNA-CHRK/variant.m3u8?version=2
 #EXTINF:-1 group-title="Музыкальные" tvg-id="aiva",Avia
-
+https://strm.yandex.ru/kal/aiva/aiva0_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="no_epg_music",Amoreyo HD
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="bridge-hd",Bridge HD
