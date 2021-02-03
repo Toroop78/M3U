@@ -116,3 +116,74 @@ https://strm.yandex.ru/kal/tntmusic/tntmusic0_169_1080p.json/index-v1-a1.m3u8
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
+#EXTINF:-1 group-title="Спортивные" tvg-id="eurosport1",Eurosport 1 HD
+https://play.megafon.tv/out/u/v1-video-7986568.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Спортивные" tvg-id="eurosport2",Eurosport 2
+https://play.megafon.tv/out/u/v1-video-6348379.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Спортивные" tvg-id="eurosport-4k",Eurosport 4K
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/variant.m3u8?version=2
+#EXTINF:-1 group-title="Спортивные" tvg-id="eurosport-gold",Eurosport Gold
+
+#EXTINF:-1 group-title="Спортивные" tvg-id="extreme-sports",Extreme Sports Сhannel
+https://play.megafon.tv/out/u/v1-video-7731339.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Спортивные" tvg-id="fastfunbox-hd",Fastnfunbox
+https://play.megafon.tv/out/u/v1-video-7969108.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Спортивные" tvg-id="fightbox-hd",Fightbox
+https://play.megafon.tv/out/u/v1-video-6782120.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+
+#EXTINF:-1 group-title="Спортивные" tvg-id="fuel-tv-hd",Fuel HD
+
+#EXTINF:-1 group-title="Спортивные" tvg-id="golf-tv",Golf TV
+
+#EXTINF:-1 group-title="Спортивные" tvg-id="m1global",M-1 Global
+https://play.megafon.tv/out/u/v1-video-5308387.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Спортивные" tvg-id="russky-ekstrim",Russian Extreme HD/Русский экстрим
+
+#EXTINF:-1 group-title="Спортивные" tvg-id="russian-extreme-uhd",Russian Extreme Ultra
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/variant.m3u8?version=2
+#EXTINF:-1 group-title="Спортивные" tvg-id="trace-sport-stars",Trace Sport Stars HD
+https://play.megafon.tv/out/u/v1-video-9650964.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Спортивные" tvg-id="ufc",UFC
+
+#EXTINF:-1 group-title="Спортивные" tvg-id="viasat-sport",Viasat Sport
+http://persik.tv/stream/3602/287583/10249.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="box-tv",Бокс ТВ
+https://play.megafon.tv/out/u/v1-video-5308382.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Спортивные" tvg-id="konny-mir"",Конный мир
+https://play.megafon.tv/out/u/v1-video-6348299.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Спортивные" tvg-id="kxl-hd",КХЛ ТВ HD
+https://play.megafon.tv/out/u/v1-video-7968891.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Спортивные" tvg-id="match-arena",Матч! Арена
+https://play.megafon.tv/out/u/v1-video-6348378.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Спортивные" tvg-id="match-boets",Матч! Боец
+https://play.megafon.tv/out/u/v1-video-6348398.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Спортивные" tvg-id="match-igra",Матч! Игра
+https://play.megafon.tv/out/u/v1-video-6348305.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Спортивные" tvg-id="match-planeta",Матч! Планета
+
+#EXTINF:-1 group-title="Спортивные" tvg-id="match-premier",Матч! Премьер
+https://play.megafon.tv/out/u/v1-video-6348406.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Спортивные" tvg-id="match-nash-sport",Матч! Страна
+https://play.megafon.tv/out/u/v1-video-6348388.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Спортивные" tvg-id="match-tv",Матч! ТВ HD
+https://play.megafon.tv/out/u/v1-video-6348386.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Спортивные" tvg-id="match-football1",Матч! Футбол 1
+https://play.megafon.tv/out/u/v1-video-6348297.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Спортивные" tvg-id="match-football2",Матч! Футбол 2
+https://play.megafon.tv/out/u/v1-video-6348309.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Спортивные" tvg-id="match-football3",Матч! Футбол 3
+https://play.megafon.tv/out/u/v1-video-6348396.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Спортивные" tvg-id="mir-basketbola",Мир Баскетбола
+https://play.megafon.tv/out/u/v1-video-6348401.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Спортивные" tvg-id="motorsportv-tv",Моторспорт ТВ
+https://play.megafon.tv/out/u/v1-video-6782133.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Спортивные" tvg-id="sila",Сила
+https://stream-msk-04.ott.tricolor.tv/dtv/id633_MSKSG-PVR-1--Channel_LIVE5/03/plst.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="start",Старт
+https://strm.yandex.ru/kal/start/start0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="football-ru",Футбол
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
