@@ -366,6 +366,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8?version=2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="yuvelirochka" tvg-name="Ювелирочка" group-title="Развлекательные",Ювелирочка
 https://play.megafon.tv/out/u/v1-video-5308481.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Развлекательные" tvg-id="tochka-otryva",Точка Отрыва
+https://play.megafon.tv/out/u/v1-video-7731224.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 
 #EXTINF:-1 group-title="Детские" tvg-id="ani",Ani
 https://play.megafon.tv/out/u/v1-video-7969092.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
