@@ -187,3 +187,20 @@ https://strm.yandex.ru/kal/start/start0_169_1080p.json/index-v1-a1.m3u8
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
+#EXTINF:-1 group-title="Живая природа" tvg-id="animal-planet",Animal Planet HD
+https://play.megafon.tv/out/u/v1-video-6370557.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Живая природа" tvg-id="nat-geo-wild",Nat Geo Wild HD
+https://play.megafon.tv/out/u/v1-video-6782073.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Живая природа" tvg-id="viasat-nature",Viasat Nature
+
+#EXTINF:-1 group-title="Живая природа" tvg-id="viasat-nature-history-hd",Viasat Nature/History HD
+
+#EXTINF:-1 group-title="Живая природа" tvg-id="zoopark",ZooПарк
+https://play.megafon.tv/out/u/v1-video-7731259.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Живая природа" tvg-id="v-mire-zhivotnyx-hd",В Мире Животных HD
+https://play.megafon.tv/out/u/v1-video-7986559.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Живая природа" tvg-id="zhivaya-priroda",Живая природа HD
+
+#EXTINF:-1 group-title="Живая природа" tvg-id="zootv",Зоо ТВ
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
