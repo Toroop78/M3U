@@ -204,3 +204,151 @@ https://play.megafon.tv/out/u/v1-video-7986559.mpd?device_type=web&display_type=
 #EXTINF:-1 group-title="Живая природа" tvg-id="zootv",Зоо ТВ
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="365-dnej",365 дней ТВ
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="animal-planet",Animal Planet
+http://85.15.80.198:4022/udp/238.0.2.35:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="cbs-reality",CBS Reality
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="da-vinci",Da Vinci
+http://85.15.80.198:4022/udp/238.0.2.127:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="discovery-science",Discovery Science
+https://play.megafon.tv/out/u/v1-video-6370558.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Познавательные" tvg-id="docubox-hd",Docubox
+https://play.megafon.tv/out/u/v1-video-6782117.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Познавательные" tvg-id="english-club-tv",English club TV
+https://play.megafon.tv/out/u/v1-video-6782103.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Познавательные" tvg-id="no_epg",Fine Living
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="hd-media",HD Медиа 
+https://strm.yandex.ru/kal/hdmedia/hdmedia0_169_720p.json/index-v1-a1.m3u8 
+#EXTINF:-1 group-title="Познавательные" tvg-id="hd-life",HDL
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="h2",History2
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="insight-ultra-hd",Insight UHD
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="kazakh-tv",Kаzаkh TV
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="love-nature-4k",Love Nature 4K
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/variant.m3u8?version=2
+#EXTINF:-1 group-title="Познавательные" tvg-id="motor-trend",MotorTrend
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="museum-hd",Museum HD
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="nano-hd",Nano HD
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="national-geographic",National Geographic HD
+https://play.megafon.tv/out/u/v1-video-6782138.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Познавательные" tvg-id="nat-geo-wild",Nat Geo Wild HD
+https://play.megafon.tv/out/u/v1-video-6782073.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Познавательные" tvg-id="ocean-tv",Ocean-TV
+http://85.15.80.198:4022/udp/238.0.2.57:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="rtg-hd" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/nclogo1508922855351.png",RTG HD 
+https://strm.yandex.ru/kal/rtg/rtg0_169_1080p.json/index-v1-a1.m3u8 
+#EXTINF:-1 group-title="Познавательные" tvg-id="rtg-int",RTG International
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="rtg-tv",RTG TV
+http://85.15.80.198:4022/udp/238.0.2.112:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="trace-sport-stars",Trace Sport Stars
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="travel-channel",Travel Channel HD
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="travel-adventure",Travel+Adventure
+https://play.megafon.tv/out/u/v1-video-6370553.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Познавательные" tvg-id="no_epg",Travelxp HD
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="tv-brics",TV BRICS
+https://strm.yandex.ru/kal/tvbrics/tvbrics0_169_1080p.json/index-v1-a1.m3u8 
+#EXTINF:-1 group-title="Познавательные" tvg-id="viasat-explore",Viasat Explore
+http://85.15.80.198:4022/udp/238.0.2.71:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="viasat-history",Viasat History
+http://85.15.80.198:4022/udp/238.0.2.72:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="viasat-nature",Viasat Nature
+http://85.15.80.198:4022/udp/238.0.2.128:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="viasat-nature-history-hd",Viasat Nature/History HD
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="zoopark",Zooпарк
+https://play.megafon.tv/out/u/v1-video-7731259.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Познавательные" tvg-id="no_epg",Аква ТВ / Aqua TV
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="arsenaltv",Арсенал
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="bolshaya-azia",Большая Азия 
+https://strm.yandex.ru/kal/bigasia/bigasia0_169_1080p.json/index-v1-a1.m3u8 
+#EXTINF:-1 group-title="Познавательные" tvg-id="v-mire-zhivotnyx-hd",В мире животных
+https://play.megafon.tv/out/u/v1-video-7986559.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Познавательные" tvg-id="doktor",Доктор
+http://85.15.80.198:4022/udp/238.0.2.133:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="domashnie-zhivotnye",Домашние животные
+http://85.15.80.198:4022/udp/238.0.2.81:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="ege-tv",ЕГЭ
+https://strm.yandex.ru/kal/egetv/egetv0_169_576p.json/index-v1-a1.m3u8 
+#EXTINF:-1 group-title="Познавательные" tvg-id="zhivaya-planeta",Живая планета
+http://85.15.80.198:4022/udp/238.0.2.43:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="zhivaya-priroda",Живая природа HD
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="zootv",Зоо ТВ
+http://85.15.80.198:4022/udp/238.0.2.76:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="istoria",История
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="kluch",Ключ
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="kto-est-kto",Кто есть кто
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="ministerstvo-idey",Министерство идей
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="mir-vokrug",Мир вокруг 
+https://strm.yandex.ru/kal/mitvokrug/mitvokrug0_169_1080p.json/index-v1-a1.m3u8 
+#EXTINF:-1 group-title="Познавательные" tvg-id="moskovsky-obrazovatelny",Московский образовательный
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="moya-planeta",Моя планета
+https://play.megafon.tv/out/u/v1-video-7731410.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Познавательные" tvg-id="nauka",Наука
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="nauka-20",Наука 2.0
+https://play.megafon.tv/out/u/v1-video-7731147.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Познавательные" tvg-id="nasha-sibir",Наша Сибирь
+https://strm.yandex.ru/kal/sibir/sibir0_169_1080p.json/index-v1-a1.m3u8 
+#EXTINF:-1 group-title="Познавательные" tvg-id="neizvestnaya-planeta",Неизвестная планета 
+https://strm.yandex.ru/kal/unknownplanet_supres/unknownplanet_supres0_169_1080p.json/index-v1-a1.m3u8 
+#EXTINF:-1 group-title="Познавательные" tvg-id="otkryty-mir",Открытый Мир 
+https://strm.yandex.ru/kal/openworld/openworld0_169_576p.json/index-v1-a1.m3u8 
+#EXTINF:-1 group-title="Познавательные" tvg-id="perpetmobile",Перпетуум мобиле 
+https://strm.yandex.ru/kal/perpetuum/perpetuum0_169_720p.json/index-v1-a1.m3u8 
+#EXTINF:-1 group-title="Познавательные" tvg-id="no_epg",Планета HD
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="pobeda",Победа
+https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b2628000_slru.m3u8?hls_proxy_host=b1b1afbf267e0ec0e66706203ee525ae
+#EXTINF:-1 group-title="Познавательные" tvg-id="no_epg",Полёт ТВ / Flight TV
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="prikluchenia-hd",Приключения
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="prosveschenie",Просвещение
+https://strm.yandex.ru/kal/prosveshenie/prosveshenie0_1511_576p.json/index-v1-a1.m3u8 
+#EXTINF:-1 group-title="Познавательные" tvg-id="no_epg",Психология
+http://85.15.80.198:4022/udp/238.0.2.96:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="ratnik",Ратник 
+https://strm.yandex.ru/kal/ratnik/ratnik0_169_1080p.json/index-v1-a1.m3u8 
+#EXTINF:-1 group-title="Познавательные" tvg-id="outdoor-channel",РЖД
+http://85.15.80.198:4022/udp/238.0.2.26:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="no_epg",Родной канал
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="sovsek",Совершенно секретно 
+https://strm.yandex.ru/kal/sovsec_supres/sovsec_supres0_2011_720p.json/index-v1-a1.m3u8 
+#EXTINF:-1 group-title="Познавательные" tvg-id="texno-24",Техно 24
+http://85.15.80.198:4022/udp/238.0.2.32:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="galaxy-tv",Тайны галактики (Galaxy)
+https://play.megafon.tv/out/u/v1-video-6361993.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Познавательные" tvg-id="no_epg",ТВ Экстра
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="teleputeshestvia",Телепутешествия
+
+#EXTINF:-1 group-title="Познавательные" tvg-id="terra-inkognita",Терра Инкогнита 
+https://strm.yandex.ru/kal/terra/terra0_169_720p.json/index-v1-a1.m3u8 
+#EXTINF:-1 group-title="Познавательные" tvg-id="no_epg",Эврика HD
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
