@@ -1,6 +1,5 @@
 #EXTM3U
 
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 #EXTINF:-1 group-title="Музыкальные" tvg-id="1hd" ,1HD
 https://strm.yandex.ru/kal/1hd/1hd0_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="acb-tv",9 Волна
@@ -113,8 +112,6 @@ https://strm.yandex.ru/kal/tntmusic/tntmusic0_169_1080p.json/index-v1-a1.m3u8
 http://85.15.80.198:4022/udp/238.0.2.108:1234
 #EXTINF:-1 group-title="Музыкальные" tvg-id="shant-music-hd",Шант Music HD
 
-///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
 #EXTINF:-1 group-title="Спортивные" tvg-id="eurosport1",Eurosport 1 HD
 https://play.megafon.tv/out/u/v1-video-7986568.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Спортивные" tvg-id="eurosport2",Eurosport 2
@@ -130,7 +127,6 @@ https://play.megafon.tv/out/u/v1-video-7731339.mpd?device_type=web&display_type=
 https://play.megafon.tv/out/u/v1-video-7969108.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Спортивные" tvg-id="fightbox-hd",Fightbox
 https://play.megafon.tv/out/u/v1-video-6782120.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-
 #EXTINF:-1 group-title="Спортивные" tvg-id="fuel-tv-hd",Fuel HD
 
 #EXTINF:-1 group-title="Спортивные" tvg-id="golf-tv",Golf TV
@@ -154,6 +150,8 @@ https://play.megafon.tv/out/u/v1-video-5308382.mpd?device_type=web&display_type=
 https://play.megafon.tv/out/u/v1-video-6348299.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Спортивные" tvg-id="kxl-hd",КХЛ ТВ HD
 https://play.megafon.tv/out/u/v1-video-7968891.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Спортивные" tvg-id="match-tv",Матч!
+https://play.megafon.tv/out/u/v1-video-6348386.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Спортивные" tvg-id="match-arena",Матч! Арена
 https://play.megafon.tv/out/u/v1-video-6348378.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Спортивные" tvg-id="match-boets",Матч! Боец
@@ -166,14 +164,12 @@ https://play.megafon.tv/out/u/v1-video-6348305.mpd?device_type=web&display_type=
 https://play.megafon.tv/out/u/v1-video-6348406.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Спортивные" tvg-id="match-nash-sport",Матч! Страна
 https://play.megafon.tv/out/u/v1-video-6348388.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Спортивные" tvg-id="match-tv",Матч! ТВ HD
-https://play.megafon.tv/out/u/v1-video-6348386.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Спортивные" tvg-id="match-football1",Матч! Футбол 1
 https://play.megafon.tv/out/u/v1-video-6348297.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Спортивные" tvg-id="match-football2",Матч! Футбол 2
 https://play.megafon.tv/out/u/v1-video-6348309.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Спортивные" tvg-id="match-football3",Матч! Футбол 3
-https://play.megafon.tv/out/u/v1-video-6348396.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+https://play.megafon.tv/out/u/v1-video-6348335.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Спортивные" tvg-id="mir-basketbola",Мир Баскетбола
 https://play.megafon.tv/out/u/v1-video-6348401.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Спортивные" tvg-id="motorsportv-tv",Моторспорт ТВ
@@ -183,24 +179,6 @@ https://stream-msk-04.ott.tricolor.tv/dtv/id633_MSKSG-PVR-1--Channel_LIVE5/03/pl
 #EXTINF:-1 group-title="Спортивные" tvg-id="start",Старт
 https://strm.yandex.ru/kal/start/start0_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-id="football-ru",Футбол
-
-///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-#EXTINF:-1 group-title="Живая природа" tvg-id="animal-planet",Animal Planet HD
-https://play.megafon.tv/out/u/v1-video-6370557.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Живая природа" tvg-id="nat-geo-wild",Nat Geo Wild HD
-https://play.megafon.tv/out/u/v1-video-6782073.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Живая природа" tvg-id="viasat-nature",Viasat Nature
-
-#EXTINF:-1 group-title="Живая природа" tvg-id="viasat-nature-history-hd",Viasat Nature/History HD
-
-#EXTINF:-1 group-title="Живая природа" tvg-id="zoopark",ZooПарк
-https://play.megafon.tv/out/u/v1-video-7731259.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Живая природа" tvg-id="v-mire-zhivotnyx-hd",В Мире Животных HD
-https://play.megafon.tv/out/u/v1-video-7986559.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Живая природа" tvg-id="zhivaya-priroda",Живая природа HD
-
-#EXTINF:-1 group-title="Живая природа" tvg-id="zootv",Зоо ТВ
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
