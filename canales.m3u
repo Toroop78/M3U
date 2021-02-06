@@ -12,13 +12,13 @@ https://strm.yandex.ru/kal/aiva/aiva0_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="bridge-hd",Bridge HD
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="bridge-tv",Bridge TV
-http://85.15.80.198:4022/udp/238.0.2.37:1234
+https://play.megafon.tv/out/u/v1-video-5308463.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Музыкальные" tvg-id="bridge-tv-classic",Bridge TV Classic
 https://play.megafon.tv/out/u/v1-video-6348368.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Музыкальные" tvg-id="bridge-tv-dance" ,Bridge TV Dance
-http://85.15.80.198:4022/udp/238.0.2.168:1234
+#EXTINF:-1 group-title="Музыкальные" tvg-id="bridge-tv-dance" ,Bridge TV Hits
+https://play.megafon.tv/out/u/v1-video-5308450.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Музыкальные" tvg-id="bridge-tv-ruxit", Bridge TV Русский хит
-http://85.15.80.198:4022/udp/238.0.2.52:1234
+https://play.megafon.tv/out/u/v1-video-6361996.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Музыкальные" tvg-id="bridge-tv-shlager",Bridge TV Шлягер
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="c-music-tv",C Music TV HD
@@ -53,6 +53,8 @@ https://play.megafon.tv/out/u/v1-video-7969133.mpd?device_type=web&display_type=
 https://play.megafon.tv/out/u/v1-video-7731481.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Музыкальные" tvg-id="vh1-classic",MTV 80s
 http://85.15.80.198:4022/udp/238.0.2.70:1234
+#EXTINF:-1 group-title="Музыкальные" tvg-id="mtv-rocks",MTV 90s
+https://play.megafon.tv/out/u/v1-video-6348366.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Музыкальные" tvg-id="mtv-europe",MTV Europe
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="mtv-dance",MTV Dance
@@ -62,8 +64,6 @@ http://85.15.80.198:4022/udp/238.0.2.70:1234
 #EXTINF:-1 group-title="Музыкальные" tvg-id="mtv-live-hd",MTV Live HD
 https://play.megafon.tv/out/u/v1-video-5308422.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Музыкальные" tvg-id="mtv-music-24",MTV Music 24
-
-#EXTINF:-1 group-title="Музыкальные" tvg-id="mtv-rocks",MTV Rocks
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="mtv-russia", MTV Россия HD
 https://play.megafon.tv/out/u/v1-video-6370551.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
