@@ -51,7 +51,7 @@ https://play.megafon.tv/out/u/v1-video-7969133.mpd?device_type=web&display_type=
 #EXTINF:-1 group-title="Музыкальные" tvg-id="mezzo-live-hd", Mezzo Live HD
 https://play.megafon.tv/out/u/v1-video-7731481.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Музыкальные" tvg-id="vh1-classic",MTV 80s
-
+https://play.megafon.tv/out/u/v1-video-6348364.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Музыкальные" tvg-id="mtv-rocks",MTV 90s
 https://play.megafon.tv/out/u/v1-video-6348366.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Музыкальные" tvg-id="mtv-europe",MTV Europe
