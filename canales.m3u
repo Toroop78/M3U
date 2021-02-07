@@ -435,8 +435,6 @@ https://play.megafon.tv/out/u/v1-video-7969140.mpd?device_type=web&display_type=
 
 #EXTINF:-1 group-title="Детские",О!
 https://play.megafon.tv/out/u/v1-video-5308402.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Детские",Радость моя
-https://play.megafon.tv/out/u/v1-video-8013135.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Детские",Рыжий
 https://play.megafon.tv/out/u/v1-video-6782137.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Детские",Сказки зайки
