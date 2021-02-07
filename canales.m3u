@@ -255,6 +255,74 @@ https://play.megafon.tv/out/u/v1-video-6361993.mpd?device_type=web&display_type=
 https://strm.yandex.ru/kal/terra/terra0_169_720p.json/index-v1-a1.m3u8 
 #EXTINF:-1 group-title="Познавательные" tvg-id="no_epg",Эврика HD
 
+#EXTINF:-1 group-title="Хобби и увлечения",E TV
+https://play.megafon.tv/out/u/v1-video-7969126.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Хобби и увлечения",Food Network
+
+#EXTINF:-1 group-title="Хобби и увлечения",HGTV
+https://play.megafon.tv/out/u/v1-video-7986580.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Хобби и увлечения",MyZen TV
+
+#EXTINF:-1 group-title="Хобби и увлечения",Outdoor Channel HD
+https://play.megafon.tv/out/u/v1-video-6348313.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Хобби и увлечения",Авто Плюс
+https://play.megafon.tv/out/u/v1-video-6348295.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Хобби и увлечения",Авто24
+https://play.megafon.tv/out/u/v1-video-7731143.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Хобби и увлечения",Бобёр
+https://play.megafon.tv/out/u/v1-video-6348374.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Хобби и увлечения",Диалоги о рыбалке
+https://strm.yandex.ru/kal/dialogi/dialogi0_169_1080p.json/index-v1-a1.m3u8 
+#EXTINF:-1 group-title="Хобби и увлечения",Дикая охота HD
+
+#EXTINF:-1 group-title="Хобби и увлечения",Дикая рыбалка HD
+
+#EXTINF:-1 group-title="Хобби и увлечения",Дикий
+https://play.megafon.tv/out/u/v1-video-7986619.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Хобби и увлечения",Драйв
+https://play.megafon.tv/out/u/v1-video-7731225.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Хобби и увлечения",Еда
+https://play.megafon.tv/out/u/v1-video-7986629.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Хобби и увлечения",Еда премиум
+https://play.megafon.tv/out/u/v1-video-7731337.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Хобби и увлечения",Загородная жизнь
+https://play.megafon.tv/out/u/v1-video-7731148.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Хобби и увлечения",Загородный
+https://strm.yandex.ru/kal/zagorod/zagorod0_169_1080p.json/index-v1-a1.m3u8 
+#EXTINF:-1 group-title="Хобби и увлечения",КтоКуда
+
+#EXTINF:-1 group-title="Хобби и увлечения",Кухня ТВ
+https://play.megafon.tv/out/u/v1-video-5308482.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Хобби и увлечения",Мама
+https://play.megafon.tv/out/u/v1-video-8013126.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Хобби и увлечения",Морской
+https://play.megafon.tv/out/u/v1-video-6348359.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Хобби и увлечения",Мужской
+https://play.megafon.tv/out/u/v1-video-7731151.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Хобби и увлечения",Национальный жилищный канал
+
+#EXTINF:-1 group-title="Хобби и увлечения",Наша тема
+https://play.megafon.tv/out/u/v1-video-7731226.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Хобби и увлечения",Оружие
+https://play.megafon.tv/out/u/v1-video-5308485.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Хобби и увлечения",Охота и рыбалка
+https://play.megafon.tv/out/u/v1-video-6348325.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Хобби и увлечения",Охотник и рыболов
+https://strm.yandex.ru/kal/ohotnik/ohotnik0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Хобби и увлечения",Первый вегетарианский
+https://strm.yandex.ru/kal/1vegetarian/1vegetarian0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Хобби и увлечения",Пёс и Ко
+https://strm.yandex.ru/kal/pesiko/pesiko0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Хобби и увлечения",Рыбалка и охота
+
+#EXTINF:-1 group-title="Хобби и увлечения",Рыболов
+
+#EXTINF:-1 group-title="Хобби и увлечения",Телекафе
+https://play.megafon.tv/out/u/v1-video-6348350.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Хобби и увлечения",Тномер
+https://strm.yandex.ru/kal/tnomer/tnomer0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Хобби и увлечения",Усадьба
+
 #EXTINF:-1 group-title="Спортивные" tvg-id="eurosport1",Eurosport 1 HD
 https://play.megafon.tv/out/u/v1-video-7986568.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Спортивные" tvg-id="eurosport2",Eurosport 2
