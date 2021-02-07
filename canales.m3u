@@ -158,7 +158,7 @@ https://strm.yandex.ru/kal/rtg/rtg0_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="rtg-int",RTG International
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="rtg-tv",RTG TV
-http://85.15.80.198:4022/udp/238.0.2.112:1234
+
 #EXTINF:-1 group-title="Познавательные" tvg-id="trace-sport-stars",Trace Sport Stars
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="travel-channel",Travel Channel HD
