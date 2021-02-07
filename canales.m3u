@@ -67,7 +67,7 @@ https://play.megafon.tv/out/u/v1-video-5308422.mpd?device_type=web&display_type=
 #EXTINF:-1 group-title="Музыкальные" tvg-id="mtv-russia", MTV Россия HD
 https://play.megafon.tv/out/u/v1-video-6370551.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Музыкальные" tvg-id="musicbox",Music Box Gold
-https://strm.yandex.ru/kal/musicboxgold/musicboxgold0_169_576p.json/index-v1-a1.m3u8 
+https://strm.yandex.ru/kal/musicboxgold/musicboxgold0_169_576p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="ru-tv",RU TV
 https://strm.yandex.ru/kal/rutv_cv/rutv_cv0_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="russian-musicbox",Russian MusicBox HD
@@ -95,9 +95,9 @@ https://play.megafon.tv/out/u/v1-video-6348376.mpd?device_type=web&display_type=
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_MAIDAN/variant.m3u8?version=2
 #EXTINF:-1 group-title="Музыкальные" tvg-id="matur-tv",Матур ТВ
-https://strm.yandex.ru/kal/matur/matur0_169_1080p.json/index-v1-a1.m3u8 
+https://strm.yandex.ru/kal/matur/matur0_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="muztv",Муз ТВ
-https://strm.yandex.ru/kal/muztv_supres/muztv_supres0_169_720p.json/index-v1-a1.m3u8 
+https://strm.yandex.ru/kal/muztv_supres/muztv_supres0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="muzyka-pervogo",Музыка Первого
 https://play.megafon.tv/out/u/v1-video-5308408.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Музыкальные" tvg-id="no_epg_music",Новое Радио
@@ -129,7 +129,7 @@ https://play.megafon.tv/out/u/v1-video-6782103.mpd?device_type=web&display_type=
 #EXTINF:-1 group-title="Познавательные" tvg-id="no_epg",Fine Living
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="hd-media",HD Медиа 
-https://strm.yandex.ru/kal/hdmedia/hdmedia0_169_720p.json/index-v1-a1.m3u8 
+https://strm.yandex.ru/kal/hdmedia/hdmedia0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="hd-life",HDL
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="h2",History2
@@ -168,7 +168,7 @@ https://play.megafon.tv/out/u/v1-video-6370553.mpd?device_type=web&display_type=
 #EXTINF:-1 group-title="Познавательные" tvg-id="no_epg",Travelxp HD
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="tv-brics",TV BRICS
-https://strm.yandex.ru/kal/tvbrics/tvbrics0_169_1080p.json/index-v1-a1.m3u8 
+https://strm.yandex.ru/kal/tvbrics/tvbrics0_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-explore",Viasat Explore
 http://85.15.80.198:4022/udp/238.0.2.71:1234
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-history",Viasat History
@@ -184,7 +184,7 @@ https://play.megafon.tv/out/u/v1-video-7731259.mpd?device_type=web&display_type=
 #EXTINF:-1 group-title="Познавательные" tvg-id="arsenaltv",Арсенал
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="bolshaya-azia",Большая Азия 
-https://strm.yandex.ru/kal/bigasia/bigasia0_169_1080p.json/index-v1-a1.m3u8 
+https://strm.yandex.ru/kal/bigasia/bigasia0_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="v-mire-zhivotnyx-hd",В мире животных
 https://play.megafon.tv/out/u/v1-video-7986559.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Познавательные" tvg-id="doktor",Доктор
@@ -192,7 +192,7 @@ https://play.megafon.tv/out/u/v1-video-7731145.mpd?device_type=web&display_type=
 #EXTINF:-1 group-title="Познавательные" tvg-id="domashnie-zhivotnye",Домашние животные
 http://85.15.80.198:4022/udp/238.0.2.81:1234
 #EXTINF:-1 group-title="Познавательные" tvg-id="ege-tv",ЕГЭ
-https://strm.yandex.ru/kal/egetv/egetv0_169_576p.json/index-v1-a1.m3u8 
+https://strm.yandex.ru/kal/egetv/egetv0_169_576p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="zhivaya-planeta",Живая планета
 https://play.megafon.tv/out/u/v1-video-8013125.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Познавательные" tvg-id="zhivaya-priroda",Живая природа HD
@@ -208,7 +208,7 @@ https://play.megafon.tv/out/u/v1-video-7986608.mpd?device_type=web&display_type=
 #EXTINF:-1 group-title="Познавательные" tvg-id="ministerstvo-idey",Министерство идей
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="mir-vokrug",Мир вокруг 
-https://strm.yandex.ru/kal/mitvokrug/mitvokrug0_169_1080p.json/index-v1-a1.m3u8 
+https://strm.yandex.ru/kal/mitvokrug/mitvokrug0_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="moskovsky-obrazovatelny",Московский образовательный
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="moya-planeta",Моя планета HD
@@ -216,13 +216,13 @@ https://play.megafon.tv/out/u/v1-video-7731410.mpd?device_type=web&display_type=
 #EXTINF:-1 group-title="Познавательные" tvg-id="nauka-20",Наука 2.0
 https://play.megafon.tv/out/u/v1-video-7731147.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Познавательные" tvg-id="nasha-sibir",Наша Сибирь
-https://strm.yandex.ru/kal/sibir/sibir0_169_1080p.json/index-v1-a1.m3u8 
+https://strm.yandex.ru/kal/sibir/sibir0_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="neizvestnaya-planeta",Неизвестная планета 
 https://strm.yandex.ru/kal/unknownplanet_supres/unknownplanet_supres0_169_1080p.json/index-v1-a1.m3u8 
 #EXTINF:-1 group-title="Познавательные" tvg-id="otkryty-mir",Открытый Мир 
-https://strm.yandex.ru/kal/openworld/openworld0_169_576p.json/index-v1-a1.m3u8 
+https://strm.yandex.ru/kal/openworld/openworld0_169_576p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="perpetmobile",Перпетуум мобиле 
-https://strm.yandex.ru/kal/perpetuum/perpetuum0_169_720p.json/index-v1-a1.m3u8 
+https://strm.yandex.ru/kal/perpetuum/perpetuum0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="no_epg",Планета HD
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="pobeda",Победа
@@ -236,7 +236,7 @@ https://strm.yandex.ru/kal/prosveshenie/prosveshenie0_1511_576p.json/index-v1-a1
 #EXTINF:-1 group-title="Познавательные" tvg-id="no_epg",Психология
 http://85.15.80.198:4022/udp/238.0.2.96:1234
 #EXTINF:-1 group-title="Познавательные" tvg-id="ratnik",Ратник 
-https://strm.yandex.ru/kal/ratnik/ratnik0_169_1080p.json/index-v1-a1.m3u8 
+https://strm.yandex.ru/kal/ratnik/ratnik0_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="outdoor-channel",РЖД
 http://85.15.80.198:4022/udp/238.0.2.26:1234
 #EXTINF:-1 group-title="Познавательные" tvg-id="no_epg",Родной канал
@@ -252,7 +252,7 @@ https://play.megafon.tv/out/u/v1-video-6361993.mpd?device_type=web&display_type=
 #EXTINF:-1 group-title="Познавательные" tvg-id="teleputeshestvia",Телепутешествия
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="terra-inkognita",Терра Инкогнита 
-https://strm.yandex.ru/kal/terra/terra0_169_720p.json/index-v1-a1.m3u8 
+https://strm.yandex.ru/kal/terra/terra0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="no_epg",Эврика HD
 
 #EXTINF:-1 group-title="Хобби и увлечения",E TV
@@ -272,7 +272,7 @@ https://play.megafon.tv/out/u/v1-video-7731143.mpd?device_type=web&display_type=
 #EXTINF:-1 group-title="Хобби и увлечения",Бобёр
 https://play.megafon.tv/out/u/v1-video-6348374.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Хобби и увлечения",Диалоги о рыбалке
-https://strm.yandex.ru/kal/dialogi/dialogi0_169_1080p.json/index-v1-a1.m3u8 
+https://strm.yandex.ru/kal/dialogi/dialogi0_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Хобби и увлечения",Дикая охота HD
 
 #EXTINF:-1 group-title="Хобби и увлечения",Дикая рыбалка HD
@@ -288,7 +288,7 @@ https://play.megafon.tv/out/u/v1-video-7731337.mpd?device_type=web&display_type=
 #EXTINF:-1 group-title="Хобби и увлечения",Загородная жизнь
 https://play.megafon.tv/out/u/v1-video-7731148.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Хобби и увлечения",Загородный
-https://strm.yandex.ru/kal/zagorod/zagorod0_169_1080p.json/index-v1-a1.m3u8 
+https://strm.yandex.ru/kal/zagorod/zagorod0_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Хобби и увлечения",КтоКуда
 
 #EXTINF:-1 group-title="Хобби и увлечения",Кухня ТВ
@@ -422,7 +422,7 @@ https://play.megafon.tv/out/u/v1-video-7986577.mpd?device_type=web&display_type=
 #EXTINF:-1 group-title="Детские",Карусель
 https://play.megafon.tv/out/u/v1-video-6348367.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Детские",Любимое ТВ 
-https://strm.yandex.ru/kal/lovedtv/lovedtv0_169_720p.json/index-v1-a1.m3u8 
+https://strm.yandex.ru/kal/lovedtv/lovedtv0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Детские",Малыш
 https://play.megafon.tv/out/u/v1-video-5612965.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Детские",Мульт
@@ -438,11 +438,11 @@ https://play.megafon.tv/out/u/v1-video-5308402.mpd?device_type=web&display_type=
 #EXTINF:-1 group-title="Детские",Рыжий
 https://play.megafon.tv/out/u/v1-video-6782137.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Детские",Сказки зайки
-https://strm.yandex.ru/kal/skazkizayki/skazkizayki0_169_720p.json/index-v1-a1.m3u8 
+https://strm.yandex.ru/kal/skazkizayki/skazkizayki0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Детские",Смайлик
-https://strm.yandex.ru/kal/smilik/smilik0_169_720p.json/index-v1-a1.m3u8 
+https://strm.yandex.ru/kal/smilik/smilik0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Детские",Советские мультфильмы
-https://strm.yandex.ru/kal/sovmult/sovmult0_169_576p.json/index-v1-a1.m3u8 
+https://strm.yandex.ru/kal/sovmult/sovmult0_169_576p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Детские",СТС kids
 https://play.megafon.tv/out/u/v1-video-6348354.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Детские",Тамыр
@@ -452,15 +452,15 @@ https://play.megafon.tv/out/u/v1-video-7986618.mpd?device_type=web&display_type=
 #EXTINF:-1 group-title="Детские",Шаян ТВ
 
 #EXTINF:-1 group-title="Информационные" tvg-id="360-news", 360° Новости
-https://strm.yandex.ru/kal/360news_supres/360news_supres0_169_720p.json/index-v1-a1.m3u8 
+https://strm.yandex.ru/kal/360news_supres/360news_supres0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Информационные"tvg-id="bbc",BBC World News
 https://play.megafon.tv/out/u/v1-video-7731256.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Информационные" tvg-id="cnn",CNN International
 https://play.megafon.tv/out/u/v1-video-5308462.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Информационные" tvg-id="deutsche-welle-eu",Deutsche Welle Europe
-https://strm.yandex.ru/kal/dw/dw0_169_576p.json/index-v1-a1.m3u8 
+https://strm.yandex.ru/kal/dw/dw0_169_576p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Информационные" tvg-id="france-24",France 24
-https://strm.yandex.ru/kal/france24/france240_169_1080p.json/index-v1-a1.m3u8 
+https://strm.yandex.ru/kal/france24/france240_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Информационные" tvg-id="nhk-world",NHK World TV
 https://play.megafon.tv/out/u/v1-video-6348407.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Информационные"tvg-id="russia-today",Russia Today
@@ -475,15 +475,15 @@ https://play.megafon.tv/out/u/v1-video-6361991.mpd?device_type=web&display_type=
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_STAVR_KAVKAZ24/variant.m3u8?version=2
 #EXTINF:-1 group-title="Информационные" tvg-id="krik-tv",Крик ТВ 
-https://strm.yandex.ru/kal/krik_tv/krik_tv0_169_720p.json/index-v1-a1.m3u8 
+https://strm.yandex.ru/kal/krik_tv/krik_tv0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Информационные" tvg-id="mir-24",Мир 24
 https://strm.yandex.ru/kal/mir24/mir240_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Информационные" tvg-id="rbk",РБК-ТВ
 https://strm.yandex.ru/kal/rbc_supres/rbc_supres0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Информационные" tvg-id="sochi24",Сочи24 
-https://strm.yandex.ru/kal/sochi24/sochi240_169_1080p.json/index-v1-a1.m3u8 
+https://strm.yandex.ru/kal/sochi24/sochi240_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Информационные" tvg-id="xabar24", Хабар 24 
-https://strm.yandex.ru/kal/khabar24/khabar240_169_1080p.json/index-v1-a1.m3u8 
+https://strm.yandex.ru/kal/khabar24/khabar240_169_1080p.json/index-v1-a1.m3u8
 
 #EXTINF:-1 group-title="Бизнес" tvg-id="pro-business",Про Бизнес
 https://strm.yandex.ru/kal/probusiness_cv/probusiness_cv0_169_576p.json/index-v1-a1.m3u8
@@ -493,3 +493,18 @@ https://strm.yandex.ru/kal/probusiness_cv/probusiness_cv0_169_576p.json/index-v1
 https://play.megafon.tv/out/u/v1-video-7986670.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Бизнес" tvg-id="uspex",Успех 
 https://strm.yandex.ru/kal/uspehtv/uspehtv0_1511_576p.json/index-v1-a1.m3u8
+
+#EXTINF:-1 group-title="Религия",МузСоюз 
+https://strm.yandex.ru/kal/muzsoyuz/muzsoyuz0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Религия",Надежда 
+https://strm.yandex.ru/kal/nadejda/nadejda0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Религия",Радость моя 
+https://strm.yandex.ru/kal/radostmoya/radostmoya0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Религия",СОЮЗ 
+https://strm.yandex.ru/kal/soyuz_supres/soyuz_supres0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Религия",Спас 
+https://strm.yandex.ru/kal/spas/spas0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Религия",ТБН 
+https://strm.yandex.ru/kal/tbn/tbn0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Религия",Три Ангела 
+https://strm.yandex.ru/kal/3angel/3angel0_169_1080p.json/index-v1-a1.m3u8
