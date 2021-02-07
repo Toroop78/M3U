@@ -452,3 +452,37 @@ https://play.megafon.tv/out/u/v1-video-6348354.mpd?device_type=web&display_type=
 #EXTINF:-1 group-title="Детские",Уникум
 https://play.megafon.tv/out/u/v1-video-7986618.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Детские",Шаян ТВ
+
+#EXTINF:-1 group-title="Информационные" tvg-id="360-news", 360° Новости
+https://strm.yandex.ru/kal/360news_supres/360news_supres0_169_720p.json/index-v1-a1.m3u8 
+#EXTINF:-1 group-title="Информационные"tvg-id="bbc",BBC World News
+https://play.megafon.tv/out/u/v1-video-7731256.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Информационные" tvg-id="cnn",CNN International
+https://play.megafon.tv/out/u/v1-video-5308462.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Информационные" tvg-id="deutsche-welle-eu",Deutsche Welle Europe
+https://strm.yandex.ru/kal/dw/dw0_169_576p.json/index-v1-a1.m3u8 
+#EXTINF:-1 group-title="Информационные" tvg-id="france-24",France 24
+https://strm.yandex.ru/kal/france24/france240_169_1080p.json/index-v1-a1.m3u8 
+#EXTINF:-1 group-title="Информационные" tvg-id="nhk-world",NHK World TV
+https://play.megafon.tv/out/u/v1-video-6348407.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Информационные"tvg-id="russia-today",Russia Today
+https://strm.yandex.ru/kal/rt_hd/rt_hd0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Информационные"tvg-id="arxyz24",Архыз 24
+https://play.megafon.tv/out/u/v1-video-5308476.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Информационные" tvg-id="euronews",Евроновости
+https://strm.yandex.ru/kal/euronews_supres/euronews_supres0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-id="izvestia",Известия HD
+https://play.megafon.tv/out/u/v1-video-6361991.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Информационные" tvg-id="kavkaz24",Кавказ 24
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_STAVR_KAVKAZ24/variant.m3u8?version=2
+#EXTINF:-1 group-title="Информационные" tvg-id="krik-tv",Крик ТВ 
+https://strm.yandex.ru/kal/krik_tv/krik_tv0_169_720p.json/index-v1-a1.m3u8 
+#EXTINF:-1 group-title="Информационные" tvg-id="mir-24",Мир 24
+https://strm.yandex.ru/kal/mir24/mir240_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-id="rbk",РБК-ТВ
+https://strm.yandex.ru/kal/rbc_supres/rbc_supres0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Информационные" tvg-id="sochi24",Сочи24 
+https://strm.yandex.ru/kal/sochi24/sochi240_169_1080p.json/index-v1-a1.m3u8 
+#EXTINF:-1 group-title="Информационные" tvg-id="xabar24", Хабар 24 
+https://strm.yandex.ru/kal/khabar24/khabar240_169_1080p.json/index-v1-a1.m3u8 
