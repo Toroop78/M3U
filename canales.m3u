@@ -51,7 +51,7 @@ https://play.megafon.tv/out/u/v1-video-7969133.mpd?device_type=web&display_type=
 #EXTINF:-1 group-title="Музыкальные" tvg-id="mezzo-live-hd", Mezzo Live HD
 https://play.megafon.tv/out/u/v1-video-7731481.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Музыкальные" tvg-id="vh1-classic",MTV 80s
-http://85.15.80.198:4022/udp/238.0.2.70:1234
+
 #EXTINF:-1 group-title="Музыкальные" tvg-id="mtv-rocks",MTV 90s
 https://play.megafon.tv/out/u/v1-video-6348366.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Музыкальные" tvg-id="mtv-europe",MTV Europe
@@ -109,7 +109,7 @@ https://strm.yandex.ru/kal/srtranafm/srtranafm0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="tnt-music",ТНТ Music
 https://strm.yandex.ru/kal/tntmusic/tntmusic0_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="shanson-tv",Шансон-ТВ
-http://85.15.80.198:4022/udp/238.0.2.108:1234
+
 #EXTINF:-1 group-title="Музыкальные" tvg-id="shant-music-hd",Шант Music HD
 
 #EXTINF:-1 group-title="Познавательные" tvg-id="365-dnej",365 дней ТВ
