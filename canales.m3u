@@ -492,6 +492,6 @@ https://strm.yandex.ru/kal/probusiness_cv/probusiness_cv0_169_576p.json/index-v1
 #EXTINF:-1 group-title="Бизнес" tvg-id="",Рубль
 
 #EXTINF:-1 group-title="Бизнес" tvg-id="sinergia-tv",Синергия ТВ
-https://play.megafon.tv/out/u/v1-video-7986670.mpd
+https://play.megafon.tv/out/u/v1-video-7986670.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Бизнес" tvg-id="uspex",Успех 
 https://strm.yandex.ru/kal/uspehtv/uspehtv0_1511_576p.json/index-v1-a1.m3u8
