@@ -455,6 +455,8 @@ https://play.megafon.tv/out/u/v1-video-7986618.mpd?device_type=web&display_type=
 https://strm.yandex.ru/kal/360news_supres/360news_supres0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Информационные"tvg-id="bbc",BBC World News
 https://play.megafon.tv/out/u/v1-video-7731256.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Информационные",CGTN на русском
+https://strm.yandex.ru/kal/chinatv/chinatv0_169_576p.json/index-v1-a1.m3u8 
 #EXTINF:-1 group-title="Информационные" tvg-id="cnn",CNN International
 https://play.megafon.tv/out/u/v1-video-5308462.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Информационные" tvg-id="deutsche-welle-eu",Deutsche Welle Europe
