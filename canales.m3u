@@ -494,6 +494,29 @@ https://play.megafon.tv/out/u/v1-video-7986670.mpd?device_type=web&display_type=
 #EXTINF:-1 group-title="Бизнес" tvg-id="uspex",Успех 
 https://strm.yandex.ru/kal/uspehtv/uspehtv0_1511_576p.json/index-v1-a1.m3u8
 
+#EXTINF:-1 group-title="Социально-политические" tvg-id="",RTД HD
+https://strm.yandex.ru/kal/rtd_hd/rtd_hd0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Социально-политические" tvg-id="",БелРос
+https://play.megafon.tv/out/u/v1-video-6348317.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Социально-политические" tvg-id="vmeste-rf",Вместе-РФ
+https://strm.yandex.ru/kal/vmeste_rf/vmeste_rf0_169_1080p.json/index-v1-a1.m3u8 
+#EXTINF:-1 group-title="Социально-политические" tvg-id="dozhd",Дождь
+https://strm.yandex.ru/kal/tvrain/tvrain0_169_1080p.json/index-v1-a1.m3u8 
+#EXTINF:-1 group-title="Социально-политические" tvg-id="dumatv",Дума ТВ
+https://play.megafon.tv/out/u/v1-video-6415258.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Социально-политические" tvg-id="",Красная Линия 
+https://strm.yandex.ru/kal/rline/rline0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Социально-политические" tvg-id="ldpr-tv",ЛДПР ТВ
+https://play.megafon.tv/out/u/v1-video-5308475.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 group-title="Социально-политические" tvg-id="",Мир Premium HD
+https://play.megafon.tv/out/u/v1-video-5308395.mpd
+
+#EXTINF:-1 group-title="Социально-политические" tvg-id="",Первый российский национальный канал
+
+#EXTINF:-1 group-title="Социально-политические" tvg-id="",ТВ-Университет
+
+#EXTINF:-1 group-title="Социально-политические" tvg-id="",Хузур TV
+
 #EXTINF:-1 group-title="Религия",МузСоюз 
 https://strm.yandex.ru/kal/muzsoyuz/muzsoyuz0_169_576p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Религия",Надежда 
