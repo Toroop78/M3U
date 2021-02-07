@@ -486,3 +486,12 @@ https://strm.yandex.ru/kal/rbc_supres/rbc_supres0_169_720p.json/index-v1-a1.m3u8
 https://strm.yandex.ru/kal/sochi24/sochi240_169_1080p.json/index-v1-a1.m3u8 
 #EXTINF:-1 group-title="Информационные" tvg-id="xabar24", Хабар 24 
 https://strm.yandex.ru/kal/khabar24/khabar240_169_1080p.json/index-v1-a1.m3u8 
+
+#EXTINF:-1 group-title="Бизнес" tvg-id="pro-business",Про Бизнес
+https://strm.yandex.ru/kal/probusiness_cv/probusiness_cv0_169_576p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Бизнес" tvg-id="",Рубль
+
+#EXTINF:-1 group-title="Бизнес" tvg-id="sinergia-tv",Синергия ТВ
+https://play.megafon.tv/out/u/v1-video-7986670.mpd
+#EXTINF:-1 group-title="Бизнес" tvg-id="uspex",Успех 
+https://strm.yandex.ru/kal/uspehtv/uspehtv0_1511_576p.json/index-v1-a1.m3u8
