@@ -145,7 +145,7 @@ https://play.megafon.tv/out/u/v1-video-6348382.mpd?device_type=web&display_type=
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="mosfilm",Мосфильм.Золотая Коллекция HD
 http://31.128.159.41:8080/mosfilm/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="muzhskoe-kino",Мужское Кино HD
-http://185.32.44.174:8291/play/a03r/index.m3u8
+
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="nst",НСТ
 https://play.megafon.tv/out/u/v1-video-7731340.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="nash-detektiv",Наш Детектив
@@ -157,7 +157,7 @@ https://play.megafon.tv/out/u/v1-video-6348330.mpd?device_type=web&display_type=
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="ntv-xit",НТВ Хит
 https://play.megafon.tv/out/u/v1-video-5308442.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="ostrosiuzhetnoe-hd",Остросюжетное HD
-http://188.35.9.26:5050/002
+
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="pobeda",Победа HD
 https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b2628000_slru.m3u8?hls_proxy_host=b1b1afbf267e0ec0e66706203ee525ae
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="retro-tv",Ретро
