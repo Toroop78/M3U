@@ -64,6 +64,7 @@ http://195.189.105.158:9050/121/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="lubimoe-kino",Любимое Кино
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="mir-seriala",Мир сериала
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="mosfilm",Мосфильм. Золотая коллекция
+http://31.128.159.41:8080/mosfilm/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="muzhskoe-kino",Мужское кино
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="nash-kinopokaz-hd",Наш Кино показ
 #EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="nash-kinoroman",Наш кинороман
