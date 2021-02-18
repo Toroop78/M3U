@@ -1,537 +1,99 @@
-#EXTM3U
-
-#EXTINF:-1 group-title="Музыкальные" tvg-id="1hd" ,1HD
-https://strm.yandex.ru/kal/1hd/1hd0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-id="acb-tv",9 Волна
-https://strm.yandex.ru/kal/acb/acb0_169_720p.json/index-v1-a1.m3u8 
-#EXTINF:-1 group-title="Музыкальные" tvg-id="aiva",Avia
-https://strm.yandex.ru/kal/aiva/aiva0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-id="no_epg_music",Amoreyo HD
-
-#EXTINF:-1 group-title="Музыкальные" tvg-id="bridge-hd",Bridge HD
-
-#EXTINF:-1 group-title="Музыкальные" tvg-id="bridge-tv",Bridge TV
-https://play.megafon.tv/out/u/v1-video-5308463.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Музыкальные" tvg-id="bridge-tv-classic",Bridge TV Classic
-https://play.megafon.tv/out/u/v1-video-6348368.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Музыкальные" tvg-id="bridge-tv-dance" ,Bridge TV Hits
-https://play.megafon.tv/out/u/v1-video-5308450.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Музыкальные" tvg-id="bridge-tv-ruxit", Bridge TV Русский хит
-https://play.megafon.tv/out/u/v1-video-6361996.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Музыкальные" tvg-id="bridge-tv-shlager",Bridge TV Шлягер
-
-#EXTINF:-1 group-title="Музыкальные" tvg-id="c-music-tv",C Music TV HD
-
-#EXTINF:-1 group-title="Музыкальные" tvg-id="c-music-ru",C Music TV HD Russia
-
-#EXTINF:-1 group-title="Музыкальные" tvg-id="clubbing-tv",Clubbing TV
-
-#EXTINF:-1 group-title="Музыкальные" tvg-id="europa-plus-tv", Europa Plus TV
-https://strm.yandex.ru/kal/europaplus/europaplus0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-id="festival-4k",Festival 4K
-
-#EXTINF:-1 group-title="Музыкальные" tvg-id="freshtv",FreshTV
-https://strm.yandex.ru/kal/fresh/fresh0_169_720p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-id="hitv",HITV 
-https://strm.yandex.ru/kal/hittv/hittv0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-id="iconcerts",iConcerts HD
-
-#EXTINF:-1 group-title="Музыкальные" tvg-id="iconcerts-ru",iConcerts HD Russia
-
-#EXTINF:-1 group-title="Музыкальные" tvg-id="juce-tv",JuCe TV
-
-#EXTINF:-1 group-title="Музыкальные" tvg-id="live-music-channel",Live Music Channel
-
-#EXTINF:-1 group-title="Музыкальные" tvg-id="mcm-pop",MCM Pop
-
-#EXTINF:-1 group-title="Музыкальные" tvg-id="mcm-top",MCM Top
-https://play.megafon.tv/out/u/v1-video-7969133.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Музыкальные" tvg-id="mezzo",Mezzo
-
-#EXTINF:-1 group-title="Музыкальные" tvg-id="mezzo-live-hd", Mezzo Live HD
-https://play.megafon.tv/out/u/v1-video-7731481.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Музыкальные" tvg-id="vh1-classic",MTV 80s
-https://play.megafon.tv/out/u/v1-video-6348364.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Музыкальные" tvg-id="mtv-rocks",MTV 90s
-https://play.megafon.tv/out/u/v1-video-6348366.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Музыкальные" tvg-id="mtv-europe",MTV Europe
-
-#EXTINF:-1 group-title="Музыкальные" tvg-id="mtv-dance",MTV Dance
-
-#EXTINF:-1 group-title="Музыкальные" tvg-id="mtv-hits",MTV Hits
-
-#EXTINF:-1 group-title="Музыкальные" tvg-id="mtv-live-hd",MTV Live HD
-https://play.megafon.tv/out/u/v1-video-5308422.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Музыкальные" tvg-id="mtv-music-24",MTV Music 24
-
-#EXTINF:-1 group-title="Музыкальные" tvg-id="mtv-russia", MTV Россия HD
-https://play.megafon.tv/out/u/v1-video-6370551.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Музыкальные" tvg-id="musicbox",Music Box Gold
-https://strm.yandex.ru/kal/musicboxgold/musicboxgold0_169_576p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-id="ru-tv",RU TV
-https://strm.yandex.ru/kal/rutv_cv/rutv_cv0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-id="russian-musicbox",Russian MusicBox HD
-https://strm.yandex.ru/kal/rmbox/rmbox0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-id="song-tv-ru",Song TV Russia
-
-#EXTINF:-1 group-title="Музыкальные" tvg-id="trace-urban",Trace Urban HD
-
-#EXTINF:-1 group-title="Музыкальные" tvg-id="vh1-european",VH1 European
-https://play.megafon.tv/out/u/v1-video-6361994.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Музыкальные" tvg-id="vostok-tv",Восток ТВ
-https://play.megafon.tv/out/u/v1-video-6362000.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Музыкальные" tvg-id="e-tv" tvg-logo="http://fe-vlg.svc.iptv.rt.ru/images/broadcastChannel1553687953730.png",Е HD
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R03_M1/variant.m3u8?version=2
-#EXTINF:-1 group-title="Музыкальные" tvg-id="zhar-ptica",Жар Птица
-https://strm.yandex.ru/kal/firebird/firebird0.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-id="zhara",Жара
-
-#EXTINF:-1 group-title="Музыкальные" tvg-id="kuraj",Курай-ТВ
-
-#EXTINF:-1 group-title="Музыкальные" tvg-id="la-minor",Ля-минор
-https://play.megafon.tv/out/u/v1-video-6348376.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Музыкальные" tvg-id="maydan",Майдан
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R05_MAIDAN/variant.m3u8?version=2
-#EXTINF:-1 group-title="Музыкальные" tvg-id="matur-tv",Матур ТВ
-https://strm.yandex.ru/kal/matur/matur0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-id="muztv",Муз ТВ
-https://strm.yandex.ru/kal/muztv_supres/muztv_supres0_169_720p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-id="muzyka-pervogo",Музыка Первого
-https://play.megafon.tv/out/u/v1-video-5308408.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Музыкальные" tvg-id="no_epg_music",Новое Радио
-https://strm.yandex.ru/kal/nasheradio/nasheradio0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-id="o2tv",О2ТВ
-https://strm.yandex.ru/kal/o2/o20_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-id="no_epg_music",Страна FM
-https://strm.yandex.ru/kal/srtranafm/srtranafm0_169_720p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-id="tnt-music",ТНТ Music
-https://strm.yandex.ru/kal/tntmusic/tntmusic0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Музыкальные" tvg-id="shanson-tv",Шансон-ТВ
-
-#EXTINF:-1 group-title="Музыкальные" tvg-id="shant-music-hd",Шант Music HD
-
-#EXTINF:-1 group-title="Познавательные" tvg-id="365-dnej",365 дней ТВ
-
-#EXTINF:-1 group-title="Познавательные" tvg-id="animal-planet",Animal Planet HD
-https://play.megafon.tv/out/u/v1-video-6370557.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Познавательные" tvg-id="cbs-reality",CBS Reality
-
-#EXTINF:-1 group-title="Познавательные" tvg-id="da-vinci",Da Vinci
-http://85.15.80.198:4022/udp/238.0.2.127:1234
-#EXTINF:-1 group-title="Познавательные" tvg-id="discovery-science",Discovery Science
-https://play.megafon.tv/out/u/v1-video-6370558.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Познавательные" tvg-id="docubox-hd",Docubox
-https://play.megafon.tv/out/u/v1-video-6782117.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Познавательные" tvg-id="english-club-tv",English club TV
-https://play.megafon.tv/out/u/v1-video-6782103.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Познавательные" tvg-id="no_epg",Fine Living
-
-#EXTINF:-1 group-title="Познавательные" tvg-id="hd-media",HD Медиа 
-https://strm.yandex.ru/kal/hdmedia/hdmedia0_169_720p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-id="hd-life",HDL
-
-#EXTINF:-1 group-title="Познавательные" tvg-id="h2",History2
-
-#EXTINF:-1 group-title="Познавательные" tvg-id="insight-ultra-hd",Insight UHD
-
-#EXTINF:-1 group-title="Познавательные" tvg-id="kazakh-tv",Kаzаkh TV
-https://play.megafon.tv/out/u/v1-video-5613016.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Познавательные" tvg-id="love-nature-4k",Love Nature 4K
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/variant.m3u8?version=2
-#EXTINF:-1 group-title="Познавательные" tvg-id="motor-trend",MotorTrend
-
-#EXTINF:-1 group-title="Познавательные" tvg-id="museum-hd",Museum HD
-
-#EXTINF:-1 group-title="Познавательные" tvg-id="nano-hd",Nano HD
-
-#EXTINF:-1 group-title="Познавательные" tvg-id="national-geographic",National Geographic HD
-https://play.megafon.tv/out/u/v1-video-6782138.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Познавательные" tvg-id="nat-geo-wild",Nat Geo Wild HD
-https://play.megafon.tv/out/u/v1-video-6782073.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Познавательные" tvg-id="ocean-tv",Ocean-TV
-https://play.megafon.tv/out/u/v1-video-6348352.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Познавательные" tvg-id="rtg-hd" tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/nclogo1508922855351.png",RTG HD 
-https://strm.yandex.ru/kal/rtg/rtg0_169_1080p.json/index-v1-a1.m3u8 
-#EXTINF:-1 group-title="Познавательные" tvg-id="rtg-int",RTG International
-
-#EXTINF:-1 group-title="Познавательные" tvg-id="rtg-tv",RTG TV
-
-#EXTINF:-1 group-title="Познавательные" tvg-id="trace-sport-stars",Trace Sport Stars
-
-#EXTINF:-1 group-title="Познавательные" tvg-id="travel-channel",Travel Channel HD
-
-#EXTINF:-1 group-title="Познавательные" tvg-id="travel-adventure",Travel+Adventure
-https://play.megafon.tv/out/u/v1-video-6370553.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Познавательные" tvg-id="no_epg",Travelxp HD
-
-#EXTINF:-1 group-title="Познавательные" tvg-id="tv-brics",TV BRICS
-https://strm.yandex.ru/kal/tvbrics/tvbrics0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-id="viasat-explore",Viasat Explore
-http://85.15.80.198:4022/udp/238.0.2.71:1234
-#EXTINF:-1 group-title="Познавательные" tvg-id="viasat-history",Viasat History
-http://85.15.80.198:4022/udp/238.0.2.72:1234
-#EXTINF:-1 group-title="Познавательные" tvg-id="viasat-nature",Viasat Nature
-http://85.15.80.198:4022/udp/238.0.2.128:1234
-#EXTINF:-1 group-title="Познавательные" tvg-id="viasat-nature-history-hd",Viasat Nature/History HD
-
-#EXTINF:-1 group-title="Познавательные" tvg-id="zoopark",Zooпарк
-https://play.megafon.tv/out/u/v1-video-7731259.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Познавательные" tvg-id="no_epg",Аква ТВ / Aqua TV
-
-#EXTINF:-1 group-title="Познавательные" tvg-id="arsenaltv",Арсенал
-
-#EXTINF:-1 group-title="Познавательные" tvg-id="bolshaya-azia",Большая Азия 
-https://strm.yandex.ru/kal/bigasia/bigasia0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-id="v-mire-zhivotnyx-hd",В мире животных
-https://play.megafon.tv/out/u/v1-video-7986559.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Познавательные" tvg-id="doktor",Доктор
-https://play.megafon.tv/out/u/v1-video-7731145.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Познавательные" tvg-id="domashnie-zhivotnye",Домашние животные
-http://85.15.80.198:4022/udp/238.0.2.81:1234
-#EXTINF:-1 group-title="Познавательные" tvg-id="ege-tv",ЕГЭ
-https://strm.yandex.ru/kal/egetv/egetv0_169_576p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-id="zhivaya-planeta",Живая планета
-https://play.megafon.tv/out/u/v1-video-8013125.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Познавательные" tvg-id="zhivaya-priroda",Живая природа HD
-
-#EXTINF:-1 group-title="Познавательные" tvg-id="zootv",Зоо ТВ
-
-#EXTINF:-1 group-title="Познавательные" tvg-id="istoria",История
-
-#EXTINF:-1 group-title="Познавательные" tvg-id="kluch",Ключ
-https://play.megafon.tv/out/u/v1-video-7986608.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Познавательные" tvg-id="kto-est-kto",Кто есть кто
-
-#EXTINF:-1 group-title="Познавательные" tvg-id="ministerstvo-idey",Министерство идей
-
-#EXTINF:-1 group-title="Познавательные" tvg-id="mir-vokrug",Мир вокруг 
-https://strm.yandex.ru/kal/mitvokrug/mitvokrug0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-id="moskovsky-obrazovatelny",Московский образовательный
-
-#EXTINF:-1 group-title="Познавательные" tvg-id="moya-planeta",Моя планета HD
-https://play.megafon.tv/out/u/v1-video-7731410.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Познавательные" tvg-id="nauka-20",Наука 2.0
-https://play.megafon.tv/out/u/v1-video-7731147.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Познавательные" tvg-id="nasha-sibir",Наша Сибирь
-https://strm.yandex.ru/kal/sibir/sibir0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-id="neizvestnaya-planeta",Неизвестная планета 
-https://strm.yandex.ru/kal/unknownplanet_supres/unknownplanet_supres0_169_1080p.json/index-v1-a1.m3u8 
-#EXTINF:-1 group-title="Познавательные" tvg-id="otkryty-mir",Открытый Мир 
-https://strm.yandex.ru/kal/openworld/openworld0_169_576p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-id="perpetmobile",Перпетуум мобиле 
-https://strm.yandex.ru/kal/perpetuum/perpetuum0_169_720p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-id="no_epg",Планета HD
-
-#EXTINF:-1 group-title="Познавательные" tvg-id="pobeda",Победа
-https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b2628000_slru.m3u8?hls_proxy_host=b1b1afbf267e0ec0e66706203ee525ae
-#EXTINF:-1 group-title="Познавательные" tvg-id="no_epg",Полёт ТВ / Flight TV
-
-#EXTINF:-1 group-title="Познавательные" tvg-id="prikluchenia-hd",Приключения
-
-#EXTINF:-1 group-title="Познавательные" tvg-id="prosveschenie",Просвещение
-https://strm.yandex.ru/kal/prosveshenie/prosveshenie0_1511_576p.json/index-v1-a1.m3u8 
-#EXTINF:-1 group-title="Познавательные" tvg-id="no_epg",Психология
-http://85.15.80.198:4022/udp/238.0.2.96:1234
-#EXTINF:-1 group-title="Познавательные" tvg-id="ratnik",Ратник 
-https://strm.yandex.ru/kal/ratnik/ratnik0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-id="outdoor-channel",РЖД
-http://85.15.80.198:4022/udp/238.0.2.26:1234
-#EXTINF:-1 group-title="Познавательные" tvg-id="no_epg",Родной канал
-
-#EXTINF:-1 group-title="Познавательные" tvg-id="sovsek",Совершенно секретно 
-https://strm.yandex.ru/kal/sovsec_supres/sovsec_supres0_2011_720p.json/index-v1-a1.m3u8 
-#EXTINF:-1 group-title="Познавательные" tvg-id="texno-24",Техно 24
-https://play.megafon.tv/out/u/v1-video-7731146.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Познавательные" tvg-id="galaxy-tv",Тайны галактики (Galaxy)
-https://play.megafon.tv/out/u/v1-video-6361993.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Познавательные" tvg-id="no_epg",ТВ Экстра
-
-#EXTINF:-1 group-title="Познавательные" tvg-id="teleputeshestvia",Телепутешествия
-
-#EXTINF:-1 group-title="Познавательные" tvg-id="terra-inkognita",Терра Инкогнита 
-https://strm.yandex.ru/kal/terra/terra0_169_720p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-id="no_epg",Эврика HD
-
-#EXTINF:-1 group-title="Хобби и увлечения",E TV
-https://play.megafon.tv/out/u/v1-video-7969126.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Хобби и увлечения",Food Network
-
-#EXTINF:-1 group-title="Хобби и увлечения",HGTV
-https://play.megafon.tv/out/u/v1-video-7986580.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Хобби и увлечения",MyZen TV
-
-#EXTINF:-1 group-title="Хобби и увлечения",Outdoor Channel HD
-https://play.megafon.tv/out/u/v1-video-6348313.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Хобби и увлечения",Авто Плюс
-https://play.megafon.tv/out/u/v1-video-6348295.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Хобби и увлечения",Авто24
-https://play.megafon.tv/out/u/v1-video-7731143.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Хобби и увлечения",Бобёр
-https://play.megafon.tv/out/u/v1-video-6348374.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Хобби и увлечения",Диалоги о рыбалке
-https://strm.yandex.ru/kal/dialogi/dialogi0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Хобби и увлечения",Дикая охота HD
-
-#EXTINF:-1 group-title="Хобби и увлечения",Дикая рыбалка HD
-
-#EXTINF:-1 group-title="Хобби и увлечения",Дикий
-https://play.megafon.tv/out/u/v1-video-7986619.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Хобби и увлечения",Драйв
-https://play.megafon.tv/out/u/v1-video-7731225.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Хобби и увлечения",Еда
-https://play.megafon.tv/out/u/v1-video-7986629.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Хобби и увлечения",Еда премиум
-https://play.megafon.tv/out/u/v1-video-7731337.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Хобби и увлечения",Загородная жизнь
-https://play.megafon.tv/out/u/v1-video-7731148.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Хобби и увлечения",Загородный
-https://strm.yandex.ru/kal/zagorod/zagorod0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Хобби и увлечения",КтоКуда
-
-#EXTINF:-1 group-title="Хобби и увлечения",Кухня ТВ
-https://play.megafon.tv/out/u/v1-video-5308482.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Хобби и увлечения",Мама
-https://play.megafon.tv/out/u/v1-video-8013126.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Хобби и увлечения",Морской
-https://play.megafon.tv/out/u/v1-video-6348359.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Хобби и увлечения",Мужской
-https://play.megafon.tv/out/u/v1-video-7731151.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Хобби и увлечения",Национальный жилищный канал
-
-#EXTINF:-1 group-title="Хобби и увлечения",Наша тема
-https://play.megafon.tv/out/u/v1-video-7731226.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Хобби и увлечения",Оружие
-https://play.megafon.tv/out/u/v1-video-5308485.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Хобби и увлечения",Охота и рыбалка
-https://play.megafon.tv/out/u/v1-video-6348325.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Хобби и увлечения",Охотник и рыболов
-https://strm.yandex.ru/kal/ohotnik/ohotnik0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Хобби и увлечения",Первый вегетарианский
-https://strm.yandex.ru/kal/1vegetarian/1vegetarian0_169_576p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Хобби и увлечения",Пёс и Ко
-https://strm.yandex.ru/kal/pesiko/pesiko0_169_576p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Хобби и увлечения",Рыбалка и охота
-
-#EXTINF:-1 group-title="Хобби и увлечения",Рыболов
-
-#EXTINF:-1 group-title="Хобби и увлечения",Телекафе
-https://play.megafon.tv/out/u/v1-video-6348350.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Хобби и увлечения",Тномер
-https://strm.yandex.ru/kal/tnomer/tnomer0_169_576p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Хобби и увлечения",Усадьба
-
-#EXTINF:-1 group-title="Спортивные" tvg-id="eurosport1",Eurosport 1 HD
-https://play.megafon.tv/out/u/v1-video-7986568.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Спортивные" tvg-id="eurosport2",Eurosport 2
-https://play.megafon.tv/out/u/v1-video-6348379.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Спортивные" tvg-id="eurosport-4k",Eurosport 4K
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/variant.m3u8?version=2
-#EXTINF:-1 group-title="Спортивные" tvg-id="eurosport-gold",Eurosport Gold
-
-#EXTINF:-1 group-title="Спортивные" tvg-id="extreme-sports",Extreme Sports Сhannel
-https://play.megafon.tv/out/u/v1-video-7731339.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Спортивные" tvg-id="fastfunbox-hd",Fastnfunbox
-https://play.megafon.tv/out/u/v1-video-7969108.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Спортивные" tvg-id="fightbox-hd",Fightbox
-https://play.megafon.tv/out/u/v1-video-6782120.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Спортивные" tvg-id="fuel-tv-hd",Fuel HD
-
-#EXTINF:-1 group-title="Спортивные" tvg-id="golf-tv",Golf TV
-
-#EXTINF:-1 group-title="Спортивные" tvg-id="m1global",M-1 Global
-https://play.megafon.tv/out/u/v1-video-5308387.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Спортивные" tvg-id="russky-ekstrim",Russian Extreme HD/Русский экстрим
-
-#EXTINF:-1 group-title="Спортивные" tvg-id="russian-extreme-uhd",Russian Extreme Ultra
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/variant.m3u8?version=2
-#EXTINF:-1 group-title="Спортивные" tvg-id="trace-sport-stars",Trace Sport Stars HD
-https://play.megafon.tv/out/u/v1-video-9650964.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Спортивные" tvg-id="ufc",UFC
-
-#EXTINF:-1 group-title="Спортивные" tvg-id="viasat-sport",Viasat Sport
-http://persik.tv/stream/3602/287583/10249.m3u8
-#EXTINF:-1 group-title="Спортивные" tvg-id="box-tv",Бокс ТВ
-https://play.megafon.tv/out/u/v1-video-5308382.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Спортивные" tvg-id="konny-mir"",Конный мир
-https://play.megafon.tv/out/u/v1-video-6348299.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Спортивные" tvg-id="kxl-hd",КХЛ ТВ HD
-https://play.megafon.tv/out/u/v1-video-7968891.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Спортивные" tvg-id="match-tv",Матч!
-https://play.megafon.tv/out/u/v1-video-6348386.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Спортивные" tvg-id="match-arena",Матч! Арена
-https://play.megafon.tv/out/u/v1-video-6348378.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Спортивные" tvg-id="match-boets",Матч! Боец
-https://play.megafon.tv/out/u/v1-video-6348398.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Спортивные" tvg-id="match-igra",Матч! Игра
-https://play.megafon.tv/out/u/v1-video-6348305.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Спортивные" tvg-id="match-planeta",Матч! Планета
-
-#EXTINF:-1 group-title="Спортивные" tvg-id="match-premier",Матч! Премьер
-https://play.megafon.tv/out/u/v1-video-6348406.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Спортивные" tvg-id="match-nash-sport",Матч! Страна
-https://play.megafon.tv/out/u/v1-video-6348388.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Спортивные" tvg-id="match-football1",Матч! Футбол 1
-https://play.megafon.tv/out/u/v1-video-6348297.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Спортивные" tvg-id="match-football2",Матч! Футбол 2
-https://play.megafon.tv/out/u/v1-video-6348309.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Спортивные" tvg-id="match-football3",Матч! Футбол 3
-https://play.megafon.tv/out/u/v1-video-6348335.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Спортивные" tvg-id="mir-basketbola",Мир Баскетбола
-https://play.megafon.tv/out/u/v1-video-6348401.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Спортивные" tvg-id="motorsportv-tv",Моторспорт ТВ
-https://play.megafon.tv/out/u/v1-video-6782133.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Спортивные" tvg-id="sila",Сила
-https://stream-msk-04.ott.tricolor.tv/dtv/id633_MSKSG-PVR-1--Channel_LIVE5/03/plst.m3u8
-#EXTINF:-1 group-title="Спортивные" tvg-id="start",Старт
-https://strm.yandex.ru/kal/start/start0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Спортивные" tvg-id="football-ru",Футбол
-
-#EXTINF:-1 group-title="Детские",Ani
-https://play.megafon.tv/out/u/v1-video-7969092.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Детские",BabyTV
-https://play.megafon.tv/out/u/v1-video-7969096.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Детские",Boomerang
-https://play.megafon.tv/out/u/v1-video-5308446.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Детские",Cartoon Network
-https://play.megafon.tv/out/u/v1-video-5612957.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Детские",Gulli Girl
-https://play.megafon.tv/out/u/v1-video-6782136.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Детские",JimJam
-https://play.megafon.tv/out/u/v1-video-8013116.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Детские",Nick Jr.
-https://play.megafon.tv/out/u/v1-video-8013130.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Детские",Nickelodeon HD
-https://play.megafon.tv/out/u/v1-video-6370560.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Детские",NickToons
-
-#EXTINF:-1 group-title="Детские",TiJi
-https://play.megafon.tv/out/u/v1-video-8013260.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Детские",В гостях у сказки
-https://play.megafon.tv/out/u/v1-video-6782110.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Детские",Детский мир
-https://play.megafon.tv/out/u/v1-video-5308461.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Детские",Детское кино / Kids Movie
-
-#EXTINF:-1 group-title="Детские",Капитан Фантастика
-https://play.megafon.tv/out/u/v1-video-7986577.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Детские",Карусель
-https://play.megafon.tv/out/u/v1-video-6348367.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Детские",Любимое ТВ 
-https://strm.yandex.ru/kal/lovedtv/lovedtv0_169_720p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Детские",Малыш
-https://play.megafon.tv/out/u/v1-video-5612965.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Детские",Мульт
-https://play.megafon.tv/out/u/v1-video-6782139.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Детские",Мультиландия
-https://play.megafon.tv/out/u/v1-video-6348380.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Детские",Мультимузыка
-https://play.megafon.tv/out/u/v1-video-7969140.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Детские",МультСезон / Anima Season
-
-#EXTINF:-1 group-title="Детские",О!
-https://play.megafon.tv/out/u/v1-video-5308402.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Детские",Рыжий
-https://play.megafon.tv/out/u/v1-video-6782137.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Детские",Сказки зайки
-https://strm.yandex.ru/kal/skazkizayki/skazkizayki0_169_720p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Детские",Смайлик
-https://strm.yandex.ru/kal/smilik/smilik0_169_720p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Детские",Советские мультфильмы
-https://strm.yandex.ru/kal/sovmult/sovmult0_169_576p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Детские",СТС kids
-https://play.megafon.tv/out/u/v1-video-6348354.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Детские",Тамыр
-#EXTINF:-1 group-title="Детские",Телеканал Деда Мороза
-#EXTINF:-1 group-title="Детские",Уникум
-https://play.megafon.tv/out/u/v1-video-7986618.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Детские",Шаян ТВ
-
-#EXTINF:-1 group-title="Информационные" tvg-id="360-news", 360° Новости
-https://strm.yandex.ru/kal/360news_supres/360news_supres0_169_720p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Информационные"tvg-id="bbc",BBC World News
-https://play.megafon.tv/out/u/v1-video-7731256.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Информационные",CGTN на русском
-https://strm.yandex.ru/kal/chinatv/chinatv0_169_576p.json/index-v1-a1.m3u8 
-#EXTINF:-1 group-title="Информационные" tvg-id="cnn",CNN International
-https://play.megafon.tv/out/u/v1-video-5308462.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Информационные" tvg-id="deutsche-welle-eu",Deutsche Welle Europe
-https://strm.yandex.ru/kal/dw/dw0_169_576p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Информационные" tvg-id="france-24",France 24
-https://strm.yandex.ru/kal/france24/france240_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Информационные" tvg-id="nhk-world",NHK World TV
-https://play.megafon.tv/out/u/v1-video-6348407.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Информационные"tvg-id="russia-today",Russia Today
-https://strm.yandex.ru/kal/rt_hd/rt_hd0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Информационные"tvg-id="arxyz24",Архыз 24
-https://play.megafon.tv/out/u/v1-video-5308476.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Информационные" tvg-id="belarus24",Беларусь 24
-https://play.megafon.tv/out/u/v1-video-5308479.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Информационные" tvg-id="euronews",Евроновости
-https://strm.yandex.ru/kal/euronews_supres/euronews_supres0_169_720p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Информационные" tvg-id="izvestia",Известия HD
-https://play.megafon.tv/out/u/v1-video-6361991.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Информационные" tvg-id="kavkaz24",Кавказ 24
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-https://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_STAVR_KAVKAZ24/variant.m3u8?version=2
-#EXTINF:-1 group-title="Информационные" tvg-id="krik-tv",Крик ТВ 
-https://strm.yandex.ru/kal/krik_tv/krik_tv0_169_720p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Информационные" tvg-id="mir-24",Мир 24
-https://strm.yandex.ru/kal/mir24/mir240_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Информационные" tvg-id="rbk",РБК-ТВ
-https://strm.yandex.ru/kal/rbc_supres/rbc_supres0_169_720p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Информационные" tvg-id="sochi24",Сочи24 
-https://strm.yandex.ru/kal/sochi24/sochi240_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Информационные" tvg-id="xabar24", Хабар 24 
-https://strm.yandex.ru/kal/khabar24/khabar240_169_1080p.json/index-v1-a1.m3u8
-
-#EXTINF:-1 group-title="Бизнес" tvg-id="pro-business",Про Бизнес
-https://strm.yandex.ru/kal/probusiness_cv/probusiness_cv0_169_576p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Бизнес" tvg-id="",Рубль
-
-#EXTINF:-1 group-title="Бизнес" tvg-id="sinergia-tv",Синергия ТВ
-https://play.megafon.tv/out/u/v1-video-7986670.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Бизнес" tvg-id="uspex",Успех 
-https://strm.yandex.ru/kal/uspehtv/uspehtv0_1511_576p.json/index-v1-a1.m3u8
-
-#EXTINF:-1 group-title="Социально-политические" tvg-id="",RTД HD
-https://strm.yandex.ru/kal/rtd_hd/rtd_hd0_169_1080p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Социально-политические" tvg-id="",БелРос
-https://play.megafon.tv/out/u/v1-video-6348317.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Социально-политические" tvg-id="vmeste-rf",Вместе-РФ
-https://strm.yandex.ru/kal/vmeste_rf/vmeste_rf0_169_1080p.json/index-v1-a1.m3u8 
-#EXTINF:-1 group-title="Социально-политические" tvg-id="dozhd",Дождь
-https://strm.yandex.ru/kal/tvrain/tvrain0_169_1080p.json/index-v1-a1.m3u8 
-#EXTINF:-1 group-title="Социально-политические" tvg-id="dumatv",Дума ТВ
-https://play.megafon.tv/out/u/v1-video-6415258.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Социально-политические" tvg-id="",Красная Линия 
-https://strm.yandex.ru/kal/rline/rline0_169_576p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Социально-политические" tvg-id="ldpr-tv",ЛДПР ТВ
-https://play.megafon.tv/out/u/v1-video-5308475.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Социально-политические" tvg-id="",Мир Premium HD
-https://play.megafon.tv/out/u/v1-video-5308395.mpd
-
-#EXTINF:-1 group-title="Социально-политические" tvg-id="",Первый российский национальный канал
-
-#EXTINF:-1 group-title="Социально-политические" tvg-id="",ТВ-Университет
-
-#EXTINF:-1 group-title="Социально-политические" tvg-id="",Хузур TV
-
-#EXTINF:-1 group-title="Религия",МузСоюз 
-https://strm.yandex.ru/kal/muzsoyuz/muzsoyuz0_169_576p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Религия",Надежда 
-https://strm.yandex.ru/kal/nadejda/nadejda0_169_720p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Религия",Радость моя 
-https://strm.yandex.ru/kal/radostmoya/radostmoya0_169_576p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Религия",СОЮЗ 
-https://strm.yandex.ru/kal/soyuz_supres/soyuz_supres0_169_720p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Религия",Спас 
-https://strm.yandex.ru/kal/spas/spas0_169_576p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Религия",ТБН 
-https://strm.yandex.ru/kal/tbn/tbn0_169_720p.json/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Религия",Три Ангела 
-https://strm.yandex.ru/kal/3angel/3angel0_169_1080p.json/index-v1-a1.m3u8
+#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="amedia1",A1
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="amedia2",A2
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="amedia-hit",Amedia Hit
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="amedia-premium",Amedia Premium
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="bollywood-hd",Bollywood
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="bolt-ru",BOLT
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="cinema-ru",Cinema
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="eurochannel",Eurochannel
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="fanhd",FAN
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="filmbox-ru",FilmBox Russia
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="filmbox-arthouse",FilmBox ArtHouse
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="flixsnip",FlixSnip
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="fox",FOX
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="foxlife",Fox Life
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="hollywood-hd",Hollywood
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="paramount-channel",Paramount Channel
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="paramount-comedy",Paramount Comedy
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="shot-tv",SHOT TV
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="sony-tv",Sony Channel
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="sony-scifi",Sony Sci-Fi
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="sony-turbo",Sony Turbo
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="spike",Spike
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="star-cinema",Star Cinema
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="star-family",Star Family
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="trashtv",Trash
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="tvxxi",TV XXI Век
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="tv1000",TV1000
+http://195.189.105.158:9050/119/index.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="tv1000-action",TV1000 Action
+http://195.189.105.158:9050/120/index.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="tv1000-russkoe-kino",TV1000 Русское кино
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="tv1000-worldkino",TV1000 World Kino
+http://195.189.105.158:9050/121/index.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="vip-comedy",ViP Comedy
+http://195.189.105.158:9050/132/index.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="vip-megahit",ViP Megahit
+http://195.189.105.158:9050/133/index.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="vip-premiere",ViP Premiere
+http://195.189.105.158:9050/134/index.m3u8
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="vip-serial",ViP Serial
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="ultra-hd-cinema",Ultra HD Cinema
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="zee-tv",Zee TV
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="",Бестселлер
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="blokbaster-hd",Блокбастер
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="domkino",Дом Кино
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="domkino-premium",Дом Кино Премиум
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="domashny",Домашний
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="dorama",Дорама
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="evrokino",Еврокино
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="illuzion-plus",Иллюзион +
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="indiyskoe-kino",Индийское кино
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="kamedi",Камеди
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="kino-ultra-hd",Кино UHD
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="kino-tv",Кино ТВ
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="kinokomedia",Кинокомедия
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="kinomiks",Киномикс
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="kinopokaz-hd",Кинопоказ
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="kinopremiera-hd",Кинопремьера
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="kinosat",Киносат
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="kinosvidanie",Киносвидание
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="kinosezon",КиноСезон
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="kinosemiya",Киносемья
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="kinoseria",Киносерия
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="kinouzhas",Киноужас
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="kinoxit",Кинохит
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="kinopokaz-hd2",Комедийное
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="russkaya-komedia",Комедия
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="lubimoe-kino",Любимое Кино
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="mir-seriala",Мир сериала
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="mosfilm",Мосфильм. Золотая коллекция
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="muzhskoe-kino",Мужское кино
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="nash-kinopokaz-hd",Наш Кино показ
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="nash-kinoroman",Наш кинороман
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="nash-detektiv",Наше крутое
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="nashe-muzhskoe-hd",Наше Мужское
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="nashe-novoe-kino",Наше новое кино
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="nst",НСТ
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="ntv-serial",НТВ Сериал
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="ntv-xit",НТВ Хит
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="okino",О!Кино
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="ostrosiuzhetnoe-hd",Остросюжетное
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="pobeda",Победа
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="",Премиальное
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="pro-lyubov",Про любовь
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="retro-tv",Ретро
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="rodnoe-kino",Родное кино
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="romantichnoe",Романтичное
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="russky-bestseller",Русский бестселлер
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="russky-detektiv",Русский детектив
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="russky-illuzion",Русский Иллюзион
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="russky-roman",Русский роман
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="serial-ultrahd",Сериал UHD
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="serial-ultrahd",Сиеста
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="sovkino",Советское кино
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="strashnoe-hd",Страшное
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="feniks-plus-kino",Феникс+ Кино
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="khit-hd",Хит
+#EXTINF:-1 catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Кино и сериалы" tvg-id="",Шокирующее
