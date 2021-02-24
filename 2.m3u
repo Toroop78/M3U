@@ -48,8 +48,6 @@ https://play.megafon.tv/out/u/v1-video-6370555.mpd?device_type=web&display_type=
 https://play.megafon.tv/out/u/v1-video-6370563.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="bolt-ru",BOLT HD
 https://play.megafon.tv/out/u/v1-video-6370544.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="cinema-ru",Cinema
-
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="fanhd",FAN HD
 https://play.megafon.tv/out/u/v1-video-6370561.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="fox",FOX HD
@@ -78,12 +76,8 @@ https://play.megafon.tv/out/u/v1-video-7986602.mpd?device_type=web&display_type=
 https://play.megafon.tv/out/u/v1-video-6370554.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="timeless-dizi",Timeless Dizi Channel
 https://play.megafon.tv/out/u/v1-video-9671014.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="tvxxi",TV XXI Век
-http://89.189.191.250/239.211.211.79/stream.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="tv1000",TV1000
 http://51.68.140.190:8081/tv/tv1000/playlist.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="tv1000-action",TV1000 Action HD
-http://91.237.40.215:31345/tv1000ac
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="tv1000-worldkino",TV1000 World Kino
 http://195.189.105.158:9050/121/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="tv1000-russkoe-kino",TV1000 Русское кино
@@ -93,8 +87,6 @@ http://185.74.7.220:8080/tv1000ru/mpegts
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8?version=2
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="vip-comedy",ViP Comedy HD
 http://185.220.35.94:8080/VIPComedyHD/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="vip-megahit",ViP Megahit HD
- 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="vip-premiere",ViP Premiere HD
 http://195.189.105.158:9050/134/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="zee-tv",Zee TV HD
