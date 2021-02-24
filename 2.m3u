@@ -200,8 +200,6 @@ https://play.megafon.tv/out/u/v1-video-6370553.mpd?device_type=web&display_type=
 http://212.79.122.24:7040/Explore
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-explore-cee",Viasat Explore CEE HD
 http://195.189.105.158:9050/067/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-id="history-viasat-en",Viasat History CEE
-http://91.237.40.215:12345/viasathistory
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-nature-cee",Viasat Nature CEE HD 
 http://195.189.105.158:9050/068/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="zoopark",ZooПарк
