@@ -7,20 +7,10 @@ http://89.106.234.5:80/NatGeoWildHD_34_35.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="tv1000-worldkino",TV1000 World Kino
 http://78.26.128.16:8081/144/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="vip-comedy",ViP Comedy HD
-http://185.220.35.94:8080/VIPComedyHD/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="vip-premiere",ViP Premiere HD
-http://78.26.128.16:8081/4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="domkino-premium",Дом Кино Премиум HD
-http://89.106.234.5:80/domkino_hd_34_35.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="kino-tv",Кино ТВ
 http://31.128.159.41:8080/kinotv/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="mosfilm",Мосфильм. Золотая коллекция HD
-http://31.128.159.41:8080/mosfilm/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="pobeda",Победа HD
 https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b2628000_slru.m3u8?hls_proxy_host=b1b1afbf267e0ec0e66706203ee525ae
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="indiyskoe-kino",ИНДИЙСКОЕ КИНО
-https://sc.id-tv.kz/Indiiskoe_kino_34_35.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="kinokomedia",КИНОКОМЕДИЯ HD
 http://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="kinomiks",КИНОМИКС HD
