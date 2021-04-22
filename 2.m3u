@@ -36,23 +36,6 @@ https://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_GUBERNYA/variant.m3u8?versi
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8?version=2
 
-
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="paramount-comedy",Paramount Comedy HD
-https://play.megafon.tv/out/u/v1-video-7986586.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="sony-tv",Sony Channel HD
-https://play.megafon.tv/out/u/v1-video-6370559.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="sony-scifi",Sony Sci-Fi
-https://play.megafon.tv/out/u/v1-video-6782109.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="sony-turbo",Sony Turbo
-https://play.megafon.tv/out/u/v1-video-6782132.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="star-cinema",Star Cinema HD
-https://play.megafon.tv/out/u/v1-video-7986602.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="star-family",Star Family HD
-https://play.megafon.tv/out/u/v1-video-6370554.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="timeless-dizi",Timeless Dizi Channel
-https://play.megafon.tv/out/u/v1-video-9671014.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="tv1000",TV1000
-http://51.68.140.190:8081/tv/tv1000/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="tv1000-worldkino",TV1000 World Kino
 http://195.189.105.158:9050/121/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="tv1000-russkoe-kino",TV1000 Русское кино
