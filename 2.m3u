@@ -474,30 +474,81 @@ https://strm.yandex.ru/kal/sovkino_supres/sovkino_supres0_169_720p.json/index-v1
 http://79.105.168.148:5055/udp/239.4.10.16:2020?zi/
 
 #EXTINF:-1 group-title="Спортивные" tvg-id="eurosport1",Eurosport 1
-http://edge04.beetv.kz/btv/SWM/Eurosport/Eurosport_576p_2000kbps.m3u8
-
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/228/index.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-id="eurosport2",Eurosport 2
-http://edge04.beetv.kz/btv/SWM/Eurosport2/Eurosport2_576p_2000kbps.m3u8
-
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/234/index.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-id="eurosport-4k",Eurosport 4K
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/variant.m3u8?version=2
+#EXTINF:-1 group-title="Спортивные" tvg-id="eurosport-gold",Eurosport Gold
+
+#EXTINF:-1 group-title="Спортивные" tvg-id="extreme-sports",Extreme Sports Сhannel
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/144/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="fastfunbox-hd",Fastnfunbox
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/1018/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="fightbox-hd",Fightbox
+
+#EXTINF:-1 group-title="Спортивные" tvg-id="fuel-tv-hd",Fuel HD
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2396/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="golf-tv",Golf TV
 
 #EXTINF:-1 group-title="Спортивные" tvg-id="m1global",M-1 Global
-http://edge04.beetv.kz/btv/SWM/M1/M1_1080p_5000kbps.m3u8
-
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/843/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="russky-ekstrim",Russian Extreme HD
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2077/index.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-id="russian-extreme-uhd",Russian Extreme Ultra
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/variant.m3u8?version=2
+#EXTINF:-1 group-title="Спортивные" tvg-id="setanta-sports",Setanta Sports HD
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/271/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="setanta-sports-plus",Setanta Sports 2
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/270/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="supertennis",Super Tennis HD
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/6079/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="trace-sport-stars",Trace Sport Stars HD
 
+#EXTINF:-1 group-title="Спортивные" tvg-id="ufc",UFC
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2000/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="viasat-fotboll-hd",Viasat Fotboll HD
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/5078/index.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-id="viasat-sport",Viasat Sport
 http://persik.tv/stream/3602/287583/10249.m3u8
-
+#EXTINF:-1 group-title="Спортивные" tvg-id="box-tv",Бокс ТВ
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/870/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="konny-mir"",Конный мир
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/9055/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="kxl-hd",КХЛ ТВ HD
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2403/index.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-id="match-arena",Матч! Арена
 http://51.68.141.106:8081/tv/match-arena/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="match-boets",Матч! Боец
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/150/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="match-igra",Матч! Игра
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2406/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="match-planeta",Матч! Планета
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/123/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="match-premier",Матч! Премьер
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/220/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="match-nash-sport",Матч! Страна
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/107/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="match-tv",Матч! ТВ HD
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/212/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="match-football1",Матч! Футбол 1
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2407/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="match-football2",Матч! Футбол 2
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2420/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="match-football3",Матч! Футбол 3
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2408/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="mir-basketbola",Мир Баскетбола
+
+#EXTINF:-1 group-title="Спортивные" tvg-id="motorsportv-tv",Моторспорт ТВ
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2146/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="sila",Сила
 
 #EXTINF:-1 group-title="Спортивные" tvg-id="start",Старт
 https://strm.yandex.ru/kal/start/start0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="football-ru",Футбол
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/5050/index.m3u8
 
 #EXTINF:-1 group-title="Детские" tvg-id="2na2-pl7",2x2 (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
