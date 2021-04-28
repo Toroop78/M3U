@@ -340,138 +340,201 @@ https://strm.yandex.ru/kal/uspehtv/uspehtv0_1511_576p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Познавательные",Центральное телевидение
 https://strm.yandex.ru/kal/ctv/ctv0_169_576p.json/index-v1-a1.m3u8
 
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="amedia1",A1 HD
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="amedia1",A1
 http://edge04.beetv.kz/btv/SWM/A1/A1_1080p_5000kbps.m3u8
-
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="amedia2",A2
 http://edge04.beetv.kz/btv/SWM/A2/A2.m3u8
-
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="amedia-hit",Amedia Hit
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/6010/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="amedia-premium",Amedia Premium
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/229/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="bollywood-hd",Bollywood
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/239/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="cinema-ru",Cinema
 http://edge04.beetv.kz/btv/SWM/CINEMA/CINEMA.m3u8
-
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="fox",FOX HD
-http://79.105.168.148:5055/udp/239.4.10.52:2020?zi/
-
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="fox",FOX HD
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="epik-drama",Epic Drama
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/1048/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="fanhd",FAN
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/734/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="fox",FOX
 http://edge04.beetv.kz/btv/SWM/FOX/FOX_1080p_5000kbps.m3u8
-
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="foxlife",Fox Life
-http://51.68.141.106:8081/tv/fox-life/playlist.m3u8
-
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="foxlife",Fox Life HD
 http://edge04.beetv.kz/btv/SWM/FoxLife/FoxLife_1080p_5000kbps.m3u8
-
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="filmbox-arthouse",FilmBox ArtHouse
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/9150/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="filmbox-ru",FilmBox Russia
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/1071/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="hollywood",Hollywood
 http://edge04.beetv.kz/btv/SWM/Hollywood/Hollywood.m3u8
-
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="paramount-channel",Paramount Channel
-http://79.105.168.148:5055/udp/239.4.10.54:2020?zi/
-
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/5063/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="paramount-comedy",Paramount Comedy
 http://edge04.beetv.kz/btv/SWM/Paramount_Comedy/Paramount_Comedy.m3u8
-
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="sony-tv",Sony
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="sony-tv",Sony Channel
 http://edge04.beetv.kz/btv/SWM/Sony/Sony.m3u8
-
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="sony-scifi",Sony Sci-Fi
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/110/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="sony-turbo",Sony Turbo
 http://edge04.beetv.kz/btv/SWM/SonyTurbo/SonyTurbo.m3u8
-
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="spike",Spike
-http://79.105.168.148:5055/udp/239.4.10.56:2020?zi/
-
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="spike",Spike
 http://edge04.beetv.kz/btv/SWM/Spike/Spike.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="star-cinema",Star Cinema
 
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="tvxxi",TV XXI Век
-http://79.105.168.148:5055/udp/239.4.10.12:2020?zi/
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="star-family",Star Family
 
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="timeless-dizi",Timeless Dizi Channel
+
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="tv1000",TV1000
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/9058/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="tv1000-action",TV1000 Action
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/9057/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="tv1000-worldkino",TV1000 World Kino
 http://195.189.105.158:9050/121/index.m3u8
-
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="tv1000-russkoe-kino",TV1000 Русское кино
 http://185.74.7.220:8080/tv1000ru/mpegts
-
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="tvxxi",TV XXI
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/525/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="ultra-hd-cinema",Ultra HD Cinema
 #EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8?version=2
-
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="vip-comedy",VIP Comedy
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/200/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="vip-megahit",VIP Megahit
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/5081/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="vip-premiere",ViP Premiere
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/202/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="vip-serial",VIP Serial
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2443/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="zee-tv",Zee TV
-http://79.105.168.148:5055/udp/239.4.10.55:2020?zi/
-
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="domkino",Дом Кино
-http://79.105.168.148:5055/udp/239.4.10.53:2020?zi/
-
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/1001/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="blokbaster-hd",Блокбастер
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2436/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="",День Победы
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/5054/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="domkino",Дом Кино
 http://edge04.beetv.kz/btv/SWM/Dom_Kino/Dom_Kino.m3u8
-
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="domkino-premium",Дом Кино Премиум HD
 http://edge04.beetv.kz/btv/SWM/Dom_kino_Prem/Dom_kino_Prem_1080p_5000kbps.m3u8
-
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="dorama",Дорама
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="dorama",Дорама HD
 http://edge04.beetv.kz/btv/SWM/Dorama/Dorama_720p_3500kbps.m3u8
-
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="evrokino",Еврокино
-http://51.68.141.106:8081/tv/evrokino/playlist.m3u8
-
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="evrokino",Еврокино
 http://edge04.beetv.kz/btv/SWM/Eurokino/Eurokino.m3u8
-
+#EXTINF:-1 group-title="Кино и сериалы",Зал 1
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2568/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Зал 2
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2569/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Зал 3
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2570/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Зал 4
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2571/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Зал 5
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2572/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Зал 6
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2573/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Зал 7
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2574/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Зал 8
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2575/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Зал 9
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2576/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Зал 10
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2577/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Зал 11
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2578/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Зал 12
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2579/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="illuzion-plus",Иллюзион +
-http://79.105.168.148:5055/udp/239.4.10.13:2020?zi/
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/9079/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id=indiyskoe-kino",ИНДИЙСКОЕ КИНО
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/146/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="kamedi",Камеди
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2441/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="kino-ultra-hd",Кино UHD
 
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="kino-tv",Кино ТВ
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2097/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="kinokomedia",Кинокомедия
 http://edge04.beetv.kz/btv/SWM/Kinokomedija/Kinokomedija_1080p_5000kbps.m3u8
-
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="kinomiks",Киномикс
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/509/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="kinopokaz-hd",Кинопоказ
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2439/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="kinopremiera-hd",Кинопремьера
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/224/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="kinosat",Киносат
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2121/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="kinosvidanie",Киносвидание
 http://edge04.beetv.kz/btv/SWM/Kinosvidanie/Kinosvidanie_1080p_5000kbps.m3u8
-
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="kinosemiya",Киносемья
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/125/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="kinoseria",Киносерия
 http://edge04.beetv.kz/btv/SWM/Kinoserija/Kinoserija.m3u8
-
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="kinouzhas",Киноужас
-http://79.105.168.148:5055/udp/239.4.10.47:2020?zi/
-
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="kinoxit",Кинохит HD
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2056/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="kinoxit",Кинохит
 http://edge04.beetv.kz/btv/SWM/KinoHit/KinoHit.m3u8
-
 #EXTINF:-1 group-title="Кино и сериалы",Классика кино
 https://strm.yandex.ru/kal/kinoclassic/kinoclassic0_169_720p.json/index-v1-a1.m3u8
-
-#EXTINF:-1 group-title="Кино и сериалы",Мир Сериала 
-https://strm.yandex.ru/kal/mirseriala/mirseriala0_43_576p.json/index-v1-a1.m3u8 
-
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="mosfilm",Мосфильм.Золотая Коллекция HD
-http://31.128.159.41:8080/mosfilm/index.m3u8
-
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="lubimoe-kino",Наше Любимое Кино
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="kinopokaz-hd2",Комедийное
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/912/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="russkaya-komedia",Комедия
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/733/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="lubimoe-kino",Любимое Кино
 http://edge04.beetv.kz/btv/SWM/Nashe_Lubimoe_Kino/Nashe_Lubimoe_Kino.m3u8
-
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="nashe-novoe-kino",Наше новое кино
-http://edge04.beetv.kz/btv/SWM/Nashe_novoe_kino/Nashe_novoe_kino_1080p_5000kbps.m3u8
-
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="nst",НСТ
-http://79.105.168.148:5055/udp/239.4.10.15:2020?zi/
-
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="mir-seriala",Мир сериала
+https://strm.yandex.ru/kal/mirseriala/mirseriala0_43_576p.json/index-v1-a1.m3u8 
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="mosfilm",Мосфильм.Золотая Коллекция
+http://31.128.159.41:8080/mosfilm/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="muzhskoe-kino",МУЖСКОЕ КИНО
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/164/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="nash-kinoroman",Наш Кинороман
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/914/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="nst",НСТ
 http://edge04.beetv.kz/btv/SWM/HCT/HCT.m3u8
-
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="nash-kinopokaz-hd",Наш Кинопоказ
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2434/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="nash-detektiv",Наше крутое
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/915/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="nashe-lubimoe",Наше любимое
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2106/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="nashe-muzhskoe-hd",Наше Мужское
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2440/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="nashe-novoe-kino",Наше новое кино
+http://edge04.beetv.kz/btv/SWM/Nashe_novoe_kino/Nashe_novoe_kino_1080p_5000kbps.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="ntv-serial",НТВ Сериал
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/744/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="ntv-xit",НТВ Хит
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/741/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="ostrosiuzhetnoe-hd",Остросюжетное
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/904/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="pobeda",Победа HD
 https://pkvc-hls3.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b2628000_slru.m3u8?hls_proxy_host=b1b1afbf267e0ec0e66706203ee525ae
-
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="rodnoe-kino",Родное кино
-http://79.105.168.148:5055/udp/239.4.10.46:2020?zi/
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="kinopremium-hd",Премиальное
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2410/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="pro-lyubov",Про Любовь
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2430/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="retro-tv",Ретро
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="rodnoe-kino",Родное кино
 http://edge04.beetv.kz/btv/SWM/rodnoe_kino/rodnoe_kino.m3u8
-
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="romantichnoe",Романтичное
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/5053/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="russky-bestseller",Русский бестселлер
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/905/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="russky-detektiv",Русский детектив
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/907/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="russky-illuzion",Русский Иллюзион
-http://79.105.168.148:5055/udp/239.4.10.14:2020?zi/
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2114/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="russky-roman",Русский роман
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2076/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="serial-ultrahd",Сериал UHD
 
 #EXTINF:-1 group-title="Кино и сериалы",Советское кино
 https://strm.yandex.ru/kal/sovkino_supres/sovkino_supres0_169_720p.json/index-v1-a1.m3u8
-
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="feniks-plus-kino",Феникс+ Кино
-http://79.105.168.148:5055/udp/239.4.10.16:2020?zi/
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2039/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="khit-hd",Хит
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2438/index.m3u8
 
 #EXTINF:-1 group-title="Спортивные" tvg-id="eurosport1",Eurosport 1
 http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/228/index.m3u8
