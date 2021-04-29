@@ -472,7 +472,7 @@ http://edge04.beetv.kz/btv/SWM/Kinoserija/Kinoserija.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="kinouzhas",Киноужас
 http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2056/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="kinoxit",Кинохит
-http://edge04.beetv.kz/btv/SWM/KinoHit/KinoHit.m3u8
+
 #EXTINF:-1 group-title="Кино и сериалы",Классика кино
 https://strm.yandex.ru/kal/kinoclassic/kinoclassic0_169_720p.json/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="kinopokaz-hd2",Комедийное
@@ -535,6 +535,8 @@ https://strm.yandex.ru/kal/sovkino_supres/sovkino_supres0_169_720p.json/index-v1
 http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2039/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="khit-hd",Хит
 http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2438/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="kinopokaz-hd1",Шокирующее
+http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/9004/index.m3u8
 
 #EXTINF:-1 group-title="Спортивные" tvg-id="eurosport1",Eurosport 1
 http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/228/index.m3u8
