@@ -447,40 +447,40 @@ http://edge04.beetv.kz/btv/SWM/Dorama/Dorama_720p_3500kbps.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="evrokino",Еврокино
 http://edge04.beetv.kz/btv/SWM/Eurokino/Eurokino.m3u8
 
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="zal-01-tricolor",Зал 1
+#EXTINF:-1 group-title="Кино и сериалы",Зал 1
 http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2568/index.m3u8
 
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="zal-02-tricolor",Зал 2
+#EXTINF:-1 group-title="Кино и сериалы",Зал 2
 http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2569/index.m3u8
 
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="zal-03-tricolor", Зал 3
+#EXTINF:-1 group-title="Кино и сериалы",Зал 3
 http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2570/index.m3u8
 
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="zal-04-tricolor",Зал 4
+#EXTINF:-1 group-title="Кино и сериалы",Зал 4
 http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2571/index.m3u8
 
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="zal-05-tricolor", Зал 5
+#EXTINF:-1 group-title="Кино и сериалы",Зал 5
 http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2572/index.m3u8
 
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="zal-06-tricolor", Зал 6
+#EXTINF:-1 group-title="Кино и сериалы",Зал 6
 http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2573/index.m3u8
 
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="zal-07-tricolor",Зал 7
+#EXTINF:-1 group-title="Кино и сериалы",Зал 7
 http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2574/index.m3u8
 
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="zal-08-tricolor", Зал 8
+#EXTINF:-1 group-title="Кино и сериалы",Зал 8
 http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2575/index.m3u8
 
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="zal-09-tricolor", Зал 9
+#EXTINF:-1 group-title="Кино и сериалы",Зал 9
 http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2576/index.m3u8
 
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="zal-10-tricolor", Зал 10
+#EXTINF:-1 group-title="Кино и сериалы",Зал 10
 http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2577/index.m3u8
 
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="zal-11-tricolor",Зал 11
+#EXTINF:-1 group-title="Кино и сериалы",Зал 11
 http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2578/index.m3u8
 
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="zal-12-tricolor", Зал 12
+#EXTINF:-1 group-title="Кино и сериалы",Зал 12
 http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2579/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="illuzion-plus",Иллюзион +
