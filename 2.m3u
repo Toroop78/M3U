@@ -333,10 +333,10 @@ https://strm.yandex.ru/kal/uspehtv/uspehtv0_1511_576p.json/index-v1-a1.m3u8
 https://strm.yandex.ru/kal/ctv/ctv0_169_576p.json/index-v1-a1.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="amedia1",A1
-http://edge04.beetv.kz/btv/SWM/A1/A1_1080p_5000kbps.m3u8
+http://cdntv.online/low/9mlxywika2/109.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="amedia2",A2
-http://edge04.beetv.kz/btv/SWM/A2/A2.m3u8
+http://cdntv.online/low/9mlxywika2/498.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="amedia-hit",Amedia Hit
 http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/6010/index.m3u8
@@ -348,7 +348,7 @@ http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/229/index.m3u8
 http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/239/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="cinema-ru",Cinema
-http://edge04.beetv.kz/btv/SWM/CINEMA/CINEMA.m3u8
+http://cdntv.online/low/9mlxywika2/89.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="epik-drama",Epic Drama
 http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/1048/index.m3u8
@@ -357,10 +357,10 @@ http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/1048/index.m3u8
 http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/734/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="fox",FOX
-http://edge04.beetv.kz/btv/SWM/FOX/FOX_1080p_5000kbps.m3u8
+http://cdntv.online/low/9mlxywika2/93.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="foxlife",Fox Life
-http://edge04.beetv.kz/btv/SWM/FoxLife/FoxLife_1080p_5000kbps.m3u8
+http://cdntv.online/low/9mlxywika2/95.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="filmbox-arthouse",FilmBox ArtHouse
 http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/9150/index.m3u8
@@ -369,7 +369,7 @@ http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/9150/index.m3u8
 http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/1071/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="hollywood",Hollywood
-http://edge04.beetv.kz/btv/SWM/Hollywood/Hollywood.m3u8
+http://cdntv.online/low/9mlxywika2/503.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="paramount-channel",Paramount Channel
 http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/5063/index.m3u8
@@ -378,16 +378,16 @@ http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/5063/index.m3u8
 http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/6000/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="sony-tv",Sony Channel
-http://edge04.beetv.kz/btv/SWM/Sony/Sony.m3u8
+http://cdntv.online/low/9mlxywika2/98.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="sony-scifi",Sony Sci-Fi
 http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/110/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="sony-turbo",Sony Turbo
-http://edge04.beetv.kz/btv/SWM/SonyTurbo/SonyTurbo.m3u8
+http://cdntv.online/low/9mlxywika2/506.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="spike",Spike
-http://edge04.beetv.kz/btv/SWM/Spike/Spike.m3u8
+http://cdntv.online/low/9mlxywika2/386.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="star-cinema",Star Cinema
 
@@ -436,16 +436,16 @@ http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2436/index.m3u8
 http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/5054/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="domkino",Дом Кино
-http://edge04.beetv.kz/btv/SWM/Dom_Kino/Dom_Kino.m3u8
+http://cdntv.online/low/9mlxywika2/111.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="domkino-premium",Дом Кино Премиум HD
-http://edge04.beetv.kz/btv/SWM/Dom_kino_Prem/Dom_kino_Prem_1080p_5000kbps.m3u8
+http://cdntv.online/low/9mlxywika2/112.m3u8
 
-#EXTINF:-1 group-title="Кино и сериалы" tvg-id="dorama",Дорама HD
-http://edge04.beetv.kz/btv/SWM/Dorama/Dorama_720p_3500kbps.m3u8
+#EXTINF:-1 group-title="Кино и сериалы" tvg-id="dorama",Дорама
+http://cdntv.online/low/9mlxywika2/1027.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="evrokino",Еврокино
-http://edge04.beetv.kz/btv/SWM/Eurokino/Eurokino.m3u8
+http://cdntv.online/low/9mlxywika2/113.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы",Зал 1
 http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2568/index.m3u8
@@ -498,7 +498,7 @@ http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2441/index.m3u8
 http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2097/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="kinokomedia",Кинокомедия
-http://edge04.beetv.kz/btv/SWM/Kinokomedija/Kinokomedija_1080p_5000kbps.m3u8
+http://cdntv.online/low/9mlxywika2/119.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="kinomiks",Киномикс
 http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/509/index.m3u8
@@ -513,7 +513,7 @@ http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/224/index.m3u8
 http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/2121/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="kinosvidanie",Киносвидание
-http://edge04.beetv.kz/btv/SWM/Kinosvidanie/Kinosvidanie_1080p_5000kbps.m3u8
+http://cdntv.online/low/9mlxywika2/122.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы" tvg-id="kinosemiya",Киносемья
 http://b3407d61.rossteleccom.net/iptv/GDU2XRMFYQV38V/125/index.m3u8
